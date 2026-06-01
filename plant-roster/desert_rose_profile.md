@@ -50,10 +50,10 @@
 
 ## Dr. Veg Rules
 
-- Always:
+- Always: Prioritize fast drainage, warm conditions, and careful dry-down checks before watering; treat soft caudex or stem tissue as a possible rot warning.
   <!-- Plant-specific rule Dr. Veg should consistently follow for this individual plant. -->
 
-- Never:
+- Never: Recommend wet soil, dense regular potting soil long-term, standing water, fertilizer while stressed, or conditions under about 50°F.
   <!-- Plant-specific thing Dr. Veg should avoid recommending for this individual plant. -->
 
 ## Miscellaneous Notes

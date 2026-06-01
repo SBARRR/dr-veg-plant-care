@@ -3,49 +3,93 @@
 ## Current Snapshot
 <!-- Current state and durable care facts for this specific plant. This section should preserve important information that should not disappear when older Recent Events roll off the 30-entry limit. -->
 
-- Last updated:
+- Last updated: 2026-06-01
   <!-- Date this snapshot was last revised. -->
 
-- Overall condition:
+- Overall condition: Stressed but stable as a recent Walmart rescue; many brown/dead traps were present at purchase, traps were initially droopy, and today they look slightly perkier with no new browning noted.
   <!-- Broad current health/status of the plant. Example: stable, recovering, declining, newly rescued, stressed, dormant, unknown. -->
 
-- Watering status:
+- Watering status: Tray filled with distilled water on 2026-05-30; tray still appears about half full when pot is lifted, and media visually appears moist/wet.
   <!-- Latest watering state, including last watering, withheld watering, drainage behavior, tray status, pot weight, drying behavior, or other water-related context needed for daily advice. -->
 
-- Fertilizer status:
+- Fertilizer status: No fertilizer or plant food has been given.
   <!-- Latest fertilizer state, including last feeding, fertilizer used, form, dose/strength, or whether fertilizer is being intentionally avoided. -->
 
-- Pest control:
+- Pest control: No visible pests or pest-control treatments noted.
   <!-- Current pest-control state, including none, suspected pests, confirmed pests, last treatment, product used, or treatment cautions. -->
 
-- Last repot:
+- Last repot: Never known; still in the original Walmart/store pot.
   <!-- Most recent repot date/action. Use "unknown" if not known and "never known" if no repot has happened since acquisition. -->
 
-- Last soil change:
+- Last soil change: Never known; still in the original Walmart/store media.
   <!-- Most recent full or partial soil/media change. This may be the same date as repotting, but keep separate if only the media was refreshed or changed. -->
 
-- Last root prune:
+- Last root prune: None known; no root pruning or root disturbance has been performed since purchase.
   <!-- Most recent root pruning or major root disturbance. Use "none known" if no root pruning has happened. -->
 
-- Last prune:
+- Last prune: 2026-05-27; removed fully dead brown/black traps after purchase.
   <!-- Most recent above-ground pruning/removal, such as leaves, traps, fronds, branches, flowers, or dead material. -->
 
-- Current concern:
+- Current concern: Monitor recovery from Walmart rescue condition, especially trap perkiness, new browning, and whether healthy new growth appears.
   <!-- Main current issue, risk, or monitoring focus. If nothing is wrong, say that clearly. -->
 
-- Latest check-in notes:
+- Latest check-in notes: Initial log check-in after Walmart rescue. Plant looks about the same overall, with traps slightly perkier than the first day and no new browning observed.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events
 <!-- Rolling event log for this plant. Keep newest 30 entries only. Newest entry goes at the top. When adding entry #31, delete the oldest entry. -->
 
-### YYYY-MM-DD — [Event Type]
+### 2026-06-01 — Observation
 
-- Summary:
+- Summary: Initial log check-in after Walmart rescue; plant remains stressed but stable.
   <!-- One-line summary of what happened. -->
 
-- Details:
+- Details: Plant looks about the same overall compared with purchase condition. Traps appear slightly perkier than the first day, and no new browning has been observed. Many brown/dead traps were already present at purchase.
   <!-- Useful specifics, such as amount of water, product used, symptom observed, action taken, context, or uncertainty. -->
 
-- Outcome:
+- Outcome: Continue monitoring recovery, especially trap perkiness, new browning, and whether healthy new growth appears.
+  <!-- Result/status after the event, expected follow-up, or "TBD" if the outcome is not known yet. -->
+
+### 2026-05-30 — Watering
+
+- Summary: Filled tray with distilled water.
+  <!-- One-line summary of what happened. -->
+
+- Details: Tray was filled to the top with distilled water. As of 2026-06-01, tray still appears about half full when pot is lifted, and the media visually appears moist/wet.
+  <!-- Useful specifics, such as amount of water, product used, symptom observed, action taken, context, or uncertainty. -->
+
+- Outcome: Tray water remains available; continue using distilled water and keep media from drying out.
+  <!-- Result/status after the event, expected follow-up, or "TBD" if the outcome is not known yet. -->
+
+### 2026-05-28 — Watering
+
+- Summary: Refilled tray with distilled water after previous tray water was used up.
+  <!-- One-line summary of what happened. -->
+
+- Details: The tray water from the prior day had been fully used up by the plant. User refilled the tray about halfway with distilled water.
+  <!-- Useful specifics, such as amount of water, product used, symptom observed, action taken, context, or uncertainty. -->
+
+- Outcome: Tray water restored; continue monitoring tray level and media moisture.
+  <!-- Result/status after the event, expected follow-up, or "TBD" if the outcome is not known yet. -->
+
+### 2026-05-27 — Cleanup
+
+- Summary: Removed fully dead brown/black traps after purchase.
+  <!-- One-line summary of what happened. -->
+
+- Details: User pulled off dead traps that were fully brown or black. No root disturbance, repotting, or media change was performed.
+  <!-- Useful specifics, such as amount of water, product used, symptom observed, action taken, context, or uncertainty. -->
+
+- Outcome: Dead material removed; plant remains in original Walmart pot and original store media.
+  <!-- Result/status after the event, expected follow-up, or "TBD" if the outcome is not known yet. -->
+
+### 2026-05-27 — Watering
+
+- Summary: Top-watered and bottom-watered after purchase.
+  <!-- One-line summary of what happened. -->
+
+- Details: User watered from the top and also filled the tray about one-quarter full with distilled water after bringing the plant home from Walmart.
+  <!-- Useful specifics, such as amount of water, product used, symptom observed, action taken, context, or uncertainty. -->
+
+- Outcome: Initial post-purchase watering completed; follow-up showed tray water was fully used up by the next day.
   <!-- Result/status after the event, expected follow-up, or "TBD" if the outcome is not known yet. -->

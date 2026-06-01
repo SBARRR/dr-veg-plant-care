@@ -50,10 +50,10 @@
 
 ## Dr. Veg Rules
 
-- Always:
+- Always: Check drainage/moisture before recommending water, protect from standing water, and treat this as a slow-growing cycad rather than a true palm.
   <!-- Plant-specific rule Dr. Veg should consistently follow for this individual plant. -->
 
-- Never:
+- Never: Recommend sitting in water, heavy root pruning/bare-rooting, removing green fronds for looks, fertilizing while stressed, or spraying oils in hot direct sun/extreme heat.
   <!-- Plant-specific thing Dr. Veg should avoid recommending for this individual plant. -->
 
 ## Miscellaneous Notes

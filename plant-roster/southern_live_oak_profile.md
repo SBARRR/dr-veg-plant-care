@@ -50,13 +50,15 @@
 
 ## Dr. Veg Rules
 
-- Always:
+- Always: Prioritize recovery and long-term bonsai development; check soil moisture and drainage before watering; avoid major styling/root work unless the tree is vigorous and actively growing.
   <!-- Plant-specific rule Dr. Veg should consistently follow for this individual plant. -->
 
-- Never:
+- Never: Recommend aggressive pruning, defoliation, root pruning, repotting, heavy fertilizer, or bonsai styling while the tree is stressed, recently transplanted, or not showing strong recovery.
   <!-- Plant-specific thing Dr. Veg should avoid recommending for this individual plant. -->
 
 ## Miscellaneous Notes
 
 - Was in growing in the ground up until Tuesday, May 26, 2026. I took it out the ground and moved it into the pot mentioned above and placed it inside my backyard patio. Was not a clean job. Most likely some root damage.
+
+- Long-term goal: Train this Southern Live Oak as a bonsai over time. Prioritize recovery, trunk/root health, and gradual development before any aggressive styling or root reduction.
   <!-- Stable notes about this specific plant that do not fit elsewhere. Do not use this for daily care events. -->

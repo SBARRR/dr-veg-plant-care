@@ -36,16 +36,16 @@
 - Light situation: Estimated 4-6 hours afternoon to late day sun filtered by patio screen. Little to no morning sun, indirect light the rest of the day
   <!-- Approximate normal light the plant receives in this location, including rough hours if known and type of light. Example: 2–3 hours direct afternoon sun, bright indirect light most of the day, mostly shade, grow light 12 hours/day. -->
 
-- Pot / container: Size not exactly known, standard ~ 8 in pot it came in
+- Pot / container: Unglazed ceramic bonsai training pot, approx. 8.2 in L x 6.7 in W x 2.3 in H.
   <!-- Current pot or container type, size if known, and material if relevant. -->
 
-- Drainage: Yes has drainage holes. No drip tray
+- Drainage: Pot has drainage holes; keep out of standing water.
   <!-- Whether the container has drainage holes and any drainage-related notes. -->
 
-- Soil / media: Soil that it came in. Looks like regular dirt
+- Soil / media: New dry succulent mix after 2026-06-01 repot. Exact mix composition unknown.
   <!-- Current growing material or mix composition, such as nursery soil, gritty bonsai mix, succulent mix, sphagnum, peat/perlite, bark, etc. -->
 
-- Top dressing / mulch: None
+- Top dressing / mulch: No separate top dressing known; surface shows visible gritty mix and bark-like pieces from the new media.
   <!-- Any surface material on top of the soil, such as bark, moss, gravel, mulch, or none. -->
 
 ## Dr. Veg Rules
@@ -58,5 +58,7 @@
 
 ## Miscellaneous Notes
 
--
+- Plant marker found deep in the original pot said “Bombay Citrine”; likely cultivar/marketing label for this Desert Rose. Exact cultivar identity is not independently confirmed. Continue treating care needs as Adenium obesum.
+
+- Repotted into a shallow bonsai pot on 2026-06-01. Some base/caudex tissue that was previously below soil is now exposed above the soil line.
   <!-- Stable notes about this specific plant that do not fit elsewhere. Do not use this for daily care events. -->

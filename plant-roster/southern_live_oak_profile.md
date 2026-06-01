@@ -5,7 +5,7 @@
 - Common name: Southern Live Oak
   <!-- The plain-English/common name used for this plant. -->
 
-- Scientific name: Quercus virginiana
+- Scientific name: Quercus virginiana (suspected; not confirmed)
   <!-- Botanical name, if known. Use "unknown" if not confirmed. -->
 
 - Plant type: Tree

@@ -6,10 +6,10 @@
 - Last updated: 2026-06-01
   <!-- Date this snapshot was last revised. -->
 
-- Overall condition: Stressed / possibly declining after recent ground-to-pot transplant; some leaf browning and slight drooping of new growth/twig tips noted.
+- Overall condition: Stressed but showing mild short-term stabilization after recent ground-to-pot transplant; some leaf browning was previously noted, but formerly very droopy new growth/twig tips are now less droopy and no longer look as soft.
   <!-- Broad current health/status of the plant. Example: stable, recovering, declining, newly rescued, stressed, dormant, unknown. -->
 
-- Watering status: Last watered on 2026-05-31 with roughly 0.5 gallon or slightly more, stopping when water drained from the bottom; prior watering was a full post-transplant soak on 2026-05-26 that took about 2 gallons before drainage appeared.
+- Watering status: Last watered on 2026-05-31 with roughly 0.5 gallon or slightly more, stopping when water drained from the bottom. On 2026-06-01, soil still felt moist about 2 inches down, so no additional watering was indicated.
   <!-- Latest watering state, including last watering, withheld watering, drainage behavior, tray status, pot weight, drying behavior, or other water-related context needed for daily advice. -->
 
 - Fertilizer status: No recent fertilizer; last fertilized roughly over a year ago while in-ground using slow-release bonsai pellets sprinkled on the soil surface.
@@ -30,14 +30,25 @@
 - Last prune: None; no above-ground pruning has been performed during the tree’s life.
   <!-- Most recent above-ground pruning/removal, such as leaves, traps, fronds, branches, flowers, or dead material. -->
 
-- Current concern: Monitor for transplant stress after recent ground-to-pot move, especially leaf browning, drooping new growth, and whether recovery stabilizes.
+- Current concern: Monitor transplant stress recovery, especially whether leaf browning spreads, whether new growth/twig tips continue firming up, and whether soil dries steadily without becoming soggy or bone-dry.
   <!-- Main current issue, risk, or monitoring focus. If nothing is wrong, say that clearly. -->
 
-- Latest check-in notes: Initial log check-in after recent ground-to-pot transplant. New leaf browning has been noticed, and user is unsure whether slight drooping of new growth/twig tips was present before transplant.
+- Latest check-in notes: User checked soil about 2 inches down and it still felt moist. Previously very droopy new growth/twig tips are now less droopy, with only slight curvature remaining, and no longer look as soft or limp.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events
 <!-- Rolling event log for this plant. Keep newest 30 entries only. Newest entry goes at the top. When adding entry #31, delete the oldest entry. -->
+
+### 2026-06-01 — Moisture Check / Recovery Observation
+
+- Summary: Soil still moist about 2 inches down; droopy new growth/twig tips appear somewhat improved.
+  <!-- One-line summary of what happened. -->
+
+- Details: User checked the soil by finger about 2 inches down and found it still moist after the 2026-05-31 watering. User also noted that tips previously described as very droopy are no longer as droopy; slight curvature remains, but the tips do not look as soft or limp.
+  <!-- Useful specifics, such as amount of water, product used, symptom observed, action taken, context, or uncertainty. -->
+
+- Outcome: Skip watering for now while soil remains moist. Continue monitoring transplant recovery, especially leaf browning, tip firmness/posture, and soil dry-down.
+  <!-- Result/status after the event, expected follow-up, or "TBD" if the outcome is not known yet. -->
 
 ### 2026-06-01 — Observation
 

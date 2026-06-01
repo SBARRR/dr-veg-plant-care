@@ -6,10 +6,10 @@
 - Last updated: 2026-06-01
   <!-- Date this snapshot was last revised. -->
 
-- Overall condition: Appears generally stable/good by user observation, though user is unsure of Desert Rose stress signs; small new growth points are present but have not noticeably grown since purchase, and one small growth point fell off.
+- Overall condition: High-stress recovery after major repot/root reduction on 2026-06-01. Caudex/trunk was reported firm before repotting, and plant is now in dry succulent mix in a shallow bonsai pot. Monitor closely for rot, dehydration, leaf drop, and whether new growth survives.
   <!-- Broad current health/status of the plant. Example: stable, recovering, declining, newly rescued, stressed, dormant, unknown. -->
 
-- Watering status: Plant was extremely wet at purchase, so watering was withheld until 2026-05-31 when soil felt less wet and more dryish; watered lightly but enough for drainage to come out the bottom.
+- Watering status: Last watered on 2026-05-31 in the original pot. Repotted on 2026-06-01 into completely dry succulent mix after major root reduction. Do not water immediately after repot/root pruning; keep dry for roughly 7–10 days while cut roots callus, unless condition changes significantly.
   <!-- Latest watering state, including last watering, withheld watering, drainage behavior, tray status, pot weight, drying behavior, or other water-related context needed for daily advice. -->
 
 - Fertilizer status: No fertilizer has been given since purchase.
@@ -18,26 +18,37 @@
 - Pest control: Possible pest concern at purchase due to white/cloudy splotches on leaves; sprayed thoroughly with neem oil on 2026-05-27 as a precaution.
   <!-- Current pest-control state, including none, suspected pests, confirmed pests, last treatment, product used, or treatment cautions. -->
 
-- Last repot: Never known; still in the original Walmart/store pot.
+- Last repot: 2026-06-01; moved from original Walmart/store pot into a shallow unglazed ceramic bonsai training pot, approx. 8.2 in L x 6.7 in W x 2.3 in H.
   <!-- Most recent repot date/action. Use "unknown" if not known and "never known" if no repot has happened since acquisition. -->
 
-- Last soil change: Never known; still in the original Walmart/store soil.
+- Last soil change: 2026-06-01; original store soil was replaced with new dry succulent mix. Exact mix composition unknown.
   <!-- Most recent full or partial soil/media change. This may be the same date as repotting, but keep separate if only the media was refreshed or changed. -->
 
-- Last root prune: None known; no root pruning or root disturbance has been performed by the user since purchase.
+- Last root prune: 2026-06-01; major root reduction performed to fit shallow bonsai pot, estimated by user at around 80% or more of roots removed. This is a major stress event and raises risk of dehydration and rot if watered too soon.
   <!-- Most recent root pruning or major root disturbance. Use "none known" if no root pruning has happened. -->
 
 - Last prune: None; no intentional pruning or dead-material removal has been performed. One small growth point fell off on its own when the pot was moved for inspection.
   <!-- Most recent above-ground pruning/removal, such as leaves, traps, fronds, branches, flowers, or dead material. -->
 
-- Current concern: Monitor recovery after purchase, especially soil dry-down, possible leaf spotting/pest signs, and whether new growth resumes or additional growth points drop.
+- Current concern: Recovery after major root pruning and shallow-pot repot. Monitor caudex/stem firmness, exposed base tissue, leaf yellowing/drop, stalled or lost new growth, black/brown spreading tissue, and watering timing after root wounds callus.
   <!-- Main current issue, risk, or monitoring focus. If nothing is wrong, say that clearly. -->
 
-- Latest check-in notes: Initial log check-in after purchase. Plant looks generally good overall, but user is monitoring stalled new growth, one small growth point that fell off, prior wet soil, and white/cloudy leaf splotches.
+- Latest check-in notes: User repotted into shallow bonsai pot with dry succulent mix and removed a large amount of roots to make the plant fit. Some base/caudex tissue that was previously below soil is now exposed above soil. Photo shows plant seated in shallow bonsai pot with exposed lower caudex/base; no clear graft union identified from photo.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events
 <!-- Rolling event log for this plant. Keep newest 30 entries only. Newest entry goes at the top. When adding entry #31, delete the oldest entry. -->
+
+### 2026-06-01 — Repot / Major Root Prune
+
+- Summary: Repotted Desert Rose into shallow bonsai pot with major root reduction.
+  <!-- One-line summary of what happened. -->
+
+- Details: User moved the plant from the original Walmart/store pot into an unglazed ceramic bonsai training pot approx. 8.2 in L x 6.7 in W x 2.3 in H. The plant was too large/deep for the shallow pot, so user removed a large amount of roots, estimated around 80% or more. New succulent mix was completely dry. Some base/caudex tissue that was previously below soil is now exposed above the soil line. User had previously checked the visible trunk/caudex and it felt firm.
+  <!-- Useful specifics, such as amount of water, product used, symptom observed, action taken, context, or uncertainty. -->
+
+- Outcome: Treat as high-stress recovery. Keep warm, dry, and protected from rain; avoid watering for roughly 7–10 days while root wounds callus. Avoid fertilizer, neem/oil sprays, additional root work, or harsh direct sun during early recovery. Monitor for soft/mushy caudex or stem, spreading black/brown tissue, severe shriveling, leaf drop, and whether new growth survives.
+  <!-- Result/status after the event, expected follow-up, or "TBD" if the outcome is not known yet. -->
 
 ### 2026-06-01 — Observation
 

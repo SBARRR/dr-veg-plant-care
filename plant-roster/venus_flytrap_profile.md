@@ -50,10 +50,10 @@
 
 ## Dr. Veg Rules
 
-- Always:
+- Always: Keep the media wet with distilled, rain, or RO water; confirm tray water and light before changing care; treat this as a bog carnivorous plant, not a normal houseplant.
   <!-- Plant-specific rule Dr. Veg should consistently follow for this individual plant. -->
 
-- Never:
+- Never: Recommend tap water unless confirmed low-TDS, fertilizer, regular potting soil, compost, meat/human food, unnecessary trap triggering, or letting the media dry out.
   <!-- Plant-specific thing Dr. Veg should avoid recommending for this individual plant. -->
 
 ## Miscellaneous Notes

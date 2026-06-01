@@ -24,28 +24,28 @@
 
 ## Location & Setup
 
-- Location: unknown
+- Location: Backyard Porch
   <!-- Physical place where the plant normally lives. Example: front porch, back porch, kitchen window, patio table, garage shelf. -->
 
-- Environment details: unknown
+- Environment details: Sits on a 2 tier rack along the wall of a screened in patio. Fence around the backyard, so I believe its mostly protected from wind. Water gets in when it rains, but im not sure how much as Ive never checked.
   <!-- Non-light environmental factors around that location. Example: exposed to rain, protected from rain, windy, enclosed porch, low airflow, near AC vent, high heat, sheltered patio. -->
 
-- Indoor or outdoor: unknown
+- Indoor or outdoor: Outdoor
   <!-- Whether the plant is currently kept indoors, outdoors, or in a semi-protected space like an enclosed porch. -->
 
-- Light situation: unknown
+- Light situation: Estimated 4-6 hours afternoon to late day sun filtered by patio screen. Little to no morning sun, indirect light the rest of the day
   <!-- Approximate normal light the plant receives in this location, including rough hours if known and type of light. Example: 2–3 hours direct afternoon sun, bright indirect light most of the day, mostly shade, grow light 12 hours/day. -->
 
-- Pot / container: original store pot
+- Pot / container: Original store pot. Tiny, maybe about 3 - 4 in 
   <!-- Current pot or container type, size if known, and material if relevant. -->
 
-- Drainage: tray watering setup
+- Drainage: Has drainage holes, but sits in an old cleaned out ash tray which functions as a drip tray
   <!-- Whether the container has drainage holes and any drainage-related notes. -->
 
-- Soil / media: unknown carnivorous plant media
+- Soil / media: Unknown, still in store bought media. Looks like its probably for carnivorous plants though at least
   <!-- Current growing material or mix composition, such as nursery soil, gritty bonsai mix, succulent mix, sphagnum, peat/perlite, bark, etc. -->
 
-- Top dressing / mulch: unknown
+- Top dressing / mulch: none
   <!-- Any surface material on top of the soil, such as bark, moss, gravel, mulch, or none. -->
 
 ## Dr. Veg Rules

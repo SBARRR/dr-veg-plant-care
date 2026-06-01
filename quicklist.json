@@ -1,0 +1,28 @@
+{
+  "plants": [
+    {
+      "plant": "Sago palm",
+      "profile": "Plant Roster/sago_palm_profile.md",
+      "care": "Plant Care Info/sago_palm_care.md",
+      "event_log": "Plant Event Logs/sago_palm_log.md"
+    },
+    {
+      "plant": "Desert rose",
+      "profile": "Plant Roster/desert_rose_profile.md",
+      "care": "Plant Care Info/desert_rose_care.md",
+      "event_log": "Plant Event Logs/desert_rose_log.md"
+    },
+    {
+      "plant": "Venus flytrap",
+      "profile": "Plant Roster/venus_flytrap_profile.md",
+      "care": "Plant Care Info/venus_flytrap_care.md",
+      "event_log": "Plant Event Logs/venus_flytrap_log.md"
+    },
+    {
+      "plant": "Oak tree",
+      "profile": "Plant Roster/oak_tree_profile.md",
+      "care": "Plant Care Info/oak_tree_care.md",
+      "event_log": "Plant Event Logs/oak_tree_log.md"
+    }
+  ]
+}

@@ -6,7 +6,7 @@
 - Last updated: 2026-06-01
   <!-- Date this snapshot was last revised. -->
 
-- Overall condition: Stable overall; two yellow fronds noted, but new growth appears healthy green.
+- Overall condition: Stable overall; at least two older fronds are yellowing with scattered tan/brown spots visible in user photo, while newer growth is reportedly healthy green.
   <!-- Broad current health/status of the plant. Example: stable, recovering, declining, newly rescued, stressed, dormant, unknown. -->
 
 - Watering status: Last watered on 2026-05-31; amount unknown, but watered thoroughly until drainage came out the bottom and filled the drip tray.
@@ -15,7 +15,7 @@
 - Fertilizer status: No recent fertilizer; last fertilizing was roughly over a year ago, product and dose unknown.
   <!-- Latest fertilizer state, including last feeding, fertilizer used, form, dose/strength, or whether fertilizer is being intentionally avoided. -->
 
-- Pest control: No known current pest issues or pest-control treatments.
+- Pest control: No confirmed current pest issue or pest-control treatments. Photo shows spotting on yellowing fronds, but no obvious pest is confirmed from the image; user checked undersides and did not see white crusty specks or brown/gray bumps.
   <!-- Current pest-control state, including none, suspected pests, confirmed pests, last treatment, product used, or treatment cautions. -->
 
 - Last repot: Repotted once from the original Walmart container into the current bonsai pot, likely a few years ago around initial acquisition.
@@ -30,14 +30,25 @@
 - Last prune: Last frond removal was around fall 2025; exact date and number of fronds removed unknown.
   <!-- Most recent above-ground pruning/removal, such as leaves, traps, fronds, branches, flowers, or dead material. -->
 
-- Current concern: Monitor yellow fronds and confirm new growth remains healthy green.
+- Current concern: Monitor yellowing/spotted fronds and confirm new green growth remains unaffected.
   <!-- Main current issue, risk, or monitoring focus. If nothing is wrong, say that clearly. -->
 
-- Latest check-in notes: Plant looks fine overall; no additional check-in notes beyond monitoring yellow fronds and healthy green new growth.
+- Latest check-in notes: User provided photo of yellow sago fronds with scattered tan/brown spots. User checked the undersides and did not see white crusty specks or brown/gray bumps. Fronds are yellowing but not fully brown/dead, so pruning is not recommended yet unless they become mostly brown/dead, spots spread significantly, or pests are confirmed.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events
 <!-- Rolling event log for this plant. Keep newest 30 entries only. Newest entry goes at the top. When adding entry #31, delete the oldest entry. -->
+
+### 2026-06-01 — Photo Observation
+
+- Summary: Yellowing sago fronds with scattered tan/brown spots reviewed from user photo.
+  <!-- One-line summary of what happened. -->
+
+- Details: User shared a close-up photo of the two yellowing fronds. Fronds show scattered tan/brown necrotic or scarred-looking spots. No obvious pest is confirmed from the photo alone. User checked the undersides and did not see white crusty specks or brown/gray bumps. Newer growth is reportedly healthy green.
+  <!-- Useful specifics, such as amount of water, product used, symptom observed, action taken, context, or uncertainty. -->
+
+- Outcome: Do not prune yet unless fronds become mostly brown/dead, spots spread significantly, or pests are confirmed. Continue monitoring whether spots spread to healthy green growth.
+  <!-- Result/status after the event, expected follow-up, or "TBD" if the outcome is not known yet. -->
 
 ### 2026-06-01 — Observation
 

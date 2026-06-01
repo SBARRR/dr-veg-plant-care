@@ -16,7 +16,7 @@
 
 ## Acquisition
 
-- Date acquired: unknown
+- Date acquired: Wednesday, May 27, 2026
   <!-- Date the user got this plant. Approximate dates are okay. -->
 
 - Source: Walmart

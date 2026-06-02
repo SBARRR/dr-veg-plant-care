@@ -3,13 +3,13 @@
 ## Current Snapshot
 <!-- Current state and durable care facts for this specific plant. This section should preserve important information that should not disappear when older Recent Events roll off the 30-entry limit. -->
 
-- Last updated: 2026-06-01
+- Last updated: 2026-06-02
   <!-- Date this snapshot was last revised. -->
 
 - Overall condition: Stable overall; at least two older fronds are yellowing with scattered tan/brown spots visible in user photo, while newer growth is reportedly healthy green.
   <!-- Broad current health/status of the plant. Example: stable, recovering, declining, newly rescued, stressed, dormant, unknown. -->
 
-- Watering status: Last watered on 2026-05-31; amount unknown, but watered thoroughly until drainage came out the bottom and filled the drip tray.
+- Watering status: Last watered on 2026-05-31; amount unknown, but watered thoroughly until drainage came out the bottom and filled the drip tray. On 2026-06-02, soil still felt moist, so no watering was done.
   <!-- Latest watering state, including last watering, withheld watering, drainage behavior, tray status, pot weight, drying behavior, or other water-related context needed for daily advice. -->
 
 - Fertilizer status: No recent fertilizer; last fertilizing was roughly over a year ago, product and dose unknown.
@@ -33,11 +33,22 @@
 - Current concern: Monitor yellowing/spotted fronds and confirm new green growth remains unaffected.
   <!-- Main current issue, risk, or monitoring focus. If nothing is wrong, say that clearly. -->
 
-- Latest check-in notes: User provided photo of yellow sago fronds with scattered tan/brown spots. User checked the undersides and did not see white crusty specks or brown/gray bumps. Fronds are yellowing but not fully brown/dead, so pruning is not recommended yet unless they become mostly brown/dead, spots spread significantly, or pests are confirmed.
+- Latest check-in notes: Soil still felt moist on 2026-06-02. User gently tug-checked the two yellowing fronds compared with green fronds; yellow fronds felt slightly looser, but not detached. Leave them unless they become mostly brown/dead, pull away easily, spots spread significantly, or pests are confirmed.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events
 <!-- Rolling event log for this plant. Keep newest 30 entries only. Newest entry goes at the top. When adding entry #31, delete the oldest entry. -->
+
+### 2026-06-02 — Moisture / Frond Check
+
+- Summary: Soil still moist; yellow fronds slightly looser than green fronds but not ready to remove.
+  <!-- One-line summary of what happened. -->
+
+- Details: User checked soil moisture and it still felt moist. User gently tug-checked the two yellowing fronds compared with green fronds; yellow fronds felt slightly looser, but not detached.
+  <!-- Useful specifics, such as amount of water, product used, symptom observed, action taken, context, or uncertainty. -->
+
+- Outcome: No watering today. Leave yellow fronds unless they become mostly brown/dead or pull away with little resistance.
+  <!-- Result/status after the event, expected follow-up, or "TBD" if the outcome is not known yet. -->
 
 ### 2026-06-01 — Photo Observation
 

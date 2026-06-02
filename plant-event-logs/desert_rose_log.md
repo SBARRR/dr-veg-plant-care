@@ -3,10 +3,10 @@
 ## Current Snapshot
 <!-- Current state and durable care facts for this specific plant. This section should preserve important information that should not disappear when older Recent Events roll off the 30-entry limit. -->
 
-- Last updated: 2026-06-01
+- Last updated: 2026-06-02
   <!-- Date this snapshot was last revised. -->
 
-- Overall condition: High-stress recovery after major repot/root reduction on 2026-06-01. Caudex/trunk was reported firm before repotting, and plant is now in dry succulent mix in a shallow bonsai pot. Monitor closely for rot, dehydration, leaf drop, and whether new growth survives.
+- Overall condition: High-stress recovery after major repot/root reduction on 2026-06-01. Visually stable as of 2026-06-02 with no leaf yellowing or drooping reported. Caudex/trunk was reported firm before repotting, upper green tissue remains firm, and plant is now in dry succulent mix in a shallow bonsai pot. Monitor closely for rot, dehydration, leaf drop, and whether new growth survives.
   <!-- Broad current health/status of the plant. Example: stable, recovering, declining, newly rescued, stressed, dormant, unknown. -->
 
 - Watering status: Last watered on 2026-05-31 in the original pot. Repotted on 2026-06-01 into completely dry succulent mix after major root reduction. Do not water immediately after repot/root pruning; keep dry for roughly 7–10 days while cut roots callus, unless condition changes significantly.
@@ -30,14 +30,25 @@
 - Last prune: None; no intentional pruning or dead-material removal has been performed. One small growth point fell off on its own when the pot was moved for inspection.
   <!-- Most recent above-ground pruning/removal, such as leaves, traps, fronds, branches, flowers, or dead material. -->
 
-- Current concern: Recovery after major root pruning and shallow-pot repot. Monitor caudex/stem firmness, exposed base tissue, leaf yellowing/drop, stalled or lost new growth, black/brown spreading tissue, and watering timing after root wounds callus.
+- Current concern: Recovery after major root pruning and shallow-pot repot. Monitor caudex/stem firmness, exposed base tissue, lower yellowish/previously buried tissue with slightly more give, old root-removal scar/hole, leaf yellowing/drop, stalled or lost new growth, black/brown spreading tissue, and watering timing after root wounds callus.
   <!-- Main current issue, risk, or monitoring focus. If nothing is wrong, say that clearly. -->
 
-- Latest check-in notes: User repotted into shallow bonsai pot with dry succulent mix and removed a large amount of roots to make the plant fit. Some base/caudex tissue that was previously below soil is now exposed above soil. Photo shows plant seated in shallow bonsai pot with exposed lower caudex/base; no clear graft union identified from photo.
+- Latest check-in notes: On 2026-06-02, user reported leaves were not yellowing or drooping and plant looked about the same. Upper green caudex/stem remained firm. Lower yellowish/previously buried tissue had slightly more give, but not mushy. Photo showed a noticeable scar/hole where an old root was removed; user later checked that the hole/scar felt the same as the surrounding tissue, with no wetness, foul smell, or collapse reported.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events
 <!-- Rolling event log for this plant. Keep newest 30 entries only. Newest entry goes at the top. When adding entry #31, delete the oldest entry. -->
+
+### 2026-06-02 — Post-Repot Caudex / Wound Check
+
+- Summary: Desert rose visually stable after major root prune; lower caudex has slightly more give and an old root-removal scar/hole is visible.
+  <!-- One-line summary of what happened. -->
+
+- Details: User reports leaves are not yellowing or drooping and plant looks about the same. Green upper caudex/stem remains firm. Lower yellowish/previously buried tissue has slightly more give, but not described as mushy. Photo shows a noticeable scar/hole where an old root was removed; follow-up check found the hole/scar feels similar in firmness to surrounding tissue, with no wetness, foul smell, or collapse reported.
+  <!-- Useful specifics, such as amount of water, product used, symptom observed, action taken, context, or uncertainty. -->
+
+- Outcome: Continue keeping plant warm, dry, and protected from rain. Do not water, fertilize, spray, cover the wound, or disturb roots. Monitor scar/hole for wetness, slime, foul smell, spreading black/brown tissue, or collapse.
+  <!-- Result/status after the event, expected follow-up, or "TBD" if the outcome is not known yet. -->
 
 ### 2026-06-01 — Repot / Major Root Prune
 

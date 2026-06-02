@@ -3,13 +3,13 @@
 ## Current Snapshot
 <!-- Current state and durable care facts for this specific plant. This section should preserve important information that should not disappear when older Recent Events roll off the 30-entry limit. -->
 
-- Last updated: 2026-06-01
+- Last updated: 2026-06-02
   <!-- Date this snapshot was last revised. -->
 
-- Overall condition: Stressed but stable as a recent Walmart rescue; plant looks mostly the same, has not started drooping again, and no obvious new brown or black tissue was seen. Some yellowing was noticed around parts of the traps, especially near trap mouths, but user is unsure whether this was already present at purchase.
+- Overall condition: Stressed but stable as a recent Walmart rescue; no new browning or yellowing seen on 2026-06-02, and coloring looks about the same as the previous day.
   <!-- Broad current health/status of the plant. Example: stable, recovering, declining, newly rescued, stressed, dormant, unknown. -->
 
-- Watering status: Tray was nearly empty on 2026-06-01, with only a very shallow pool remaining, and user refilled the tray with distilled water. Media should continue being kept wet with distilled, rain, or RO water.
+- Watering status: Tray still contained some distilled water on 2026-06-02 and media still appeared wet. Media should continue being kept wet with distilled, rain, or RO water.
   <!-- Latest watering state, including last watering, withheld watering, drainage behavior, tray status, pot weight, drying behavior, or other water-related context needed for daily advice. -->
 
 - Fertilizer status: No fertilizer or plant food has been given.
@@ -27,17 +27,28 @@
 - Last root prune: None known; no root pruning or root disturbance has been performed since purchase.
   <!-- Most recent root pruning or major root disturbance. Use "none known" if no root pruning has happened. -->
 
-- Last prune: 2026-05-27; removed fully dead brown/black traps after purchase.
+- Last prune: 2026-05-27; removed fully dead brown/black traps after purchase. On 2026-06-02, user planned to trim only the brown/black dead trap-head/tip from a partly green leaf, leaving the green lower tissue attached.
   <!-- Most recent above-ground pruning/removal, such as leaves, traps, fronds, branches, flowers, or dead material. -->
 
-- Current concern: Monitor recovery from Walmart rescue condition, especially new browning/blackening, renewed drooping, yellowing around trap mouths, tray dry-down speed, and whether healthy firm green growth appears.
+- Current concern: Monitor recovery from Walmart rescue condition, especially new browning/blackening, renewed drooping, yellowing around trap mouths, tray dry-down speed, green surface film on media, and whether healthy firm green growth appears.
   <!-- Main current issue, risk, or monitoring focus. If nothing is wrong, say that clearly. -->
 
-- Latest check-in notes: User checked tray water and found it almost gone, though a small shallow pool remained. Tray was refilled with distilled water. Plant appears mostly the same, has not begun drooping again, and no obvious new brown or blackening was seen. Some yellowing was noticed around trap mouths, but it is unknown whether that was already present at purchase.
+- Latest check-in notes: User reports no new browning or yellowing and coloring looks about the same as the previous day. Media still appears wet, tray still has some distilled water, and no foul/rotten smell is present. Photo shows green film on parts of the media, likely algae/cyanobacteria from wet media and light. One partially browned trap/head has green lower tissue; trim only fully dead brown/black tissue if desired and leave green tissue attached.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events
 <!-- Rolling event log for this plant. Keep newest 30 entries only. Newest entry goes at the top. When adding entry #31, delete the oldest entry. -->
+
+### 2026-06-02 — Photo / Moisture Observation
+
+- Summary: Plant appears stable; media wet with some green surface growth visible.
+  <!-- One-line summary of what happened. -->
+
+- Details: User reports no new browning or yellowing and coloring looks about the same as yesterday. Media still appears wet, tray still contains some distilled water, and no foul/rotten smell is present. Photo shows green film on parts of the media, likely algae/cyanobacteria from wet media and light. A partially browned trap/head has green lower tissue still attached.
+  <!-- Useful specifics, such as amount of water, product used, symptom observed, action taken, context, or uncertainty. -->
+
+- Outcome: Keep tray water shallow with distilled/rain/RO water. Trim only fully dead brown/black tip/head tissue if desired, leaving green tissue attached. Do not repot, feed, fertilize, or scrape media aggressively.
+  <!-- Result/status after the event, expected follow-up, or "TBD" if the outcome is not known yet. -->
 
 ### 2026-06-01 — Watering / Observation
 

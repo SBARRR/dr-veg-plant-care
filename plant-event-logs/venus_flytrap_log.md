@@ -3,13 +3,13 @@
 ## Current Snapshot
 <!-- Current state and durable care facts for this specific plant. This section should preserve important information that should not disappear when older Recent Events roll off the 30-entry limit. -->
 
-- Last updated: 2026-06-02
+- Last updated: 2026-06-03
   <!-- Date this snapshot was last revised. -->
 
 - Overall condition: Stressed but stable as a recent Walmart rescue; no new browning or yellowing seen on 2026-06-02, and coloring looks about the same as the previous day.
   <!-- Broad current health/status of the plant. Example: stable, recovering, declining, newly rescued, stressed, dormant, unknown. -->
 
-- Watering status: Tray still contained some distilled water on 2026-06-02 and media still appeared wet. Media should continue being kept wet with distilled, rain, or RO water.
+- Watering status: Tray was empty on 2026-06-03, but media still appeared wet. User refilled the tray with the same pure water to about 0.5 inch. Media should continue being kept wet with distilled, rain, or RO water.
   <!-- Latest watering state, including last watering, withheld watering, drainage behavior, tray status, pot weight, drying behavior, or other water-related context needed for daily advice. -->
 
 - Fertilizer status: No fertilizer or plant food has been given.
@@ -27,17 +27,28 @@
 - Last root prune: None known; no root pruning or root disturbance has been performed since purchase.
   <!-- Most recent root pruning or major root disturbance. Use "none known" if no root pruning has happened. -->
 
-- Last prune: 2026-05-27; removed fully dead brown/black traps after purchase. On 2026-06-02, user planned to trim only the brown/black dead trap-head/tip from a partly green leaf, leaving the green lower tissue attached.
+- Last prune: 2026-06-03; user removed the fully dead brown trap mouth/tip from a partially green leaf, leaving the green lower stem/leaf tissue attached.
   <!-- Most recent above-ground pruning/removal, such as leaves, traps, fronds, branches, flowers, or dead material. -->
 
 - Current concern: Monitor recovery from Walmart rescue condition, especially new browning/blackening, renewed drooping, yellowing around trap mouths, tray dry-down speed, green surface film on media, and whether healthy firm green growth appears.
   <!-- Main current issue, risk, or monitoring focus. If nothing is wrong, say that clearly. -->
 
-- Latest check-in notes: User reports no new browning or yellowing and coloring looks about the same as the previous day. Media still appears wet, tray still has some distilled water, and no foul/rotten smell is present. Photo shows green film on parts of the media, likely algae/cyanobacteria from wet media and light. One partially browned trap/head has green lower tissue; trim only fully dead brown/black tissue if desired and leave green tissue attached.
+- Latest check-in notes: On 2026-06-03, user reported the tray was empty but media still appeared wet, then refilled it with the same pure water to about 0.5 inch. User also completed the previously planned trim: the dead brown trap mouth/tip was removed, leaving only the green lower stem/leaf tissue attached. Continue keeping media wet with distilled/rain/RO water and avoid trimming green tissue.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events
 <!-- Rolling event log for this plant. Keep newest 30 entries only. Newest entry goes at the top. When adding entry #31, delete the oldest entry. -->
+
+### 2026-06-03 — Tray Refill / Dead Trap Trim
+
+- Summary: Tray was empty and refilled; dead trap mouth/tip was removed while green tissue was left attached.
+  <!-- One-line summary of what happened. -->
+
+- Details: User found the Venus Flytrap tray empty, but the media still appeared wet. User refilled the tray with the same pure water to about 0.5 inch. User also completed the trim discussed previously: the dead brown trap mouth/tip was removed, leaving the green lower stem/leaf tissue attached.
+  <!-- Useful specifics, such as amount of water, product used, symptom observed, action taken, context, or uncertainty. -->
+
+- Outcome: Continue tray watering with distilled/rain/RO water and keep media wet. Do not trim green tissue, fertilize, feed, repot, or scrape the media.
+  <!-- Result/status after the event, expected follow-up, or "TBD" if the outcome is not known yet. -->
 
 ### 2026-06-02 — Photo / Moisture Observation
 

@@ -4,25 +4,29 @@
       "plant": "Sago palm",
       "profile": "plant-roster/sago_palm_profile.md",
       "care": "plant-care-info/sago_palm_care.md",
-      "event_log": "plant-event-logs/sago_palm_log.md"
+      "event_log": "plant-event-logs/sago_palm_log.md",
+      "daily_checkin": "dr-veg-daily-checkin/sago_palm_checkin.md"
     },
     {
       "plant": "Desert rose",
       "profile": "plant-roster/desert_rose_profile.md",
       "care": "plant-care-info/desert_rose_care.md",
-      "event_log": "plant-event-logs/desert_rose_log.md"
+      "event_log": "plant-event-logs/desert_rose_log.md",
+      "daily_checkin": "dr-veg-daily-checkin/desert_rose_checkin.md"
     },
     {
       "plant": "Venus flytrap",
       "profile": "plant-roster/venus_flytrap_profile.md",
       "care": "plant-care-info/venus_flytrap_care.md",
-      "event_log": "plant-event-logs/venus_flytrap_log.md"
+      "event_log": "plant-event-logs/venus_flytrap_log.md",
+      "daily_checkin": "dr-veg-daily-checkin/venus_flytrap_checkin.md"
     },
     {
       "plant": "Southern live oak",
       "profile": "plant-roster/southern_live_oak_profile.md",
       "care": "plant-care-info/southern_live_oak_care.md",
-      "event_log": "plant-event-logs/southern_live_oak_log.md"
+      "event_log": "plant-event-logs/southern_live_oak_log.md",
+      "daily_checkin": "dr-veg-daily-checkin/southern_live_oak_checkin.md"
     }
   ]
 }

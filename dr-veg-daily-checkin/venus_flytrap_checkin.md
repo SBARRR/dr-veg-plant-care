@@ -1,15 +1,13 @@
-Hello there! Let's check in on your Venus Flytrap rescue.
+Good morning! Let's see how your rescued Venus Flytrap is doing today.
 
-**Top Priority Today:** Stability check. Your flytrap is in the critical first week after a big-box store purchase. The main goal is to see no *new* browning, blackening, or sudden drooping. Yesterday's report was good—no new decline. Let's keep that trend going.
+**Top Priority:** Keep an eye on that green film (algae/cyanobacteria) on the media. It's harmless and a sign of wet media + light, but it's a good visual cue that your watering routine is working. No action needed, just awareness.
 
-**Watering Guidance:** The tray had some distilled water left yesterday. That's perfect. Today, just do a quick visual check: is there still a shallow pool in the ashtray underneath? If it's nearly or completely dry, top it up with a little distilled, rain, or RO water. If there's still water, you're all set. Remember, the media should *always* feel damp to wet.
+**Watering:** Your tray still had some distilled water yesterday. Check it today—if it's low or empty, top it up with a shallow amount of distilled, rain, or RO water. The goal is to keep the media wet but not flooded. With today's light drizzle and high humidity (70%), evaporation will be slow, so don't overfill the tray.
 
-**Useful Check:** Lift the pot and look at the media surface. You noted a green film yesterday—that's just algae or cyanobacteria, harmless and common in wet, lit conditions. No need to scrape it. While you're looking, give the crown (the central white-ish base where leaves emerge) a quick glance. Is it still firm and white/green, or does it look mushy or black? Firm is good.
+**Useful Check:** Look at the partially browned trap you noted. If the brown tip is crispy and fully dead, you can snip it off with clean scissors, leaving the green lower part attached. If it's still partly green or you're unsure, leave it be.
 
-**Weather as Context:** It's been hot and humid (hello, 102°F feels-like temp). On your screened porch, this actually provides decent humidity and warmth your flytrap likes, but it also means water in that tiny pot-tray setup might evaporate quicker. Hence the tray check.
+**Practical Idea:** Since it's on a screened porch, your flytrap is perfectly positioned to catch its own snacks. No need to feed it; let it work its magic on any curious bugs that wander in.
 
-**One Practical Idea:** Since it's on a rack, consider if the pot itself gets direct, scorching afternoon sun. The roots cook easily in a small dark pot. If the pot feels hot to the touch, a slight shift into dappled light during the hottest part of the day can help, but don't reduce the light reaching the *plant*.
+**The Bottom Line:** Your plant is stable. The weather is damp and cloudy, which means less water use and slower drying—perfect for a bog plant. Just maintain the wet media with pure water, and let it soak up that filtered afternoon light. You're doing the right things for this Walmart rescue.
 
-**Going the Extra Mile (Optional):** If you want to give it a tiny boost, you could gently flush the media from the top with a bit of distilled water. This helps ensure any residual minerals from the nursery (if any) are being diluted, but this is only if you're feeling proactive. It's not required if the plant seems stable.
-
-**In short:** Check the tray water, glance at the crown, and celebrate another day of no backsliding. It's a waiting game now for new green growth. You're doing the right things.
+Got a quick update on the tray water level or the plant's look today?

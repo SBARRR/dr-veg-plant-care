@@ -1,14 +1,11 @@
-Hey there — let’s talk about your Desert Rose today.
+Good morning. Your Desert Rose is in a critical recovery window after that major root prune, so today’s top priority is simple: **do not water.**
 
-**Top priority:** Keep it dry and watch that root-removal scar.  
-You repotted with major root reduction just yesterday, so the plant is in high-stress recovery. Do not water yet—wait at least 7–10 days for those cut roots to callus over.
+The plant is still looking stable, which is a great sign. The weather is cloudy and humid, which actually helps by slowing soil drying and reducing the plant’s water demand while its roots heal. Keep it on that screened porch where it’s protected from rain and heavy wind.
 
-**Watering guidance:** No water today. The mix is still dry from the repot, and watering now could invite rot. Your next watering should only happen once the caudex shows slight wrinkling *and* the soil is fully dry—likely late next week at the earliest.
+**Watering:** Hold off. The dry succulent mix needs to stay dry for roughly 7–10 days total post-repot to let those root cuts callus. We’re on day 2. The last drink was May 31st in the old pot.
 
-**Useful check:** Gently press around that scar/hole where the old root was removed. You’re looking for any new softness, wetness, or foul smell. If it still feels firm and dry like the surrounding tissue, you’re on track.
+**Useful check:** Give the caudex a gentle, careful squeeze. Focus on that lower, yellowish area and the old root-removal scar. You’re checking for any new softness, mushiness, or wetness. Firm is good; a slight give is okay for now. If it’s still firm like yesterday, you’re on track.
 
-**Weather context:** It’s hot and humid today (feels like 102°F), which actually helps—warmth encourages callusing and reduces rot risk. Just make sure rain isn’t blowing onto the porch; you want that soil to stay dry.
+**One practical idea:** If you’re worried about that scar, you can loosely tent a small piece of plastic wrap over just that spot to keep casual splashes off it. Don’t seal it tightly—just a little roof. This is totally optional, but it can ease your mind.
 
-**One practical idea:** If you’re worried about the exposed caudex base (the part that used to be buried), you can sprinkle a thin layer of dry pumice or coarse sand over it. This isn’t necessary, but it can help buffer any accidental splashes and improve surface airflow.
-
-Keep it warm, bright, and dry. Let me know if you see any leaf drop or that scar changes texture.
+Keep it warm, keep it dry, and let it rest. You’ve got this.

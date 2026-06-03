@@ -1,15 +1,11 @@
-Alright, let's see how your Sago Palm is doing today.
+Good morning! Let's check in on your Sago Palm.
 
-**Top Priority:** Keep an eye on those two yellowing fronds. Since they felt a bit looser yesterday, just give them a gentle wiggle today. If they detach with almost no resistance, you can go ahead and remove them. If they still hold on, leave them be—they’ll finish yellowing on their own time.
+**Today's Priority:** No watering needed. The soil is still moist from your watering on May 31st, and yesterday's light drizzle added a little extra ambient moisture. The top action today is simply to **leave it be** and let it dry out.
 
-**Watering:** No water needed today. The soil was still moist yesterday, and with yesterday's high humidity and heat, it’s likely still holding moisture. Your next watering should wait until the top inch or two of the soil feels dry and the pot feels noticeably lighter.
+**Watering:** Hold off. The key for your Sago is to let the upper 1-2 inches of that gritty mix dry before watering again. With the pot being shallow and unglazed, it should dry at a decent pace. Check again tomorrow or the next day by feeling the soil surface.
 
-**Useful Check:** While you're wiggling those fronds, take a quick peek at the undersides of the healthy, green fronds near the center. Look for any tiny, immobile, crusty bumps (scale) or fine webbing (spider mites). This is just a routine pest patrol—your photo didn't show any, but it's good to stay vigilant.
+**Useful Check:** Give those two yellowing fronds a quick visual once-over. Are the tan/brown spots staying contained, or do they look like they're spreading onto the healthy, green parts of the plant? As long as it's just the older fronds yellowing and the new growth remains vibrant, it's likely just natural aging.
 
-**Weather Context:** Yesterday was hot and humid, which slows down soil drying. Today's forecast suggests more of the same, so the mix will dry slowly. This supports holding off on watering.
+**Practical Idea:** Since your drip tray has river rocks, it's a perfect setup to prevent the pot from sitting in water. Just make sure after the next thorough watering that any water that collects in the tray doesn't submerge the pot's base—the rocks should keep it elevated.
 
-**One Practical Idea:** Since your drip tray has river rocks, make sure water isn't pooling *between* the rocks and keeping the base of the pot humid. After a thorough watering like the last one, it’s worth lifting the pot to check that the tray isn’t holding a hidden reservoir.
-
-**Optional Extra Mile:** If you want to give your Sago a little boost, you could consider a light feeding with a slow-release palm/cycad fertilizer next time you water (which won't be for a few days). It's been over a year, and we're entering its main growth season. This is totally optional—your plant is stable without it.
-
-Anything feel off when you check those fronds? A quick "all good" or "found something weird" is perfect.
+Keep it simple today. Your Sago is stable, and the best thing you can do is let it dry out properly. Talk to you tomorrow!

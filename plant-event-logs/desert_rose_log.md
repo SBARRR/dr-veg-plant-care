@@ -3,10 +3,10 @@
 ## Current Snapshot
 <!-- Current state and durable care facts for this specific plant. This section should preserve important information that should not disappear when older Recent Events roll off the 30-entry limit. -->
 
-- Last updated: 2026-06-02
+- Last updated: 2026-06-03
   <!-- Date this snapshot was last revised. -->
 
-- Overall condition: High-stress recovery after major repot/root reduction on 2026-06-01. Visually stable as of 2026-06-02 with no leaf yellowing or drooping reported. Caudex/trunk was reported firm before repotting, upper green tissue remains firm, and plant is now in dry succulent mix in a shallow bonsai pot. Monitor closely for rot, dehydration, leaf drop, and whether new growth survives.
+- Overall condition: High-stress recovery after major repot/root reduction on 2026-06-01. As of 2026-06-03, upper green caudex/trunk remains firm and open wounds feel relatively unchanged. Lower yellowish/previously buried caudex tissue may feel slightly softer than the prior day, but still has resistance and is not mushy. No obvious leaf yellowing, drooping, foul smell, or spreading black/brown discoloration reported. Continue close rot monitoring.
   <!-- Broad current health/status of the plant. Example: stable, recovering, declining, newly rescued, stressed, dormant, unknown. -->
 
 - Watering status: Last watered on 2026-05-31 in the original pot. Repotted on 2026-06-01 into completely dry succulent mix after major root reduction. Do not water immediately after repot/root pruning; keep dry for roughly 7–10 days while cut roots callus, unless condition changes significantly.
@@ -33,11 +33,22 @@
 - Current concern: Recovery after major root pruning and shallow-pot repot. Monitor caudex/stem firmness, exposed base tissue, lower yellowish/previously buried tissue with slightly more give, old root-removal scar/hole, leaf yellowing/drop, stalled or lost new growth, black/brown spreading tissue, and watering timing after root wounds callus.
   <!-- Main current issue, risk, or monitoring focus. If nothing is wrong, say that clearly. -->
 
-- Latest check-in notes: On 2026-06-02, user reported leaves were not yellowing or drooping and plant looked about the same. Upper green caudex/stem remained firm. Lower yellowish/previously buried tissue had slightly more give, but not mushy. Photo showed a noticeable scar/hole where an old root was removed; user later checked that the hole/scar felt the same as the surrounding tissue, with no wetness, foul smell, or collapse reported.
+- Latest check-in notes: On 2026-06-03, user reported the upper green trunk/caudex still feels firm and about the same. Open wounds feel relatively unchanged. Lower yellowish/previously buried bulb/caudex area may feel slightly softer than yesterday during squeeze check, but still has resistance and is not described as mushy. No obvious leaf yellowing or drooping, no spreading black/brown discoloration, and no foul smell reported. Continue holding water and monitor for worsening softness, wetness/slime, foul smell, collapse, or spreading dark tissue.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events
 <!-- Rolling event log for this plant. Keep newest 30 entries only. Newest entry goes at the top. When adding entry #31, delete the oldest entry. -->
+
+### 2026-06-03 — Post-Repot Caudex Softness Check
+
+- Summary: Upper caudex remains firm; lower yellowish caudex may feel slightly softer but no clear rot signs reported.
+  <!-- One-line summary of what happened. -->
+
+- Details: User checked the Desert Rose after major root reduction/repot. Upper green trunk/caudex feels firm and generally unchanged. Open wounds feel relatively the same. Lower yellowish/previously buried bulb/caudex tissue may feel a little softer than the prior day, but still has resistance and is not totally soft or mushy. User noted the difference may be subtle or perception-related. No obvious leaf yellowing or drooping, no spreading black/brown discoloration, and no foul smell reported.
+  <!-- Useful specifics, such as amount of water, product used, symptom observed, action taken, context, or uncertainty. -->
+
+- Outcome: Continue high-stress recovery care: keep warm, dry, and protected from rain; do not water, fertilize, spray, cover wounds, or disturb roots. Recheck lower caudex and wounds for worsening softness, wetness/slime, foul smell, spreading black/brown tissue, or collapse.
+  <!-- Result/status after the event, expected follow-up, or "TBD" if the outcome is not known yet. -->
 
 ### 2026-06-02 — Post-Repot Caudex / Wound Check
 

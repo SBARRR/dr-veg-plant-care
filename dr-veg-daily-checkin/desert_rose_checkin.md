@@ -1,11 +1,13 @@
-Good morning. Your Desert Rose is in a critical recovery window after that major root prune, so today’s top priority is simple: **do not water.**
+Good morning. For your Desert Rose, today is all about patience and observation.
 
-The plant is still looking stable, which is a great sign. The weather is cloudy and humid, which actually helps by slowing soil drying and reducing the plant’s water demand while its roots heal. Keep it on that screened porch where it’s protected from rain and heavy wind.
+**Top Priority:** Continue the post-repot dry period. Do not water today. The plant is in a high-stress recovery phase after the major root pruning on June 1st. Watering now, while the root wounds are still callusing, is the single biggest risk for rot.
 
-**Watering:** Hold off. The dry succulent mix needs to stay dry for roughly 7–10 days total post-repot to let those root cuts callus. We’re on day 2. The last drink was May 31st in the old pot.
+**Weather Context:** The warm, sunny day (high near 89°F) is actually helpful. It promotes callusing of the root wounds and keeps the new, dry succulent mix from staying damp.
 
-**Useful check:** Give the caudex a gentle, careful squeeze. Focus on that lower, yellowish area and the old root-removal scar. You’re checking for any new softness, mushiness, or wetness. Firm is good; a slight give is okay for now. If it’s still firm like yesterday, you’re on track.
+**Watering Guidance:** Hold off. The last watering was May 31st in the old pot. The new mix from the June 1st repot is still dry. The standard rule after major root work is to wait 7-10 days before the first watering. We're on day 3.
 
-**One practical idea:** If you’re worried about that scar, you can loosely tent a small piece of plastic wrap over just that spot to keep casual splashes off it. Don’t seal it tightly—just a little roof. This is totally optional, but it can ease your mind.
+**Useful Check:** Give the lower, yellowish part of the caudex (the area that was previously buried) a gentle squeeze. You noted it felt *slightly* softer yesterday. Today, just confirm it hasn't progressed to being truly soft, mushy, or slimy. Firm or firm-with-a-little-give is okay. Mushy is not.
 
-Keep it warm, keep it dry, and let it rest. You’ve got this.
+**Practical Idea:** If you're worried about the exposed caudex tissue or the old root-removal scar, you can dust the area lightly with cinnamon from your spice cabinet. It's a mild, natural antifungal that won't hurt the plant and may offer a bit of protection while it heals. Totally optional.
+
+Keep it warm and dry on that porch. Let me know how that lower caudex feels.

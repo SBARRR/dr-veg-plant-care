@@ -1,13 +1,11 @@
-Good morning! Let's see how your rescued Venus Flytrap is doing today.
+Good morning! Your Venus Flytrap is settling in after its rescue. The top priority today is to **check the water level in the tray**—it was refilled yesterday, but with the warm, sunny day ahead, it might be drinking faster.
 
-**Top Priority:** Keep an eye on that green film (algae/cyanobacteria) on the media. It's harmless and a sign of wet media + light, but it's a good visual cue that your watering routine is working. No action needed, just awareness.
+**Watering:** Keep the media wet. If the tray is empty or nearly empty, top it up with your distilled water to about a ½-inch depth. If there's still water, you're all set.
 
-**Watering:** Your tray still had some distilled water yesterday. Check it today—if it's low or empty, top it up with a shallow amount of distilled, rain, or RO water. The goal is to keep the media wet but not flooded. With today's light drizzle and high humidity (70%), evaporation will be slow, so don't overfill the tray.
+**Useful check:** Look at the plant's center (the crown/rhizome) and the base of the leaves. We want to see firm, green growth. Any new blackening or mushiness there is a red flag; stable green is a good sign.
 
-**Useful Check:** Look at the partially browned trap you noted. If the brown tip is crispy and fully dead, you can snip it off with clean scissors, leaving the green lower part attached. If it's still partly green or you're unsure, leave it be.
+The overcast morning will give it a gentle start, but with 10 hours of sunshine possible, that screened porch light is perfect for recovery. No need to move it.
 
-**Practical Idea:** Since it's on a screened porch, your flytrap is perfectly positioned to catch its own snacks. No need to feed it; let it work its magic on any curious bugs that wander in.
+**Practical idea:** If you're curious, gently lift the pot to peek at the bottom of the tray. A green film (algae) is harmless, but if the water looks cloudy or smells off, dump it, rinse the tray, and refill with fresh distilled water. This keeps things fresh without disturbing the plant.
 
-**The Bottom Line:** Your plant is stable. The weather is damp and cloudy, which means less water use and slower drying—perfect for a bog plant. Just maintain the wet media with pure water, and let it soak up that filtered afternoon light. You're doing the right things for this Walmart rescue.
-
-Got a quick update on the tray water level or the plant's look today?
+Keep it simple: water, light, and patience. It's on the right track.

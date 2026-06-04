@@ -3,13 +3,13 @@
 ## Current Snapshot
 <!-- Current state and durable care facts for this specific plant. This section should preserve important information that should not disappear when older Recent Events roll off the 30-entry limit. -->
 
-- Last updated: 2026-06-03
+- Last updated: 2026-06-04
   <!-- Date this snapshot was last revised. -->
 
-- Overall condition: Stressed but showing some short-term stabilization after recent ground-to-pot transplant; some leaf browning was previously noted. As of 2026-06-03, previously droopy tips look relatively the same, possibly a little more droopy, while soil is drying down but still slightly moist.
+- Overall condition: Stressed but showing short-term stabilization after recent ground-to-pot transplant; as of 2026-06-04, tree looks pretty much the same as yesterday with no new worsening reported.
   <!-- Broad current health/status of the plant. Example: stable, recovering, declining, newly rescued, stressed, dormant, unknown. -->
 
-- Watering status: Last watered on 2026-05-31 with roughly 0.5 gallon or slightly more, stopping when water drained from the bottom. On 2026-06-03, soil felt cool and still slightly moist during finger check, but less dirt stuck to the user's finger than before, suggesting the soil is drying down but not fully dry yet. No additional watering indicated while soil remains slightly moist.
+- Watering status: Last watered on 2026-05-31 with roughly 0.5 gallon or slightly more, stopping when water drained from the bottom. On 2026-06-04, soil was reported as pretty much the same as 2026-06-03, when it felt cool and slightly moist. No watering indicated while soil remains slightly moist; wait until the top 2–3 inches feel dry before watering deeply.
   <!-- Latest watering state, including last watering, withheld watering, drainage behavior, tray status, pot weight, drying behavior, or other water-related context needed for daily advice. -->
 
 - Fertilizer status: No recent fertilizer; last fertilized roughly over a year ago while in-ground using slow-release bonsai pellets sprinkled on the soil surface.
@@ -33,11 +33,22 @@
 - Current concern: Monitor transplant stress recovery, especially whether leaf browning spreads, whether new growth/twig tips firm up or droop further, and whether soil dries steadily without becoming soggy or bone-dry.
   <!-- Main current issue, risk, or monitoring focus. If nothing is wrong, say that clearly. -->
 
-- Latest check-in notes: On 2026-06-03, user checked soil by finger and found it cool and still slightly moist, but with less dirt sticking to the finger than before. Previously droopy tips looked relatively the same, possibly slightly more droopy. Continue holding water until the top 2–3 inches feel dry, unless tip droop clearly worsens or new growth becomes limp/soft.
+- Latest check-in notes: On 2026-06-04, user reported the oak looks pretty much the same and soil is also pretty much the same as yesterday. Continue holding water and avoid extra interventions unless tip droop clearly worsens, new growth becomes limp/soft, or browning spreads quickly.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events
 <!-- Rolling event log for this plant. Keep newest 30 entries only. Newest entry goes at the top. When adding entry #31, delete the oldest entry. -->
+
+### 2026-06-04 — Stability / Moisture Check
+
+- Summary: Oak looks unchanged; soil still about the same as yesterday.
+  <!-- One-line summary of what happened. -->
+
+- Details: User reports the Southern Live Oak looks pretty much the same as 2026-06-03. Soil also seems pretty much the same as yesterday, when it was cool and slightly moist.
+  <!-- Useful specifics, such as amount of water, product used, symptom observed, action taken, context, or uncertainty. -->
+
+- Outcome: No action today. Continue holding water until the top 2–3 inches feel dry, then water deeply to runoff. Avoid fertilizer, pruning, or extra fuss while transplant recovery continues.
+  <!-- Result/status after the event, expected follow-up, or "TBD" if the outcome is not known yet. -->
 
 ### 2026-06-03 — Moisture / Tip Posture Check
 

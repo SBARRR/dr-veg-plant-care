@@ -3,10 +3,10 @@
 ## Current Snapshot
 <!-- Current state and durable care facts for this specific plant. This section should preserve important information that should not disappear when older Recent Events roll off the 30-entry limit. -->
 
-- Last updated: 2026-06-03
+- Last updated: 2026-06-04
   <!-- Date this snapshot was last revised. -->
 
-- Overall condition: High-stress recovery after major repot/root reduction on 2026-06-01. As of 2026-06-03, upper green caudex/trunk remains firm and open wounds feel relatively unchanged. Lower yellowish/previously buried caudex tissue may feel slightly softer than the prior day, but still has resistance and is not mushy. No obvious leaf yellowing, drooping, foul smell, or spreading black/brown discoloration reported. Continue close rot monitoring.
+- Overall condition: High-stress recovery after major repot/root reduction on 2026-06-01. As of 2026-06-04, firmness and overall condition are reported unchanged from 2026-06-03. Upper green caudex/trunk remains firm; lower yellowish/previously buried caudex tissue remains at the same firmness/give level as yesterday and is not reported as mushy or worsening. No new concerning changes reported. Continue close rot monitoring.
   <!-- Broad current health/status of the plant. Example: stable, recovering, declining, newly rescued, stressed, dormant, unknown. -->
 
 - Watering status: Last watered on 2026-05-31 in the original pot. Repotted on 2026-06-01 into completely dry succulent mix after major root reduction. Do not water immediately after repot/root pruning; keep dry for roughly 7–10 days while cut roots callus, unless condition changes significantly.
@@ -33,11 +33,22 @@
 - Current concern: Recovery after major root pruning and shallow-pot repot. Monitor caudex/stem firmness, exposed base tissue, lower yellowish/previously buried tissue with slightly more give, old root-removal scar/hole, leaf yellowing/drop, stalled or lost new growth, black/brown spreading tissue, and watering timing after root wounds callus.
   <!-- Main current issue, risk, or monitoring focus. If nothing is wrong, say that clearly. -->
 
-- Latest check-in notes: On 2026-06-03, user reported the upper green trunk/caudex still feels firm and about the same. Open wounds feel relatively unchanged. Lower yellowish/previously buried bulb/caudex area may feel slightly softer than yesterday during squeeze check, but still has resistance and is not described as mushy. No obvious leaf yellowing or drooping, no spreading black/brown discoloration, and no foul smell reported. Continue holding water and monitor for worsening softness, wetness/slime, foul smell, collapse, or spreading dark tissue.
+- Latest check-in notes: On 2026-06-04, user reported nothing meaningfully new: same overall details as 2026-06-03 and same caudex firmness level as yesterday. Continue holding water during post-root-prune dry period and monitor for worsening softness, wetness/slime, foul smell, collapse, or spreading dark tissue.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events
 <!-- Rolling event log for this plant. Keep newest 30 entries only. Newest entry goes at the top. When adding entry #31, delete the oldest entry. -->
+
+### 2026-06-04 — Post-Repot Stability Check
+
+- Summary: Desert rose condition and caudex firmness reported unchanged from yesterday.
+  <!-- One-line summary of what happened. -->
+
+- Details: User reports nothing really new to report. Caudex firmness feels the same as 2026-06-03, and overall details remain the same as yesterday. No new worsening signs were reported.
+  <!-- Useful specifics, such as amount of water, product used, symptom observed, action taken, context, or uncertainty. -->
+
+- Outcome: Continue high-stress recovery care: keep warm, dry, and protected from rain; do not water, fertilize, spray, cover wounds, or disturb roots. Keep monitoring for worsening softness, wetness/slime, foul smell, spreading black/brown tissue, or collapse.
+  <!-- Result/status after the event, expected follow-up, or "TBD" if the outcome is not known yet. -->
 
 ### 2026-06-03 — Post-Repot Caudex Softness Check
 

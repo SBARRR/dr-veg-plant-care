@@ -1,13 +1,17 @@
-Good morning. Your live oak is still in the recovery phase after its big move, and today is all about patience and observation.
+Good morning! Let’s check in on your Southern Live Oak.
 
-The top priority is **continuing to let the soil dry**. The last check showed it was still moist, and today's light drizzle won't change that much on your screened porch. The most important thing you can do today is *not* water. Overwatering is the biggest risk to a stressed tree with reduced roots.
+**Top priority today:** Keep letting the soil dry down. The tree is still recovering from that ground-to-pot move, and overwatering now could set back root recovery. The soil was still slightly moist yesterday, so no water today.
 
-**Watering Guidance:** Hold off. Your next watering should only happen when the top 2-3 inches of soil feel dry to the touch. Given the recent transplant and the weather, that might not be for another day or two.
+**Weather context:** It’s warm and breezy with low rain chance—good drying weather, but your screened porch will buffer the wind and sun. That means the pot will dry slower than if it were fully exposed.
 
-**Useful Check:** Later today, give one of the previously droopy new growth tips a gentle touch. Is it still firming up, or has it gone soft again? This is a great indicator of whether the roots are starting to function properly.
+**Watering guidance:** Hold off watering until the top 2–3 inches of soil feel dry to the touch. When you do water, give it a thorough soak until water runs freely from the drainage holes, then let it drain completely. No shallow sips.
 
-The weather is on your side—cloudy, humid, and mild—which reduces stress from heat and sun. The tree's job right now is to quietly repair roots. Your job is to let it do that by providing stable conditions and resisting the urge to "do something."
+**Useful check:** Press a finger into the soil near the edge of the pot. If it feels cool and moist, wait. If it feels dry a couple inches down, it’s time to water. Also glance at those previously droopy tips—are they holding steady, firming up, or looking limper?
 
-**One Practical Idea:** If you're curious how much rain actually reaches the pot, you could place a small cup or container next to it on the plant stand during the next rain. This will give you a real sense of whether your porch screen is providing meaningful shelter.
+**One practical idea:** Since rain might not reach the pot on your screened porch, you could occasionally use a watering can to simulate a gentle rain shower over the whole canopy. This can help clean dust off the leaves and provide a bit of ambient humidity, which is nice but not essential.
 
-Keep up the good, restrained care. Recovery from a transplant like this isn't fast, but stable or slightly improving tip posture is an excellent sign.
+**Extra care (optional):** If you’re feeling proactive, you could gently lift the pot to feel its weight. A lighter pot means drier soil. This helps train your intuition for when it needs water without digging around.
+
+Keep an eye on any new browning or changes in leaf posture, but right now the plan is simple: let it dry, give it light, and don’t fuss. You’re doing the right thing by not overreacting while it settles in.
+
+How does the soil feel today?

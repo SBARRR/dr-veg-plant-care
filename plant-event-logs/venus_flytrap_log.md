@@ -3,13 +3,13 @@
 ## Current Snapshot
 <!-- Current state and durable care facts for this specific plant. This section should preserve important information that should not disappear when older Recent Events roll off the 30-entry limit. -->
 
-- Last updated: 2026-06-03
+- Last updated: 2026-06-04
   <!-- Date this snapshot was last revised. -->
 
-- Overall condition: Stressed but stable as a recent Walmart rescue; no new browning or yellowing seen on 2026-06-02, and coloring looks about the same as the previous day.
+- Overall condition: Stressed but stable as a recent Walmart rescue; as of 2026-06-04, plant still looks the same with no new browning or blackening reported.
   <!-- Broad current health/status of the plant. Example: stable, recovering, declining, newly rescued, stressed, dormant, unknown. -->
 
-- Watering status: Tray was empty on 2026-06-03, but media still appeared wet. User refilled the tray with the same pure water to about 0.5 inch. Media should continue being kept wet with distilled, rain, or RO water.
+- Watering status: Tray was refilled on 2026-06-03 with pure water to about 0.5 inch. On 2026-06-04, tray still contains some water, with roughly half or slightly more of the previous tray water used up/evaporated. No refill needed unless tray becomes empty or nearly empty; continue keeping media wet with distilled, rain, or RO water.
   <!-- Latest watering state, including last watering, withheld watering, drainage behavior, tray status, pot weight, drying behavior, or other water-related context needed for daily advice. -->
 
 - Fertilizer status: No fertilizer or plant food has been given.
@@ -33,11 +33,22 @@
 - Current concern: Monitor recovery from Walmart rescue condition, especially new browning/blackening, renewed drooping, yellowing around trap mouths, tray dry-down speed, green surface film on media, and whether healthy firm green growth appears.
   <!-- Main current issue, risk, or monitoring focus. If nothing is wrong, say that clearly. -->
 
-- Latest check-in notes: On 2026-06-03, user reported the tray was empty but media still appeared wet, then refilled it with the same pure water to about 0.5 inch. User also completed the previously planned trim: the dead brown trap mouth/tip was removed, leaving only the green lower stem/leaf tissue attached. Continue keeping media wet with distilled/rain/RO water and avoid trimming green tissue.
+- Latest check-in notes: On 2026-06-04, user reported plant looks the same with no new browning or blackening. Tray still has some water remaining after using/losing about half or slightly more of the last refill. Continue monitoring tray level and crown/base condition.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events
 <!-- Rolling event log for this plant. Keep newest 30 entries only. Newest entry goes at the top. When adding entry #31, delete the oldest entry. -->
+
+### 2026-06-04 — Stability / Tray Check
+
+- Summary: Plant looks unchanged; tray still has water remaining.
+  <!-- One-line summary of what happened. -->
+
+- Details: User reports the Venus flytrap still looks the same with no new browning or blackening. Drip tray still contains some water; roughly half or slightly more of the water added during the last refill has been used up or evaporated.
+  <!-- Useful specifics, such as amount of water, product used, symptom observed, action taken, context, or uncertainty. -->
+
+- Outcome: No refill needed while tray still has water. Continue keeping media wet with distilled/rain/RO water, and refill tray to about 0.5 inch when empty or nearly empty. Monitor crown/base for new blackening, mushiness, or collapse.
+  <!-- Result/status after the event, expected follow-up, or "TBD" if the outcome is not known yet. -->
 
 ### 2026-06-03 — Tray Refill / Dead Trap Trim
 

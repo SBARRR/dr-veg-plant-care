@@ -3,13 +3,13 @@
 ## Current Snapshot
 <!-- Current state and durable care facts for this specific plant. This section should preserve important information that should not disappear when older Recent Events roll off the 30-entry limit. -->
 
-- Last updated: 2026-06-03
+- Last updated: 2026-06-04
   <!-- Date this snapshot was last revised. -->
 
 - Overall condition: Stable overall; at least two older fronds are yellowing with scattered tan/brown spots visible in user photo, while newer growth is reportedly healthy green.
   <!-- Broad current health/status of the plant. Example: stable, recovering, declining, newly rescued, stressed, dormant, unknown. -->
 
-- Watering status: Last watered on 2026-05-31; amount unknown, but watered thoroughly until drainage came out the bottom and filled the drip tray. On 2026-06-03, soil still felt slightly moist but not fully dry, and drip tray water had gone down a lot but was still present. Pot is elevated above the tray water by river rocks. No watering indicated.
+- Watering status: Last watered on 2026-05-31; amount unknown, but watered thoroughly until drainage came out the bottom and filled the drip tray. On 2026-06-04, soil still felt cool and slightly damp by finger check. Pot is elevated above the tray water by river rocks; current tray water level not reported. No watering indicated.
   <!-- Latest watering state, including last watering, withheld watering, drainage behavior, tray status, pot weight, drying behavior, or other water-related context needed for daily advice. -->
 
 - Fertilizer status: No recent fertilizer; last fertilizing was roughly over a year ago, product and dose unknown.
@@ -33,11 +33,22 @@
 - Current concern: Monitor yellowing/spotted fronds and confirm new green growth remains unaffected.
   <!-- Main current issue, risk, or monitoring focus. If nothing is wrong, say that clearly. -->
 
-- Latest check-in notes: On 2026-06-03, user reported soil still felt a little moist but not totally dry. Drip tray still had some water, though much less than before, and pot is elevated above the tray water by river rocks. Continue holding water.
+- Latest check-in notes: On 2026-06-04, user reported the soil still feels cool and slightly damp. Continue holding water and let the upper mix dry further before watering again.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events
 <!-- Rolling event log for this plant. Keep newest 30 entries only. Newest entry goes at the top. When adding entry #31, delete the oldest entry. -->
+
+### 2026-06-04 — Moisture Check
+
+- Summary: Soil still cool and slightly damp.
+  <!-- One-line summary of what happened. -->
+
+- Details: User checked the soil by finger and reported it still feels cool and slightly damp. Current drip tray water level not reported.
+  <!-- Useful specifics, such as amount of water, product used, symptom observed, action taken, context, or uncertainty. -->
+
+- Outcome: No watering today. Continue letting the upper mix dry before watering again.
+  <!-- Result/status after the event, expected follow-up, or "TBD" if the outcome is not known yet. -->
 
 ### 2026-06-03 — Moisture / Tray Check
 

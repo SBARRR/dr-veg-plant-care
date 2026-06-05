@@ -1,11 +1,15 @@
-Good morning. For your Sago Palm today, the main thing is to continue holding off on watering.
+Good morning! Your Sago Palm is doing fine overall, but the main thing today is to **hold off on watering**.
 
-Based on yesterday's check, the soil still isn't fully dry, and you have that helpful buffer of river rocks keeping the pot elevated above any water in the tray. With the overcast weather and mild breeze forecast, evaporation might be a touch slower, so patience is key.
+The soil still felt cool and slightly damp yesterday, and with today's overcast conditions and decent humidity, it won't dry out quickly. Watering now would risk keeping the roots too wet.
 
-**Watering:** No water today. The rule of thumb is to let the top couple of inches of that fast-draining mix dry out before watering thoroughly again.
+**Watering guidance:** Wait until the top 1-2 inches of soil feel dry to the touch and the pot feels lighter. Given the shallow bonsai pot, it's better to err on the side of dryness.
 
-**Useful Check:** When you walk by, do a quick "tug test" on one of the yellowing fronds. If it pulls away from the crown with little to no resistance, it's ready to be removed at the base. If it's still holding on firmly, leave it be; it's still providing some energy to the plant.
+**Useful check:** Please peek at the drip tray. If there's still any water sitting in it, go ahead and empty it. Keeping the pot elevated above standing water is a great setup, but we don't want any water lingering down there.
 
-**Practical Idea:** Your setup with the rocks in the drip tray is excellent—it's a simple, effective way to prevent the roots from sitting in water, which is a top priority for sagos. Well done.
+The two older, yellowing fronds with spots are still on watch. As long as the new central growth stays healthy and green, this is likely just normal aging. You can leave them be until they turn fully brown and crispy.
 
-Keep an eye on the new green growth to ensure it stays healthy and spot-free. The plant is stable, so no extra fuss is needed. Just let it dry out.
+With the warm season here, your Sago might start thinking about a new growth flush. If you wanted to give it a gentle boost, a **light application of slow-release palm fertilizer** could be an optional upgrade in a week or two—but only if the soil is dry and the plant seems stable. No rush.
+
+Today's practical idea: When you check the tray, take a quick glance at the undersides of a few fronds, especially near the stem. It's a good, low-effort way to keep an eye out for early signs of scale insects.
+
+That's it for today. Just let that soil dry out a bit more.

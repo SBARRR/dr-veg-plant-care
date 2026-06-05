@@ -3,13 +3,13 @@
 ## Current Snapshot
 <!-- Current state and durable care facts for this specific plant. This section should preserve important information that should not disappear when older Recent Events roll off the 30-entry limit. -->
 
-- Last updated: 2026-06-04
+- Last updated: 2026-06-05
   <!-- Date this snapshot was last revised. -->
 
-- Overall condition: Stressed but showing short-term stabilization after recent ground-to-pot transplant; as of 2026-06-04, tree looks pretty much the same as yesterday with no new worsening reported.
+- Overall condition: Stressed but showing short-term stabilization after recent ground-to-pot transplant; as of 2026-06-05, no new visual worsening was reported, but root-zone moisture remains higher under the mulch than in the exposed center soil.
   <!-- Broad current health/status of the plant. Example: stable, recovering, declining, newly rescued, stressed, dormant, unknown. -->
 
-- Watering status: Last watered on 2026-05-31 with roughly 0.5 gallon or slightly more, stopping when water drained from the bottom. On 2026-06-04, soil was reported as pretty much the same as 2026-06-03, when it felt cool and slightly moist. No watering indicated while soil remains slightly moist; wait until the top 2–3 inches feel dry before watering deeply.
+- Watering status: Last watered on 2026-05-31 with roughly 0.5 gallon or slightly more, stopping when water drained from the bottom. On 2026-06-05, exposed center soil felt a little dry, but soil under the mulch was definitely more moist/wet. No watering indicated while the under-mulch root zone remains moist; wait until the top 2–3 inches under the mulch feel dry before watering deeply.
   <!-- Latest watering state, including last watering, withheld watering, drainage behavior, tray status, pot weight, drying behavior, or other water-related context needed for daily advice. -->
 
 - Fertilizer status: No recent fertilizer; last fertilized roughly over a year ago while in-ground using slow-release bonsai pellets sprinkled on the soil surface.
@@ -30,14 +30,25 @@
 - Last prune: None; no above-ground pruning has been performed during the tree’s life.
   <!-- Most recent above-ground pruning/removal, such as leaves, traps, fronds, branches, flowers, or dead material. -->
 
-- Current concern: Monitor transplant stress recovery, especially whether leaf browning spreads, whether new growth/twig tips firm up or droop further, and whether soil dries steadily without becoming soggy or bone-dry.
+- Current concern: Monitor transplant stress recovery, especially whether leaf browning spreads, whether new growth/twig tips firm up or droop further, and whether soil under the mulch dries steadily without becoming soggy or bone-dry. Keep mulch slightly away from the trunk/base.
   <!-- Main current issue, risk, or monitoring focus. If nothing is wrong, say that clearly. -->
 
-- Latest check-in notes: On 2026-06-04, user reported the oak looks pretty much the same and soil is also pretty much the same as yesterday. Continue holding water and avoid extra interventions unless tip droop clearly worsens, new growth becomes limp/soft, or browning spreads quickly.
+- Latest check-in notes: On 2026-06-05, user reported exposed center soil feels a little dry, but soil under the mulch is definitely more moist/wet. No watering today because the under-mulch root zone still has moisture. Continue holding water until the top 2–3 inches under the mulch feel dry.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events
 <!-- Rolling event log for this plant. Keep newest 30 entries only. Newest entry goes at the top. When adding entry #31, delete the oldest entry. -->
+
+### 2026-06-05 — Moisture Check
+
+- Summary: Exposed center soil felt a little dry, but soil under the mulch remained more moist/wet.
+  <!-- One-line summary of what happened. -->
+
+- Details: User reported that the exposed center soil area definitely feels a little dry, but when moving the mulch aside and doing a finger test under the mulch, the soil is definitely a lot more moist and wet.
+  <!-- Useful specifics, such as amount of water, product used, symptom observed, action taken, context, or uncertainty. -->
+
+- Outcome: No watering today. Use the under-mulch root-zone moisture as the better watering guide, keep mulch slightly away from the trunk/base, and water deeply only once the top 2–3 inches under the mulch feel dry.
+  <!-- Result/status after the event, expected follow-up, or "TBD" if the outcome is not known yet. -->
 
 ### 2026-06-04 — Stability / Moisture Check
 

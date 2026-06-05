@@ -1,13 +1,9 @@
-Good morning. For your Desert Rose, today is all about patience and observation.
+Your Desert Rose is still resting after its big repot a few days ago. No watering needed, as we're letting the cut roots callus over. Your top priority today is the same as yesterday: keep a close eye on that lower, yellowish caudex tissue.
 
-**Top Priority:** Continue the post-repot dry period. Do not water today. The plant is in a high-stress recovery phase after the major root pruning on June 1st. Watering now, while the root wounds are still callusing, is the single biggest risk for rot.
+**Quick check:** When you have a moment, gently press the lower caudex (the part that was previously buried). We're looking for any new change in firmness—is it becoming softer, mushier, or wet-feeling? Right now, it's okay if it has a bit of give, but we need to make sure it's not *worsening*. If it feels the same, that's a good sign. Also, give the old root-removal scar a sniff (seriously)—any foul odor is a red flag.
 
-**Weather Context:** The warm, sunny day (high near 89°F) is actually helpful. It promotes callusing of the root wounds and keeps the new, dry succulent mix from staying damp.
+Hold off on watering. You're in the middle of a roughly 7-10 day dry period. The sunny, warm weather is actually helpful right now, as it encourages callusing and reduces moisture risk.
 
-**Watering Guidance:** Hold off. The last watering was May 31st in the old pot. The new mix from the June 1st repot is still dry. The standard rule after major root work is to wait 7-10 days before the first watering. We're on day 3.
+**One practical idea:** If you want to go the extra mile, you could take a quick photo of the lower caudex and scar. Comparing it day-to-day can sometimes reveal subtle changes easier than memory alone. But the gentle press-and-sniff test is the main job for today.
 
-**Useful Check:** Give the lower, yellowish part of the caudex (the area that was previously buried) a gentle squeeze. You noted it felt *slightly* softer yesterday. Today, just confirm it hasn't progressed to being truly soft, mushy, or slimy. Firm or firm-with-a-little-give is okay. Mushy is not.
-
-**Practical Idea:** If you're worried about the exposed caudex tissue or the old root-removal scar, you can dust the area lightly with cinnamon from your spice cabinet. It's a mild, natural antifungal that won't hurt the plant and may offer a bit of protection while it heals. Totally optional.
-
-Keep it warm and dry on that porch. Let me know how that lower caudex feels.
+Keep it warm and dry on the porch, and let me know if you feel anything new.

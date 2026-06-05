@@ -1,11 +1,11 @@
-Good morning! Your Venus Flytrap is settling in after its rescue. The top priority today is to **check the water level in the tray**—it was refilled yesterday, but with the warm, sunny day ahead, it might be drinking faster.
+Good morning! Your Venus flytrap is holding steady—no new browning is a great sign. Today's focus is on keeping its recovery simple and stable.
 
-**Watering:** Keep the media wet. If the tray is empty or nearly empty, top it up with your distilled water to about a ½-inch depth. If there's still water, you're all set.
+**Top Priority:** Check the tray water level. Yesterday it was about half gone. If the tray is empty or nearly empty, refill it with distilled, rain, or RO water to about ½ inch deep. If there's still water, leave it be. The goal is to keep the media wet, not flooded.
 
-**Useful check:** Look at the plant's center (the crown/rhizome) and the base of the leaves. We want to see firm, green growth. Any new blackening or mushiness there is a red flag; stable green is a good sign.
+**Weather Context:** It'll be hot (high near 89°F) and mostly sunny. That warmth and light are good for growth, but it also means water in that little tray could evaporate faster. Just something to keep in mind.
 
-The overcast morning will give it a gentle start, but with 10 hours of sunshine possible, that screened porch light is perfect for recovery. No need to move it.
+**Useful Check:** While you're at the tray, give the base of the plant a quick glance. Look for any new black or mushy spots at the crown (where the leaves emerge). As long as it's firm and green, you're on track.
 
-**Practical idea:** If you're curious, gently lift the pot to peek at the bottom of the tray. A green film (algae) is harmless, but if the water looks cloudy or smells off, dump it, rinse the tray, and refill with fresh distilled water. This keeps things fresh without disturbing the plant.
+**Practical Idea:** If you're feeling proactive, you could gently rotate the pot a quarter turn. This helps ensure all sides get even light through the patio screen, which can encourage straighter, more balanced growth.
 
-Keep it simple: water, light, and patience. It's on the right track.
+Keep up the good work—this rescue is in the patience phase. Let me know if you see any changes.

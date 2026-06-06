@@ -1,9 +1,15 @@
-Your Desert Rose is still resting after its big repot a few days ago. No watering needed, as we're letting the cut roots callus over. Your top priority today is the same as yesterday: keep a close eye on that lower, yellowish caudex tissue.
+Your Desert Rose is in a delicate recovery phase after its major root reduction. The lower caudex showing increased softness is the most critical sign to watch, as it could indicate the start of rot or severe dehydration stress. Today's warm, dry weather is actually beneficial, helping to keep the new soil dry and promote callusing of the root wounds.
 
-**Quick check:** When you have a moment, gently press the lower caudex (the part that was previously buried). We're looking for any new change in firmness—is it becoming softer, mushier, or wet-feeling? Right now, it's okay if it has a bit of give, but we need to make sure it's not *worsening*. If it feels the same, that's a good sign. Also, give the old root-removal scar a sniff (seriously)—any foul odor is a red flag.
+Continuing the strict post-repot dry period is essential to prevent rot from entering the fresh cuts. The yellowing leaves and remaining flower buds are a normal stress response, and your removal of the larger blooms was a smart move to conserve the plant's energy. Just keep providing bright, filtered light and resist any urge to intervene further.
 
-Hold off on watering. You're in the middle of a roughly 7-10 day dry period. The sunny, warm weather is actually helpful right now, as it encourages callusing and reduces moisture risk.
+**Top Priority:** Closely monitor the firmness of the lower, yellowish caudex tissue for any further softening or mushiness.
 
-**One practical idea:** If you want to go the extra mile, you could take a quick photo of the lower caudex and scar. Comparing it day-to-day can sometimes reveal subtle changes easier than memory alone. But the gentle press-and-sniff test is the main job for today.
+**Watering:** Do not water today; maintain the dry period for at least 7-10 days post-repot.
 
-Keep it warm and dry on the porch, and let me know if you feel anything new.
+**Useful Check:** Gently press the old root-removal scar/hole to ensure it's dry and firm, not slimy or collapsing.
+
+**Optional Improvement:** If you're concerned about the soft lower caudex, you could use a clean finger to very gently scrape a tiny spot; firm tissue underneath is good, while brown mush is bad.
+
+**Practical Idea:** Place a small, dry stone next to the pot as a visual reminder not to water.
+
+------

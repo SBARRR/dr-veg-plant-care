@@ -3,10 +3,10 @@
 ## Current Snapshot
 <!-- Current state and durable care facts for this specific plant. This section should preserve important information that should not disappear when older Recent Events roll off the 30-entry limit. -->
 
-- Last updated: 2026-06-05
+- Last updated: 2026-06-06
   <!-- Date this snapshot was last revised. -->
 
-- Overall condition: High-stress recovery after major repot/root reduction on 2026-06-01. As of 2026-06-05, upper caudex/trunk remains firmer than the lower yellowish/previously buried caudex tissue. Lower caudex still has some firmness but was reported as slightly softer than yesterday, with some leaves beginning to yellow and flowering/buds observed. Treat as mild worsening concern and continue close rot/dehydration monitoring.
+- Overall condition: High-stress recovery after major repot/root reduction on 2026-06-01. As of 2026-06-06, caudex firmness is currently unchanged, but leaf yellowing is now spreading rapidly/significantly. Continue close rot/dehydration monitoring.
   <!-- Broad current health/status of the plant. Example: stable, recovering, declining, newly rescued, stressed, dormant, unknown. -->
 
 - Watering status: Last watered on 2026-05-31 in the original pot. Repotted on 2026-06-01 into completely dry succulent mix after major root reduction. Do not water immediately after repot/root pruning; keep dry for roughly 7–10 days while cut roots callus, unless condition changes significantly.
@@ -30,14 +30,25 @@
 - Last prune: 2026-06-05; user removed the open flower and two larger unopened buds to reduce flowering energy demand during recovery. Smaller buds remain for now.
   <!-- Most recent above-ground pruning/removal, such as leaves, traps, fronds, branches, flowers, or dead material. -->
 
-- Current concern: Recovery after major root pruning and shallow-pot repot. Monitor caudex/stem firmness, exposed base tissue, lower yellowish/previously buried tissue that now feels slightly softer, old root-removal scar/hole, leaf yellowing/drop, stalled or lost new growth, flowering energy demand, black/brown spreading tissue, and watering timing after root wounds callus.
+- Current concern: Recovery after major root pruning and shallow-pot repot. Monitor caudex/stem firmness, exposed base tissue, lower yellowish/previously buried tissue, old root-removal scar/hole, rapid leaf yellowing/drop, stalled or lost new growth, flowering energy demand, black/brown spreading tissue, and watering timing after root wounds callus.
   <!-- Main current issue, risk, or monitoring focus. If nothing is wrong, say that clearly. -->
 
-- Latest check-in notes: On 2026-06-05, user reported the lower caudex remains softer than the upper caudex and feels slightly softer than yesterday, though it still has some firmness. Some leaves are beginning to yellow, and flowering/buds were observed. User removed the open flower and two larger unopened buds, leaving smaller buds for now. Continue holding water during post-root-prune dry period and monitor for worsening softness, wetness/slime, foul smell, collapse, or spreading dark tissue.
+- Latest check-in notes: On 2026-06-06, user reported firmness remains the same, but yellowing is spreading to more leaves rapidly and significantly. Continue holding water during post-root-prune dry period and monitor for worsening softness, mushiness, wetness/slime, foul smell, collapse, or spreading dark tissue. Do not fertilize, spray, or disturb roots.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events
 <!-- Rolling event log for this plant. Keep newest 30 entries only. Newest entry goes at the top. When adding entry #31, delete the oldest entry. -->
+
+### 2026-06-06 — Leaf Yellowing / Firmness Check
+
+- Summary: Caudex firmness remains unchanged, but leaf yellowing is spreading rapidly.
+  <!-- One-line summary of what happened. -->
+
+- Details: User reported the Desert Rose firmness still remains the same. The only new significant issue is that yellowing is spreading to more leaves rapidly and significantly.
+  <!-- Useful specifics, such as amount of water, product used, symptom observed, action taken, context, or uncertainty. -->
+
+- Outcome: Continue high-stress recovery care. Do not water, fertilize, spray, or disturb roots. Keep warm, dry, bright, and protected from rain. Remove only leaves that detach with a light tug. Monitor lower caudex and scar/hole for worsening softness, mushiness, wetness/slime, foul smell, spreading black/brown tissue, or collapse.
+  <!-- Result/status after the event, expected follow-up, or "TBD" if the outcome is not known yet. -->
 
 ### 2026-06-05 — Softness / Flowering / Bud Removal
 

@@ -3,19 +3,19 @@
 ## Current Snapshot
 <!-- Current state and durable care facts for this specific plant. This section should preserve important information that should not disappear when older Recent Events roll off the 30-entry limit. -->
 
-- Last updated: 2026-06-05
+- Last updated: 2026-06-06
   <!-- Date this snapshot was last revised. -->
 
-- Overall condition: Stressed but showing short-term stabilization after recent ground-to-pot transplant; as of 2026-06-05, no new visual worsening was reported, but root-zone moisture remains higher under the mulch than in the exposed center soil.
+- Overall condition: Stressed but showing short-term stabilization after recent ground-to-pot transplant; as of 2026-06-06, soil still feels cool/somewhat moist and a new suspected orange powdery leaf fungus/rust issue was found on upper leaves near the top shoot.
   <!-- Broad current health/status of the plant. Example: stable, recovering, declining, newly rescued, stressed, dormant, unknown. -->
 
-- Watering status: Last watered on 2026-05-31 with roughly 0.5 gallon or slightly more, stopping when water drained from the bottom. On 2026-06-05, exposed center soil felt a little dry, but soil under the mulch was definitely more moist/wet. No watering indicated while the under-mulch root zone remains moist; wait until the top 2–3 inches under the mulch feel dry before watering deeply.
+- Watering status: Last watered on 2026-05-31 with roughly 0.5 gallon or slightly more, stopping when water drained from the bottom. On 2026-06-06, soil still felt cool and somewhat moist. No watering indicated while the under-mulch/root-zone soil remains moist; wait until the top 2–3 inches under the mulch feel dry before watering deeply.
   <!-- Latest watering state, including last watering, withheld watering, drainage behavior, tray status, pot weight, drying behavior, or other water-related context needed for daily advice. -->
 
 - Fertilizer status: No recent fertilizer; last fertilized roughly over a year ago while in-ground using slow-release bonsai pellets sprinkled on the soil surface.
   <!-- Latest fertilizer state, including last feeding, fertilizer used, form, dose/strength, or whether fertilizer is being intentionally avoided. -->
 
-- Pest control: No confirmed pest issue or treatment; user noticed some webbing that may be ordinary spider activity, but pest cause is unknown.
+- Pest control: Suspected orange powdery leaf fungus/rust on upper leaves near the top shoot noted on 2026-06-06; affected leaves were trimmed and trashed, live shoot/branch was left in place, and no spray was used. Prior webbing may have been ordinary spider activity; no confirmed insect pest issue or pest treatment.
   <!-- Current pest-control state, including none, suspected pests, confirmed pests, last treatment, product used, or treatment cautions. -->
 
 - Last repot: 2026-05-26; dug from the ground and moved into the current 3-gallon planter.
@@ -27,17 +27,28 @@
 - Last root prune: 2026-05-26; major root disturbance during ground-to-pot transplant, including accidental damage to outward roots and intentional taproot cut roughly 1–1.5 feet below soil level because the full taproot could not be dug out.
   <!-- Most recent root pruning or major root disturbance. Use "none known" if no root pruning has happened. -->
 
-- Last prune: None; no above-ground pruning has been performed during the tree’s life.
+- Last prune: 2026-06-06; user trimmed affected leaves only from the top shoot/tip section after orange powdery material was found, leaving the live shoot/branch in place.
   <!-- Most recent above-ground pruning/removal, such as leaves, traps, fronds, branches, flowers, or dead material. -->
 
-- Current concern: Monitor transplant stress recovery, especially whether leaf browning spreads, whether new growth/twig tips firm up or droop further, and whether soil under the mulch dries steadily without becoming soggy or bone-dry. Keep mulch slightly away from the trunk/base.
+- Current concern: Monitor transplant stress recovery, especially whether leaf browning spreads, whether new growth/twig tips firm up or droop further, whether soil under the mulch dries steadily without becoming soggy or bone-dry, and whether the suspected orange powdery leaf fungus/rust spreads beyond the affected top shoot. Keep mulch slightly away from the trunk/base.
   <!-- Main current issue, risk, or monitoring focus. If nothing is wrong, say that clearly. -->
 
-- Latest check-in notes: On 2026-06-05, user reported exposed center soil feels a little dry, but soil under the mulch is definitely more moist/wet. No watering today because the under-mulch root zone still has moisture. Continue holding water until the top 2–3 inches under the mulch feel dry.
+- Latest check-in notes: On 2026-06-06, user reported soil still feels cool and somewhat moist. Orange bumps/material under leaves near the top of the tree came off with a fuzzy craft pipe cleaner and appeared powdery, making suspected rust/fungal spores more likely than galls. Issue was concentrated on the very top shoot/tip section. User trimmed affected leaves only and left the live shoot/branch in place. No watering, spray, fertilizer, or further trimming today.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events
 <!-- Rolling event log for this plant. Keep newest 30 entries only. Newest entry goes at the top. When adding entry #31, delete the oldest entry. -->
+
+### 2026-06-06 — Moisture / Suspected Leaf Fungus / Leaf Trim
+
+- Summary: Soil still feels cool and somewhat moist; suspected orange powdery leaf fungus was found on upper leaves and affected leaves were trimmed.
+  <!-- One-line summary of what happened. -->
+
+- Details: User reported the soil still feels cool and somewhat moist, though moisture judgment feels uncertain. User noticed orange bumps/material under leaves near the top of the tree. Material came off with a fuzzy craft pipe cleaner and appeared powdery, making suspected rust/fungal spores more likely than galls. Issue was concentrated on the very top shoot/tip section. User trimmed off affected leaves only and left the live shoot/branch in place.
+  <!-- Useful specifics, such as amount of water, product used, symptom observed, action taken, context, or uncertainty. -->
+
+- Outcome: No watering today while soil remains cool/moist. No spray or fertilizer while tree is transplant-stressed. Continue monitoring for spread of orange powdery spots, worsening leaf damage, dieback of the top shoot, or broader canopy decline.
+  <!-- Result/status after the event, expected follow-up, or "TBD" if the outcome is not known yet. -->
 
 ### 2026-06-05 — Moisture Check
 

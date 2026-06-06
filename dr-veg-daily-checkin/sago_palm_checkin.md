@@ -1,15 +1,15 @@
-Good morning! Your Sago Palm is doing fine overall, but the main thing today is to **hold off on watering**.
+Your Sago Palm is stable overall, with its healthy new green growth being the best sign that it's doing just fine. The two older yellowing fronds are likely a normal part of its slow, cyclical renewal, especially as we move into the warmer, active growing season.
 
-The soil still felt cool and slightly damp yesterday, and with today's overcast conditions and decent humidity, it won't dry out quickly. Watering now would risk keeping the roots too wet.
+The plant's shallow pot and your excellent drainage setup mean it will dry out relatively quickly, which is perfect for preventing root issues. With the hot, dry forecast, just keep an eye on soil moisture to balance its needs without overdoing it.
 
-**Watering guidance:** Wait until the top 1-2 inches of soil feel dry to the touch and the pot feels lighter. Given the shallow bonsai pot, it's better to err on the side of dryness.
+Top priority today is to simply observe the yellowing fronds and ensure the spots aren't spreading to the healthy new growth.
 
-**Useful check:** Please peek at the drip tray. If there's still any water sitting in it, go ahead and empty it. Keeping the pot elevated above standing water is a great setup, but we don't want any water lingering down there.
+Check the soil moisture with your finger; if the top inch is dry, it's time for a thorough watering.
 
-The two older, yellowing fronds with spots are still on watch. As long as the new central growth stays healthy and green, this is likely just normal aging. You can leave them be until they turn fully brown and crispy.
+Give the newer, green fronds a gentle wiggle to confirm they are firmly attached and not loosening.
 
-With the warm season here, your Sago might start thinking about a new growth flush. If you wanted to give it a gentle boost, a **light application of slow-release palm fertilizer** could be an optional upgrade in a week or two—but only if the soil is dry and the plant seems stable. No rush.
+An optional upgrade would be to wipe down the fronds with a damp cloth to remove dust, which can help the plant photosynthesize more efficiently.
 
-Today's practical idea: When you check the tray, take a quick glance at the undersides of a few fronds, especially near the stem. It's a good, low-effort way to keep an eye out for early signs of scale insects.
+Consider placing a small, clear water gauge in the soil to take the guesswork out of future moisture checks.
 
-That's it for today. Just let that soil dry out a bit more.
+------

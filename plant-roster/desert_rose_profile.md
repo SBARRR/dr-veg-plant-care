@@ -33,8 +33,8 @@
 - Indoor or outdoor: Outdoor
   <!-- Whether the plant is currently kept indoors, outdoors, or in a semi-protected space like an enclosed porch. -->
 
-- Light situation: Estimated 4-6 hours afternoon to late day sun filtered by patio screen. Little to no morning sun, indirect light the rest of the day
-  <!-- Approximate normal light the plant receives in this location, including rough hours if known and type of light. Example: 2–3 hours direct afternoon sun, bright indirect light most of the day, mostly shade, grow light 12 hours/day. -->
+- Light situation: Summer: mostly shaded earlier in the day, then roughly 3–3.5 hours of late-afternoon direct sun filtered by patio screen; indirect/bright shade the rest of the day. Fall/winter direct sun likely lower.
+  <!-- Approximate normal light the plant receives in this location, including rough hours if known and type of light. Example: 2–3 hours direct sun, bright indirect light most of the day, mostly shade, grow light 12 hours/day. -->
 
 - Pot / container: Unglazed ceramic bonsai training pot, approx. 8.2 in L x 6.7 in W x 2.3 in H.
   <!-- Current pot or container type, size if known, and material if relevant. -->

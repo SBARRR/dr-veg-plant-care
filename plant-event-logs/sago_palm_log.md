@@ -6,13 +6,13 @@
 - Last updated: 2026-06-07
   <!-- Date this snapshot was last revised. -->
 
-- Overall condition: Stable/unchanged; at least two older fronds are yellowing with scattered tan/brown spots visible in user photo, while newer growth is reportedly healthy green. No new worsening reported as of 2026-06-07.
+- Overall condition: Established and generally stable. Older fronds show yellowing/spotted aging or stress, while newer growth is reportedly healthy green. Current focus is better routine care discipline.
   <!-- Broad current health/status of the plant. Example: stable, recovering, declining, newly rescued, stressed, dormant, unknown. -->
 
 - Watering status: Last watered on 2026-06-05 after soil felt pretty dry; watered thoroughly until drainage came out the bottom. As of 2026-06-07, media still feels somewhat moist/damp, so no watering is indicated. Let the mix dry appropriately again before the next watering and avoid letting the pot sit in standing tray water.
   <!-- Latest watering state, including last watering, withheld watering, drainage behavior, tray status, pot weight, drying behavior, or other water-related context needed for daily advice. -->
 
-- Fertilizer status: No recent fertilizer; last fertilizing was roughly over a year ago, product and dose unknown.
+- Fertilizer status: No recent fertilizer; last fertilizing was roughly over a year ago, product and dose unknown. Light palm/cycad fertilizer is appropriate during warm-season routine care, ideally at the next normal watering or when the media is not overly wet.
   <!-- Latest fertilizer state, including last feeding, fertilizer used, form, dose/strength, or whether fertilizer is being intentionally avoided. -->
 
 - Pest control: No confirmed current pest issue or pest-control treatments. Photo shows spotting on yellowing fronds, but no obvious pest is confirmed from the image; user checked undersides and did not see white specks or raised bumps.
@@ -30,10 +30,10 @@
 - Last prune: Last frond removal was around fall 2025; exact date and number of fronds removed unknown.
   <!-- Most recent above-ground pruning/removal, such as leaves, traps, fronds, branches, flowers, or dead material. -->
 
-- Current concern: Monitor yellowing/spotted fronds and confirm new green growth remains unaffected.
+- Current concern: Monitor yellowing/spotted older fronds, confirm newer green growth remains healthy, and resume light warm-season feeding at a conservative dose.
   <!-- Main current issue, risk, or monitoring focus. If nothing is wrong, say that clearly. -->
 
-- Latest check-in notes: On 2026-06-07, user reported nothing new. Overall condition remains the same, and the media still feels somewhat moist/damp after the 2026-06-05 watering. No watering today; continue letting the mix dry appropriately before watering again.
+- Latest check-in notes: On 2026-06-07, plant remained unchanged and media still felt somewhat moist/damp after the 2026-06-05 watering, so no watering was done. Light palm/cycad fertilizer is reasonable at the next normal watering or when the media is not overly wet.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events

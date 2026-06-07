@@ -30,10 +30,10 @@
 - Last prune: 2026-06-05; user removed the open flower and two larger unopened buds to reduce flowering energy demand during recovery. Smaller buds remain for now.
   <!-- Most recent above-ground pruning/removal, such as leaves, traps, fronds, branches, flowers, or dead material. -->
 
-- Current concern: Recovery after major root pruning and shallow-pot repot. Monitor caudex/stem firmness, exposed base tissue, lower yellowish/previously buried tissue, old root-removal scar/hole, rapid leaf yellowing/drop, stalled or lost new growth, flowering energy demand, black/brown spreading tissue, and watering timing after root wounds callus.
+- Current concern: Recovery after major root pruning and shallow-pot repot. Monitor caudex/stem firmness, exposed base tissue, lower yellowish/previously buried tissue, old root-removal scar/hole, rapid leaf yellowing/drop, stalled or lost new growth, flowering energy demand, black/brown spreading tissue, and watering timing after root wounds callus. Current porch light is acceptable during acute recovery; once the plant appears more stable, user plans to actively look for a brighter long-term location.
   <!-- Main current issue, risk, or monitoring focus. If nothing is wrong, say that clearly. -->
 
-- Latest check-in notes: On 2026-06-07, user reported firmness remains the same, but yellowing is expanding/deepening and a couple leaves are starting to brown and turn crispy. Continue holding water during post-root-prune dry period and monitor for worsening softness, mushiness, wetness/slime, foul smell, collapse, or spreading dark tissue. Do not fertilize, spray, or disturb roots.
+- Latest check-in notes: On 2026-06-07, user reported firmness remains the same, but yellowing is expanding/deepening and a couple leaves are starting to brown and turn crispy. Continue holding water during post-root-prune dry period and monitor for worsening softness, mushiness, wetness/slime, foul smell, collapse, or spreading dark tissue. Do not fertilize, spray, or disturb roots. User plans to keep the Desert Rose in its current porch light during acute recovery, then actively look for a brighter long-term location once it appears more stable.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events

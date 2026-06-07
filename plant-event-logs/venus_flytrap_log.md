@@ -30,10 +30,10 @@
 - Last prune: 2026-06-03; user removed the fully dead brown trap mouth/tip from a partially green leaf, leaving the green lower stem/leaf tissue attached.
   <!-- Most recent above-ground pruning/removal, such as leaves, traps, fronds, branches, flowers, or dead material. -->
 
-- Current concern: Monitor recovery from Walmart rescue condition, especially new browning/blackening, renewed drooping, yellowing around trap mouths, tray dry-down speed, green surface film on media, and whether healthy firm green growth continues.
+- Current concern: Monitor recovery from Walmart rescue condition, especially new browning/blackening, renewed drooping, yellowing around trap mouths, tray dry-down speed, green surface film on media, whether healthy firm green growth continues, and the active search for a brighter long-term location because current porch light is likely marginal for strong Venus flytrap recovery.
   <!-- Main current issue, risk, or monitoring focus. If nothing is wrong, say that clearly. -->
 
-- Latest check-in notes: On 2026-06-07, user reported nothing new. Tray water level was lower than yesterday but still had a decent amount remaining, so no refill was needed. Continue monitoring tray level and crown/base condition.
+- Latest check-in notes: On 2026-06-07, user reported nothing new. Tray water level was lower than yesterday but still had a decent amount remaining, so no refill was needed. Continue monitoring tray level and crown/base condition. User is actively scouting a brighter long-term location because the current porch light is likely marginal for strong Venus flytrap recovery.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events

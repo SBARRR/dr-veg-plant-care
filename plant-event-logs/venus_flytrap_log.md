@@ -6,10 +6,10 @@
 - Last updated: 2026-06-07
   <!-- Date this snapshot was last revised. -->
 
-- Overall condition: Stressed but stable as a recent Walmart rescue; as of 2026-06-07, no significant new changes were reported.
+- Overall condition: Stressed Walmart rescue; as of 2026-06-07 evening, plant looked slightly droopier after the tray was found empty and refilled. Monitor whether it perks back up after tray water is restored.
   <!-- Broad current health/status of the plant. Example: stable, recovering, declining, newly rescued, stressed, dormant, unknown. -->
 
-- Watering status: Tray water was lower than yesterday on 2026-06-07 but still sufficient, so no refill was done. Standing rule remains to use only distilled, rain, or RO water. Continue keeping media wet and refill the tray when empty or nearly empty.
+- Watering status: Tray water was lower but still present earlier on 2026-06-07, then empty by evening; user refilled the tray. Standing rule remains to use only distilled, rain, or RO water. Continue keeping media wet and refill the tray when empty or nearly empty.
   <!-- Latest watering state, including last watering, withheld watering, drainage behavior, tray status, pot weight, drying behavior, or other water-related context needed for daily advice. -->
 
 - Fertilizer status: No fertilizer or plant food has been given.
@@ -33,11 +33,22 @@
 - Current concern: Monitor recovery from Walmart rescue condition, especially new browning/blackening, renewed drooping, yellowing around trap mouths, tray dry-down speed, green surface film on media, whether healthy firm green growth continues, and the active search for a brighter long-term location because current porch light is likely marginal for strong Venus flytrap recovery.
   <!-- Main current issue, risk, or monitoring focus. If nothing is wrong, say that clearly. -->
 
-- Latest check-in notes: On 2026-06-07, user reported nothing new. Tray water level was lower than yesterday but still had a decent amount remaining, so no refill was needed. Continue monitoring tray level and crown/base condition. User is actively scouting a brighter long-term location because the current porch light is likely marginal for strong Venus flytrap recovery.
+- Latest check-in notes: On 2026-06-07 evening, user reported the Venus flytrap looked a little droopier and the tray was empty, so the tray was refilled. Continue monitoring tray level, media wetness, and crown/base condition. If still droopy tomorrow, delay stronger outdoor sun testing. User is actively scouting a brighter long-term location because the current porch light is likely marginal for strong Venus flytrap recovery.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events
 <!-- Rolling event log for this plant. Keep newest 30 entries only. Newest entry goes at the top. When adding entry #31, delete the oldest entry. -->
+
+### 2026-06-07 — Evening Tray Empty / Droopier Appearance
+
+- Summary: Venus flytrap looked slightly droopier and tray water was empty; user refilled the tray.
+  <!-- One-line summary of what happened. -->
+
+- Details: Evening update showed the Venus flytrap looked a little droopier than earlier. The water tray was empty, so user refilled it. Water type was not restated in this update; standing rule remains distilled, rain, or RO water only.
+  <!-- Useful specifics, such as amount of water, product used, symptom observed, action taken, context, or uncertainty. -->
+
+- Outcome: Tray refill was appropriate. Keep media wet and monitor whether the plant perks back up after tray water is restored. If still droopy tomorrow, delay any stronger outdoor sun test. Continue watching for crown/base blackening, mushiness, collapse, or worsening browning.
+  <!-- Result/status after the event, expected follow-up, or "TBD" if the outcome is not known yet. -->
 
 ### 2026-06-07 — Stability / Tray Level Check
 

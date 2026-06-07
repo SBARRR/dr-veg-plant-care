@@ -3,10 +3,10 @@
 ## Current Snapshot
 <!-- Current state and durable care facts for this specific plant. This section should preserve important information that should not disappear when older Recent Events roll off the 30-entry limit. -->
 
-- Last updated: 2026-06-06
+- Last updated: 2026-06-07
   <!-- Date this snapshot was last revised. -->
 
-- Overall condition: High-stress recovery after major repot/root reduction on 2026-06-01. As of 2026-06-06, caudex firmness is currently unchanged, but leaf yellowing is now spreading rapidly/significantly. Continue close rot/dehydration monitoring.
+- Overall condition: High-stress recovery after major repot/root reduction on 2026-06-01. As of 2026-06-07, caudex firmness remains unchanged, but leaf yellowing is worsening and some leaves are browning/crisping. Continue close rot/dehydration monitoring.
   <!-- Broad current health/status of the plant. Example: stable, recovering, declining, newly rescued, stressed, dormant, unknown. -->
 
 - Watering status: Last watered on 2026-05-31 in the original pot. Repotted on 2026-06-01 into completely dry succulent mix after major root reduction. Do not water immediately after repot/root pruning; keep dry for roughly 7–10 days while cut roots callus, unless condition changes significantly.
@@ -33,11 +33,22 @@
 - Current concern: Recovery after major root pruning and shallow-pot repot. Monitor caudex/stem firmness, exposed base tissue, lower yellowish/previously buried tissue, old root-removal scar/hole, rapid leaf yellowing/drop, stalled or lost new growth, flowering energy demand, black/brown spreading tissue, and watering timing after root wounds callus.
   <!-- Main current issue, risk, or monitoring focus. If nothing is wrong, say that clearly. -->
 
-- Latest check-in notes: On 2026-06-06, user reported firmness remains the same, but yellowing is spreading to more leaves rapidly and significantly. Continue holding water during post-root-prune dry period and monitor for worsening softness, mushiness, wetness/slime, foul smell, collapse, or spreading dark tissue. Do not fertilize, spray, or disturb roots.
+- Latest check-in notes: On 2026-06-07, user reported firmness remains the same, but yellowing is expanding/deepening and a couple leaves are starting to brown and turn crispy. Continue holding water during post-root-prune dry period and monitor for worsening softness, mushiness, wetness/slime, foul smell, collapse, or spreading dark tissue. Do not fertilize, spray, or disturb roots.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events
 <!-- Rolling event log for this plant. Keep newest 30 entries only. Newest entry goes at the top. When adding entry #31, delete the oldest entry. -->
+
+### 2026-06-07 — Worsening Leaf Yellowing / Browning Check
+
+- Summary: Caudex firmness remains unchanged, but yellowing is expanding and deepening, with some leaves beginning to brown and turn crispy.
+  <!-- One-line summary of what happened. -->
+
+- Details: User reported Desert Rose firmness still feels the same. Leaf yellowing continues to expand and deepen, and a couple leaves are starting to turn brown/crispy.
+  <!-- Useful specifics, such as amount of water, product used, symptom observed, action taken, context, or uncertainty. -->
+
+- Outcome: Continue high-stress post-root-prune recovery care. Hold water today, keep warm/dry/bright and protected from rain, and do not fertilize, spray, repot, or disturb roots. Leaf loss is likely stress response as long as caudex firmness remains stable. Remove only fully crispy leaves or leaves that detach with a light tug. Monitor for mushy softness, wet/slimy tissue, foul smell, collapse, or spreading black/brown tissue.
+  <!-- Result/status after the event, expected follow-up, or "TBD" if the outcome is not known yet. -->
 
 ### 2026-06-06 — Leaf Yellowing / Firmness Check
 

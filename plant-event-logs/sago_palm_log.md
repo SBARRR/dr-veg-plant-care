@@ -3,13 +3,13 @@
 ## Current Snapshot
 <!-- Current state and durable care facts for this specific plant. This section should preserve important information that should not disappear when older Recent Events roll off the 30-entry limit. -->
 
-- Last updated: 2026-06-06
+- Last updated: 2026-06-07
   <!-- Date this snapshot was last revised. -->
 
-- Overall condition: Stable/unchanged; at least two older fronds are yellowing with scattered tan/brown spots visible in user photo, while newer growth is reportedly healthy green. No new worsening reported as of 2026-06-06.
+- Overall condition: Stable/unchanged; at least two older fronds are yellowing with scattered tan/brown spots visible in user photo, while newer growth is reportedly healthy green. No new worsening reported as of 2026-06-07.
   <!-- Broad current health/status of the plant. Example: stable, recovering, declining, newly rescued, stressed, dormant, unknown. -->
 
-- Watering status: Last watered on 2026-06-05 after soil felt pretty dry; watered thoroughly until drainage came out the bottom. As of 2026-06-06, media still feels pretty wet, so no watering is indicated. Let the mix dry appropriately again before the next watering and avoid letting the pot sit in standing tray water.
+- Watering status: Last watered on 2026-06-05 after soil felt pretty dry; watered thoroughly until drainage came out the bottom. As of 2026-06-07, media still feels somewhat moist/damp, so no watering is indicated. Let the mix dry appropriately again before the next watering and avoid letting the pot sit in standing tray water.
   <!-- Latest watering state, including last watering, withheld watering, drainage behavior, tray status, pot weight, drying behavior, or other water-related context needed for daily advice. -->
 
 - Fertilizer status: No recent fertilizer; last fertilizing was roughly over a year ago, product and dose unknown.
@@ -33,11 +33,22 @@
 - Current concern: Monitor yellowing/spotted fronds and confirm new green growth remains unaffected.
   <!-- Main current issue, risk, or monitoring focus. If nothing is wrong, say that clearly. -->
 
-- Latest check-in notes: On 2026-06-06, user reported nothing new/significant. Overall condition remains the same, and the media still feels pretty wet after the 2026-06-05 watering. No watering today; continue letting the mix dry appropriately before watering again.
+- Latest check-in notes: On 2026-06-07, user reported nothing new. Overall condition remains the same, and the media still feels somewhat moist/damp after the 2026-06-05 watering. No watering today; continue letting the mix dry appropriately before watering again.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events
 <!-- Rolling event log for this plant. Keep newest 30 entries only. Newest entry goes at the top. When adding entry #31, delete the oldest entry. -->
+
+### 2026-06-07 — Moisture / Stability Check
+
+- Summary: Sago palm looks unchanged; media still feels somewhat moist/damp.
+  <!-- One-line summary of what happened. -->
+
+- Details: User reported nothing new to report. Overall condition looks the same, and the media is still somewhat moist and damp after the 2026-06-05 watering.
+  <!-- Useful specifics, such as amount of water, product used, symptom observed, action taken, context, or uncertainty. -->
+
+- Outcome: No watering today. Continue letting the mix dry down before the next watering, avoid standing water touching the pot bottom, and keep monitoring yellowing/spotted older fronds versus healthy green growth.
+  <!-- Result/status after the event, expected follow-up, or "TBD" if the outcome is not known yet. -->
 
 ### 2026-06-06 — Moisture / Stability Check
 

@@ -3,13 +3,13 @@
 ## Current Snapshot
 <!-- Current state and durable care facts for this specific plant. This section should preserve important information that should not disappear when older Recent Events roll off the 30-entry limit. -->
 
-- Last updated: 2026-06-06
+- Last updated: 2026-06-07
   <!-- Date this snapshot was last revised. -->
 
-- Overall condition: Stressed but stable as a recent Walmart rescue; as of 2026-06-06, no significant new changes were reported.
+- Overall condition: Stressed but stable as a recent Walmart rescue; as of 2026-06-07, no significant new changes were reported.
   <!-- Broad current health/status of the plant. Example: stable, recovering, declining, newly rescued, stressed, dormant, unknown. -->
 
-- Watering status: Tray was nearly empty with a little water remaining on 2026-06-06, so the user added some more water to the tray. Water type and amount were not restated in this update; standing rule remains to use only distilled, rain, or RO water. Continue keeping media wet and refill the tray when empty or nearly empty.
+- Watering status: Tray water was lower than yesterday on 2026-06-07 but still sufficient, so no refill was done. Standing rule remains to use only distilled, rain, or RO water. Continue keeping media wet and refill the tray when empty or nearly empty.
   <!-- Latest watering state, including last watering, withheld watering, drainage behavior, tray status, pot weight, drying behavior, or other water-related context needed for daily advice. -->
 
 - Fertilizer status: No fertilizer or plant food has been given.
@@ -33,11 +33,22 @@
 - Current concern: Monitor recovery from Walmart rescue condition, especially new browning/blackening, renewed drooping, yellowing around trap mouths, tray dry-down speed, green surface film on media, and whether healthy firm green growth continues.
   <!-- Main current issue, risk, or monitoring focus. If nothing is wrong, say that clearly. -->
 
-- Latest check-in notes: On 2026-06-06, user reported no significant new changes. Tray water was almost gone with a little remaining, so the user added some more water to the tray. Continue monitoring tray level and crown/base condition.
+- Latest check-in notes: On 2026-06-07, user reported nothing new. Tray water level was lower than yesterday but still had a decent amount remaining, so no refill was needed. Continue monitoring tray level and crown/base condition.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events
 <!-- Rolling event log for this plant. Keep newest 30 entries only. Newest entry goes at the top. When adding entry #31, delete the oldest entry. -->
+
+### 2026-06-07 — Stability / Tray Level Check
+
+- Summary: Plant remains stable; tray water is lower than yesterday but still present.
+  <!-- One-line summary of what happened. -->
+
+- Details: User reported nothing new with the Venus flytrap. Tray water level is lower than yesterday but still contains a decent amount of water.
+  <!-- Useful specifics, such as amount of water, product used, symptom observed, action taken, context, or uncertainty. -->
+
+- Outcome: No refill needed today while tray still has a decent amount of water. Continue keeping media wet with distilled/rain/RO water and refill when the tray is empty or nearly empty. Monitor crown/base for new blackening, mushiness, collapse, or worsening browning.
+  <!-- Result/status after the event, expected follow-up, or "TBD" if the outcome is not known yet. -->
 
 ### 2026-06-06 — Stability / Tray Top-Off
 

@@ -30,24 +30,24 @@
 - Last prune: 2026-06-06; user trimmed affected leaves only from the top shoot/tip section after orange powdery material was found, leaving the live shoot/branch in place.
   <!-- Most recent above-ground pruning/removal, such as leaves, traps, fronds, branches, flowers, or dead material. -->
 
-- Current concern: Monitor transplant stress recovery, especially whether leaf browning/drop spreads, whether new growth/twig tips firm up or droop further, whether soil under the mulch dries steadily without becoming soggy or bone-dry, and whether the suspected orange powdery leaf fungus/rust spreads beyond the affected top shoot. Keep mulch slightly away from the trunk/base.
+- Current concern: Monitor transplant stress recovery, especially whether leaf browning/drop spreads, whether new growth/twig tips firm up or droop further, whether soil under the mulch dries steadily without becoming soggy or bone-dry, whether the suspected orange powdery leaf fungus/rust spreads beyond the affected top shoot, and whether a brighter long-term position is needed because the current porch spot receives less direct sun than the smaller porch plants. Keep mulch slightly away from the trunk/base.
   <!-- Main current issue, risk, or monitoring focus. If nothing is wrong, say that clearly. -->
 
-- Latest check-in notes: On 2026-06-07, user checked below the mulch and reported the root-zone soil still feels somewhat moist/damp, though definitely less moist than before and only slightly cool. User found and removed about 15 fallen brown crispy leaves from the mulch surface. Later the oak was moved briefly outside from the shaded porch position to receive more direct sun. No watering was done.
+- Latest check-in notes: On 2026-06-07, user checked below the mulch and reported the root-zone soil still feels somewhat moist/damp, though definitely less moist than before and only slightly cool. User found and removed about 15 fallen brown crispy leaves from the mulch surface. Later the oak was moved outside temporarily for about 2 hours of extra direct light because the normal porch spot may receive less direct sun than previously estimated, then returned to its normal porch spot. No watering was done.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events
 <!-- Rolling event log for this plant. Keep newest 30 entries only. Newest entry goes at the top. When adding entry #31, delete the oldest entry. -->
 
-### 2026-06-07 — Temporary Outdoor Sun Move
+### 2026-06-07 — Temporary Outdoor Sun Position Test
 
-- Summary: Oak was moved briefly outside to receive more direct sun.
+- Summary: Oak was moved outside temporarily for about 2 hours of extra direct light.
   <!-- One-line summary of what happened. -->
 
-- Details: User moved the Southern Live Oak from the shaded porch position to a spot just outside the porch on the same side of the house. Porch placement was giving very little direct sun to the canopy. In the outdoor spot, the pot and canopy both receive sun because there is no practical way to shade only the pot while exposing the leaves.
+- Details: User suspected the Southern Live Oak’s normal porch position may receive less direct sun than previously estimated because the tree is tall and positioned closer to the sliding glass door than the other porch plants. User moved the oak just outside the porch on the same side of the house for a temporary sun-position test, then returned it to its normal porch spot afterward.
   <!-- Useful specifics, such as amount of water, product used, symptom observed, action taken, context, or uncertainty. -->
 
-- Outcome: Temporary light-position adjustment only. No watering was done before the move because under-mulch soil still felt slightly cool/moist earlier today. Keep treating the tree as transplant-stressed and avoid fertilizer, pruning, or repotting.
+- Outcome: Temporary light-position test only; do not treat this as a confirmed long-term placement yet. No watering was done because under-mulch soil still felt slightly cool/moist earlier today. Continue evaluating a brighter long-term position while avoiding extra stress, fertilizer, pruning, or repotting.
   <!-- Result/status after the event, expected follow-up, or "TBD" if the outcome is not known yet. -->
 
 ### 2026-06-07 — Under-Mulch Moisture Check / Moderate Crispy Leaf Drop

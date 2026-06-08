@@ -3,13 +3,13 @@
 ## Current Snapshot
 <!-- Current state and durable care facts for this specific plant. This section should preserve important information that should not disappear when older Recent Events roll off the 30-entry limit. -->
 
-- Last updated: 2026-06-07
+- Last updated: 2026-06-08
   <!-- Date this snapshot was last revised. -->
 
 - Overall condition: Stressed after recent ground-to-pot transplant; as of 2026-06-07, under-mulch soil is drying but still slightly cool/moist, and about 15 fallen brown crispy leaves were removed from the mulch surface. Continue close transplant-stress monitoring.
   <!-- Broad current health/status of the plant. Example: stable, recovering, declining, newly rescued, stressed, dormant, unknown. -->
 
-- Watering status: Last watered on 2026-05-31 with roughly 0.5 gallon or slightly more, stopping when water drained from the bottom. On 2026-06-07, user checked below the mulch and the root-zone soil still felt somewhat moist/damp, though less moist than before and only slightly cool. No watering indicated while the under-mulch/root-zone soil remains moist; wait until the top 2–3 inches under the mulch feel dry before watering deeply.
+- Watering status: Last watered on 2026-05-31 with roughly 0.5 gallon or slightly more, stopping when water drained from the bottom. On 2026-06-08, soil appeared to be getting dry but still felt cool/moist under the mulch, though significantly less moist than yesterday. No midday watering was done; user plans to recheck after direct sun is gone and water later only if the top 2–3 inches under the mulch feel dry.
   <!-- Latest watering state, including last watering, withheld watering, drainage behavior, tray status, pot weight, drying behavior, or other water-related context needed for daily advice. -->
 
 - Fertilizer status: No recent fertilizer; last fertilized roughly over a year ago while in-ground using slow-release bonsai pellets sprinkled on the soil surface.
@@ -33,11 +33,22 @@
 - Current concern: Monitor transplant stress recovery, especially whether leaf browning/drop spreads, whether new growth/twig tips firm up or droop further, whether soil under the mulch dries steadily without becoming soggy or bone-dry, whether the suspected orange powdery leaf fungus/rust spreads beyond the affected top shoot, and the active search for a brighter long-term position because the current porch spot receives less direct sun than the smaller porch plants. Keep mulch slightly away from the trunk/base.
   <!-- Main current issue, risk, or monitoring focus. If nothing is wrong, say that clearly. -->
 
-- Latest check-in notes: On 2026-06-07, user checked below the mulch and reported the root-zone soil still feels somewhat moist/damp, though definitely less moist than before and only slightly cool. User found and removed about 15 fallen brown crispy leaves from the mulch surface. Later the oak was moved outside temporarily for about 2 hours of extra direct light because the normal porch spot receives less direct sun than previously estimated, then returned to its normal porch spot. User is actively scouting a brighter long-term location. No watering was done.
+- Latest check-in notes: On 2026-06-08, user reported the soil looks like it is getting dry, but under-mulch soil still feels cool/moist and significantly less moist than yesterday. User plans to recheck later after the sun is gone and water only if needed.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events
 <!-- Rolling event log for this plant. Keep newest 30 entries only. Newest entry goes at the top. When adding entry #31, delete the oldest entry. -->
+
+### 2026-06-08 — Moisture Dry-Down Check
+
+- Summary: Soil is drying but still cool/moist under the mulch.
+  <!-- One-line summary of what happened. -->
+
+- Details: User reported the soil looks like it is getting dry, but still feels cool/moist under the mulch, though significantly less moist than yesterday.
+  <!-- Useful specifics, such as amount of water, product used, symptom observed, action taken, context, or uncertainty. -->
+
+- Outcome: No midday watering while under-mulch soil still feels cool/moist. Recheck after direct sun is gone. Water deeply to runoff later only if the top 2–3 inches under the mulch feel dry; otherwise continue waiting.
+  <!-- Result/status after the event, expected follow-up, or "TBD" if the outcome is not known yet. -->
 
 ### 2026-06-07 — Temporary Outdoor Sun Position Test
 

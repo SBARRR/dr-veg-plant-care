@@ -1,15 +1,15 @@
-Your Venus Flytrap is holding steady in its recovery phase, showing promising new growth from the center. The recent hot, dry weather means we need to be extra vigilant about its water tray, as evaporation will be faster.
+Your Venus flytrap is showing the classic signs of a stressed rescue, with recent drooping linked to the tray running dry. The good news is that new central growth is slowly unfurling, which is a solid sign the crown is still alive and trying to recover.
 
-Focus on maintaining stability with pure water and good light, as the plant continues to adjust from its big-box store origins. The overcast conditions today are actually a gentle bonus, providing bright light without the risk of scorching its sensitive new leaves.
+The top priority is ensuring the tray never empties completely again, as consistent moisture is non-negotiable. While the forecasted heat and humidity are actually beneficial, the plant’s current filtered porch light is likely too weak for a strong, long-term comeback.
 
-Top priority: Ensure the tray has a shallow amount of distilled or rain water to combat today's low humidity and high evaporation.
+**Top Priority:** Watch for the plant to perk up after yesterday's tray refill; continued droopiness would be a concern.
 
-Water with distilled, rain, or RO water only, keeping the media consistently wet via the tray.
+**Watering:** Keep the tray filled with about a half-inch of distilled, rain, or RO water at all times.
 
-Check that the new central growth continues to elongate and unfurl without any blackening at the base.
+**Useful Check:** Gently feel the media's surface; it should be damp, not dry or crunchy.
 
-Optionally, you could gently rotate the pot a quarter turn to ensure even light exposure as the new growth develops.
+**Optional Extra:** If the plant perks up in a few days, consider moving it to a spot that gets at least 4 hours of direct morning sun to boost its strength.
 
-A practical idea: Use a permanent marker to write "DISTILLED ONLY" on your watering jug as a foolproof reminder.
+**Practical Idea:** Set a daily phone reminder to quickly peek at the tray water level—it’s the easiest way to prevent another dry-down.
 
 ------

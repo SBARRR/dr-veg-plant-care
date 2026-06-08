@@ -1,15 +1,15 @@
-Your Desert Rose is in a high-stress recovery phase after its major root reduction and repot last week. The rapid leaf yellowing is a significant stress signal, but the unchanged caudex firmness is a good sign that root rot hasn't set in.
+Your Desert Rose is in a high-stress recovery phase after its major surgery, and today's overcast weather actually provides a gentle environment for it to heal without extra heat stress. The continued leaf yellowing and drop is a normal, if dramatic, stress response to the significant root loss, and your priority remains protecting the plant from rot by keeping it completely dry.
 
-The warm, dry weather is actually helpful right now, as it encourages the root wounds to callus over in the dry soil. Your top priority is to continue withholding water and monitor the plant's core structure closely for any shift from firm to soft.
+The caudex firmness has held steady, which is the best news you could hope for right now. Keep trusting the dry-down process for the new soil, as today's high humidity means evaporation will be slow, further reinforcing the need to hold off on watering.
 
-**Top Priority:** Continue the strict no-water rule to let root wounds callus, despite the leaf yellowing.
+**Top Priority:** Continue the strict no-watering protocol to let root wounds callus over.
 
-**Watering:** Do not water today; the soil should stay completely dry.
+**Watering:** Do not water; the soil must stay dry for at least 7-10 days post-repot.
 
-**Useful Check:** Gently press the lower, yellowish part of the caudex; report back if it feels softer or mushier than yesterday.
+**Useful Check:** Gently feel the lower, yellowish part of the caudex for any new softness or mushiness.
 
-**Optional Extra:** Shield it from any unexpected rain on the porch to keep the soil bone-dry.
+**Optional Improvement:** If you're worried, you can gently brush away any fallen leaf debris from the soil surface to improve airflow.
 
-**Practical Idea:** If a yellow leaf detaches with a light tug, go ahead and remove it to keep things tidy and reduce any potential for decay.
+**Practical Idea:** Set a calendar reminder for this weekend to reassess the plant's condition and consider its first post-repot watering.
 
 ------

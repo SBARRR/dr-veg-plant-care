@@ -3,13 +3,13 @@
 ## Current Snapshot
 <!-- Current state and durable care facts for this specific plant. This section should preserve important information that should not disappear when older Recent Events roll off the 30-entry limit. -->
 
-- Last updated: 2026-06-07
+- Last updated: 2026-06-08
   <!-- Date this snapshot was last revised. -->
 
 - Overall condition: Established and generally stable. Older fronds show yellowing/spotted aging or stress, while newer growth is reportedly healthy green. Current focus is better routine care discipline.
   <!-- Broad current health/status of the plant. Example: stable, recovering, declining, newly rescued, stressed, dormant, unknown. -->
 
-- Watering status: Last watered on 2026-06-05 after soil felt pretty dry; watered thoroughly until drainage came out the bottom. As of 2026-06-07, media still feels somewhat moist/damp, so no watering is indicated. Let the mix dry appropriately again before the next watering and avoid letting the pot sit in standing tray water.
+- Watering status: Last watered on 2026-06-05 after soil felt pretty dry; watered thoroughly until drainage came out the bottom. As of 2026-06-08, media still feels a little humid/moist, though not drastically wet, so no watering is indicated. Let the mix dry appropriately again before the next watering and avoid letting the pot sit in standing tray water.
   <!-- Latest watering state, including last watering, withheld watering, drainage behavior, tray status, pot weight, drying behavior, or other water-related context needed for daily advice. -->
 
 - Fertilizer status: No recent fertilizer; last fertilizing was roughly over a year ago, product and dose unknown. Light palm/cycad fertilizer is appropriate during warm-season routine care, ideally at the next normal watering or when the media is not overly wet.
@@ -33,7 +33,7 @@
 - Current concern: Monitor yellowing/spotted older fronds, confirm newer green growth remains healthy, and resume light warm-season feeding at a conservative dose.
   <!-- Main current issue, risk, or monitoring focus. If nothing is wrong, say that clearly. -->
 
-- Latest check-in notes: On 2026-06-07, plant remained unchanged and media still felt somewhat moist/damp after the 2026-06-05 watering, so no watering was done. Light palm/cycad fertilizer is reasonable at the next normal watering or when the media is not overly wet.
+- Latest check-in notes: On 2026-06-08, user reported nothing new with the Sago Palm. Media still felt a little humid/moist, though not drastically wet, so no watering was done. Light palm/cycad fertilizer remains reasonable at the next normal watering or when the media is not overly wet.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events

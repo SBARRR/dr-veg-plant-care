@@ -3,10 +3,10 @@
 ## Current Snapshot
 <!-- Current state and durable care facts for this specific plant. This section should preserve important information that should not disappear when older Recent Events roll off the 30-entry limit. -->
 
-- Last updated: 2026-06-07
+- Last updated: 2026-06-08
   <!-- Date this snapshot was last revised. -->
 
-- Overall condition: High-stress recovery after major repot/root reduction on 2026-06-01. As of 2026-06-07 evening, caudex firmness remains unchanged, but leaf yellowing is worsening and about 5–6 yellowing/brown leaves have fallen. Continue close rot/dehydration monitoring.
+- Overall condition: High-stress recovery after major repot/root reduction on 2026-06-01. As of 2026-06-08, caudex firmness remains about the same, while leaf yellowing/drop continues; user removed 2–3 more fallen leaves from the pot surface. Continue close rot/dehydration monitoring.
   <!-- Broad current health/status of the plant. Example: stable, recovering, declining, newly rescued, stressed, dormant, unknown. -->
 
 - Watering status: Last watered on 2026-05-31 in the original pot. Repotted on 2026-06-01 into completely dry succulent mix after major root reduction. Do not water immediately after repot/root pruning; keep dry for roughly 7–10 days while cut roots callus, unless condition changes significantly.
@@ -33,11 +33,22 @@
 - Current concern: Recovery after major root pruning and shallow-pot repot. Monitor caudex/stem firmness, exposed base tissue, lower yellowish/previously buried tissue, old root-removal scar/hole, rapid leaf yellowing/drop, stalled or lost new growth, flowering energy demand, black/brown spreading tissue, and watering timing after root wounds callus. Current porch light is acceptable during acute recovery; once the plant appears more stable, user plans to actively look for a brighter long-term location.
   <!-- Main current issue, risk, or monitoring focus. If nothing is wrong, say that clearly. -->
 
-- Latest check-in notes: On 2026-06-07 evening, user reported about 5–6 leaves had fallen off, including brown crispy leaves and some severely yellowed but still soft leaves. Photos show continued yellowing across older/lower leaves while some newer growth remains green. Continue holding water during post-root-prune dry period and monitor for worsening softness, mushiness, wetness/slime, foul smell, collapse, or spreading dark tissue. Do not fertilize, spray, or disturb roots. User plans to keep the Desert Rose in its current porch light during acute recovery, then actively look for a brighter long-term location once it appears more stable.
+- Latest check-in notes: On 2026-06-08, user reported no major new change with the Desert Rose. Firmness still feels about the same, possibly slightly improved, but this is not being logged as confirmed improvement yet. Leaf drop continues, and user cleaned 2–3 fallen leaves from the top of the pot. Continue holding water during post-root-prune dry recovery unless condition changes; monitor for worsening softness, mushiness, wetness/slime, foul smell, collapse, or spreading dark tissue.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events
 <!-- Rolling event log for this plant. Keep newest 30 entries only. Newest entry goes at the top. When adding entry #31, delete the oldest entry. -->
+
+### 2026-06-08 — Continued Leaf Drop / Firmness Stable
+
+- Summary: Leaf drop continued, but caudex firmness remains about the same.
+  <!-- One-line summary of what happened. -->
+
+- Details: User reported nothing major new with the Desert Rose. Firmness still feels about the same; user noted it may feel slightly like it is returning, but this is not being logged as confirmed improvement yet. Leaves continue to fall, and user removed 2–3 fallen leaves from the top of the pot.
+  <!-- Useful specifics, such as amount of water, product used, symptom observed, action taken, context, or uncertainty. -->
+
+- Outcome: Continue high-stress post-root-prune dry recovery. No watering, fertilizer, spray, repotting, or root disturbance today. Fallen leaves can be removed from the pot surface. Monitor for worsening caudex softness, mushiness, wet/slimy tissue, foul smell, collapse, or spreading black/brown tissue.
+  <!-- Result/status after the event, expected follow-up, or "TBD" if the outcome is not known yet. -->
 
 ### 2026-06-07 — Evening Leaf Drop Update
 

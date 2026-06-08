@@ -3,13 +3,13 @@
 ## Current Snapshot
 <!-- Current state and durable care facts for this specific plant. This section should preserve important information that should not disappear when older Recent Events roll off the 30-entry limit. -->
 
-- Last updated: 2026-06-07
+- Last updated: 2026-06-08
   <!-- Date this snapshot was last revised. -->
 
-- Overall condition: Stressed Walmart rescue; as of 2026-06-07 evening, plant looked slightly droopier after the tray was found empty and refilled. Monitor whether it perks back up after tray water is restored.
+- Overall condition: Stressed Walmart rescue; as of 2026-06-08, plant looked perkier after the 2026-06-07 evening tray refill. Continue monitoring tray consistency, crown/base condition, and response to brighter light testing.
   <!-- Broad current health/status of the plant. Example: stable, recovering, declining, newly rescued, stressed, dormant, unknown. -->
 
-- Watering status: Tray water was lower but still present earlier on 2026-06-07, then empty by evening; user refilled the tray. Standing rule remains to use only distilled, rain, or RO water. Continue keeping media wet and refill the tray when empty or nearly empty.
+- Watering status: Tray water was empty on 2026-06-07 evening and was refilled. On 2026-06-08, tray water was at a good level and no refill was needed. Standing rule remains to use only distilled, rain, or RO water. Continue keeping media wet and refill the tray when empty or nearly empty.
   <!-- Latest watering state, including last watering, withheld watering, drainage behavior, tray status, pot weight, drying behavior, or other water-related context needed for daily advice. -->
 
 - Fertilizer status: No fertilizer or plant food has been given.
@@ -33,11 +33,22 @@
 - Current concern: Monitor recovery from Walmart rescue condition, especially new browning/blackening, renewed drooping, yellowing around trap mouths, tray dry-down speed, green surface film on media, whether healthy firm green growth continues, and the active search for a brighter long-term location because current porch light is likely marginal for strong Venus flytrap recovery.
   <!-- Main current issue, risk, or monitoring focus. If nothing is wrong, say that clearly. -->
 
-- Latest check-in notes: On 2026-06-07 evening, user reported the Venus flytrap looked a little droopier and the tray was empty, so the tray was refilled. Continue monitoring tray level, media wetness, and crown/base condition. If still droopy tomorrow, delay stronger outdoor sun testing. User is actively scouting a brighter long-term location because the current porch light is likely marginal for strong Venus flytrap recovery.
+- Latest check-in notes: On 2026-06-08, user reported the Venus flytrap looks perkier than yesterday and tray water is at a good level, so no refill was done. Continue monitoring tray level, media wetness, crown/base condition, and whether drooping returns during supervised brighter-light testing.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events
 <!-- Rolling event log for this plant. Keep newest 30 entries only. Newest entry goes at the top. When adding entry #31, delete the oldest entry. -->
+
+### 2026-06-08 — Post-Refill Improvement / Tray Check
+
+- Summary: Venus flytrap looked perkier after tray refill; tray water remained adequate.
+  <!-- One-line summary of what happened. -->
+
+- Details: User reported the plant looks perkier than yesterday after the 2026-06-07 evening tray refill. Tray water is currently at a good level, so no refill was needed.
+  <!-- Useful specifics, such as amount of water, product used, symptom observed, action taken, context, or uncertainty. -->
+
+- Outcome: Continue keeping tray water available with distilled/rain/RO water. Monitor whether perkiness holds and whether drooping returns, especially during supervised brighter-light testing. Pull back from stronger sun if tray/pot/water becomes hot or the plant droops again.
+  <!-- Result/status after the event, expected follow-up, or "TBD" if the outcome is not known yet. -->
 
 ### 2026-06-07 — Evening Tray Empty / Droopier Appearance
 

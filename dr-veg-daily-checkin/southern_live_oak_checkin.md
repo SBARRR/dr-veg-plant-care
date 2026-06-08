@@ -1,15 +1,15 @@
-Your Southern Live Oak is showing resilience after its big move, with the recent stabilization of droopy tips being a positive sign. The overcast weather today provides a gentle environment, but the real focus remains on its recovery from the recent transplant and root disturbance.
+Your Southern Live Oak is still in the critical recovery phase after its recent transplant, showing expected stress with some leaf browning and drop. The warm, sunny weather means it's using water, but the soil under the mulch is still holding onto moisture from last week's watering.
 
-The discovery of orange fungal spots on the upper leaves adds a new layer to monitor, though your prompt removal was the perfect first step. Right now, the priority is balancing soil moisture to support root healing without creating conditions that could worsen any potential fungal issue.
+Your top priority remains close monitoring, not action, as the tree works to stabilize its damaged root system. The temporary move for extra sun was a smart test, and finding a brighter long-term spot is the best thing you can do for its future vigor.
 
-**Top Priority:** Monitor the top shoot closely for any return or spread of the orange fungal spots after your trim.
+Check the soil moisture under the mulch before considering any water today.
 
-**Watering:** Do not water today; the soil under the mulch is still moist from your last check.
+If the top few inches of soil are dry, give it a deep, thorough soak until water runs freely from the drainage holes.
 
-**Useful Check:** Gently lift the pot to feel its weight; this will help you gauge moisture levels more accurately in the future.
+Gently feel the newest growth at the branch tips; they should be firm, not limp or soft.
 
-**Optional Improvement:** On your next watering day, add a teaspoon of hydrogen peroxide to the water to help aerate the soil and provide mild antifungal benefits.
+For a clearer read on soil moisture, try the chopstick test: stick a wooden skewer deep into the pot, leave it for a minute, then pull it out to see if it's damp.
 
-**Practical Idea:** Mark your planned watering days on a calendar to help build a routine based on the tree's needs, not the date.
+When scouting that brighter spot, look for a location that gets several hours of morning or late-afternoon sun, which is less intense than the midday heat.
 
 ------

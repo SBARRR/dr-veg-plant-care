@@ -33,11 +33,22 @@
 - Current concern: Monitor recovery from Walmart rescue condition, especially new browning/blackening, renewed drooping, yellowing around trap mouths, tray dry-down speed, green surface film on media, whether healthy firm green growth continues, and the active search for a brighter long-term location because current porch light is likely marginal for strong Venus flytrap recovery.
   <!-- Main current issue, risk, or monitoring focus. If nothing is wrong, say that clearly. -->
 
-- Latest check-in notes: On 2026-06-08, user reported the Venus flytrap looks perkier than yesterday and tray water is at a good level, so no refill was done. Continue monitoring tray level, media wetness, crown/base condition, and whether drooping returns during supervised brighter-light testing.
+- Latest check-in notes: On 2026-06-08, user reported the Venus flytrap looks perkier than yesterday and tray water is at a good level, so no refill was done. Later, the plant was briefly moved outside for a supervised brighter-light test, received about 2 hours of extra outdoor sun/light exposure, then was returned from the outdoor test setup. Continue monitoring tray level, media wetness, crown/base condition, and whether drooping returns during future brighter-light testing.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events
 <!-- Rolling event log for this plant. Keep newest 30 entries only. Newest entry goes at the top. When adding entry #31, delete the oldest entry. -->
+
+### 2026-06-08 — Brief Outdoor Light Test
+
+- Summary: Venus flytrap was briefly moved outside for a supervised brighter-light test, then returned from the outdoor test setup.
+  <!-- One-line summary of what happened. -->
+
+- Details: User moved the Venus flytrap outside around midday while scouting a brighter long-term location. It received about 2 hours of extra outdoor sun/light exposure: roughly 100% direct sun around 12 PM, about 50% direct light around 1 PM after being repositioned, and 100% direct light around 2 PM. Tray water remained at a good level and no refill was needed. Plant looked perkier than yesterday after the prior tray refill.
+  <!-- Useful specifics, such as amount of water, product used, symptom observed, action taken, context, or uncertainty. -->
+
+- Outcome: Treat as a short light-position test only, not a confirmed long-term placement. Continue using only distilled/rain/RO tray water. Future outdoor placement depends on whether the tray/pot/water stay warm-not-hot during the full-sun window and whether the plant avoids renewed drooping.
+  <!-- Result/status after the event, expected follow-up, or "TBD" if the outcome is not known yet. -->
 
 ### 2026-06-08 — Post-Refill Improvement / Tray Check
 

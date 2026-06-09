@@ -24,16 +24,16 @@
 
 ## Location & Setup
 
-- Location: Backyard Porch
+- Location: Open outdoor area outside the screened patio
   <!-- Physical place where the plant normally lives. Example: front porch, back porch, kitchen window, patio table, garage shelf. -->
 
-- Environment details: Sits on a plant stand along the wall of a screened in patio. Fence around the backyard, so I believe its mostly protected from wind. Water gets in when it rains, but im not sure how much as Ive never checked.
+- Environment details: Outside the screened patio and exposed to normal outdoor conditions, including heat, wind, and rain.
   <!-- Non-light environmental factors around that location. Example: exposed to rain, protected from rain, windy, enclosed porch, low airflow, near AC vent, high heat, sheltered patio. -->
 
 - Indoor or outdoor: Outdoor
   <!-- Whether the plant is currently kept indoors, outdoors, or in a semi-protected space like an enclosed porch. -->
 
-- Light situation: Summer: mostly shaded earlier in the day, then about 2 hours of late-afternoon direct/partial sun filtered by patio screen; indirect/bright shade the rest of the day. Fall/winter direct sun likely lower.
+- Light situation: Summer: roughly estimated 5–6 full-sun-equivalent hours of direct sun.
   <!-- Approximate normal light the plant receives in this location, including rough hours if known and type of light. Example: 2–3 hours direct afternoon sun, bright indirect light most of the day, mostly shade, grow light 12 hours/day. -->
 
 - Pot / container: 3GAL 16 in Antonella Planter - 15.9 in D x 12.7 in H, 26.8 QTS soil capacity

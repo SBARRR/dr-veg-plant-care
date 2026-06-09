@@ -6,10 +6,10 @@
 - Last updated: 2026-06-08
   <!-- Date this snapshot was last revised. -->
 
-- Overall condition: High-stress recovery after major repot/root reduction on 2026-06-01. As of 2026-06-08, caudex firmness remains about the same, while leaf yellowing/drop continues; user removed 2–3 more fallen leaves from the pot surface. Continue close rot/dehydration monitoring.
+- Overall condition: High-stress recovery after major repot/root reduction on 2026-06-01. As of 2026-06-08, caudex firmness remains about the same as yesterday, but softer compared to when it was initially bought, while leaf yellowing/drop continues; user removed 2–3 more fallen leaves from the pot surface. Continue close rot/dehydration monitoring.
   <!-- Broad current health/status of the plant. Example: stable, recovering, declining, newly rescued, stressed, dormant, unknown. -->
 
-- Watering status: Last watered on 2026-05-31 in the original pot. Repotted on 2026-06-01 into completely dry succulent mix after major root reduction. Do not water immediately after repot/root pruning; keep dry for roughly 7–10 days while cut roots callus, unless condition changes significantly.
+- Watering status: Last watered on 2026-05-31 while it was in the original pot. Since this plant just had a major root reduction, recommend to not water immediately; keep dry for roughly 7–10 days while cut roots callus, unless condition changes significantly.
   <!-- Latest watering state, including last watering, withheld watering, drainage behavior, tray status, pot weight, drying behavior, or other water-related context needed for daily advice. -->
 
 - Fertilizer status: No fertilizer has been given since purchase.
@@ -18,10 +18,10 @@
 - Pest control: Possible pest concern at purchase due to white/cloudy splotches on leaves; sprayed thoroughly with neem oil on 2026-05-27 as a precaution.
   <!-- Current pest-control state, including none, suspected pests, confirmed pests, last treatment, product used, or treatment cautions. -->
 
-- Last repot: 2026-06-01; moved from original Walmart/store pot into a shallow unglazed ceramic bonsai training pot, approx. 8.2 in L x 6.7 in W x 2.3 in H.
+- Last repot: Repotted from original Walmart/store pot into a shallow unglazed ceramic bonsai training pot, approx. 8.2 in L x 6.7 in W x 2.3 in H.
   <!-- Most recent repot date/action. Use "unknown" if not known and "never known" if no repot has happened since acquisition. -->
 
-- Last soil change: 2026-06-01; original store soil was replaced with new dry succulent mix. Exact mix composition unknown.
+- Last soil change: 2026-06-01; original store soil was replaced with tiny roots succulent soil.
   <!-- Most recent full or partial soil/media change. This may be the same date as repotting, but keep separate if only the media was refreshed or changed. -->
 
 - Last root prune: 2026-06-01; major root reduction performed to fit shallow bonsai pot, estimated by user at around 80% or more of roots removed. This is a major stress event and raises risk of dehydration and rot if watered too soon.
@@ -30,10 +30,10 @@
 - Last prune: 2026-06-05; user removed the open flower and two larger unopened buds to reduce flowering energy demand during recovery. Smaller buds remain for now.
   <!-- Most recent above-ground pruning/removal, such as leaves, traps, fronds, branches, flowers, or dead material. -->
 
-- Current concern: Recovery after major root pruning and shallow-pot repot. Monitor caudex/stem firmness, exposed base tissue, lower yellowish/previously buried tissue, old root-removal scar/hole, rapid leaf yellowing/drop, stalled or lost new growth, flowering energy demand, black/brown spreading tissue, and watering timing after root wounds callus. Current porch light is acceptable during acute recovery; once the plant appears more stable, user plans to actively look for a brighter long-term location.
+- Current concern: Recovery after major root pruning and shallow-pot repot. Monitor caudex/stem firmness, exposed base tissue, lower yellowish/previously buried tissue, old root-removal scar/hole, rapid leaf yellowing/drop, stalled or lost new growth, flowering energy demand, black/brown spreading tissue, and watering timing after root wounds callus. Current porch light is acceptable during acute recovery; once the plant appears more stable, user plans to actively look for a brighter long-term location. Continue holding water during post-root-prune dry recovery unless condition changes; monitor for worsening softness, mushiness, wetness/slime, foul smell, collapse, or spreading dark tissue.
   <!-- Main current issue, risk, or monitoring focus. If nothing is wrong, say that clearly. -->
 
-- Latest check-in notes: On 2026-06-08, user reported no major new change with the Desert Rose. Firmness still feels about the same, possibly slightly improved, but this is not being logged as confirmed improvement yet. Leaf drop continues, and user cleaned 2–3 fallen leaves from the top of the pot. Continue holding water during post-root-prune dry recovery unless condition changes; monitor for worsening softness, mushiness, wetness/slime, foul smell, collapse, or spreading dark tissue.
+- Latest check-in notes: On 2026-06-08, user reported no major new change with the Desert Rose. Firmness still feels about the same, possibly slightly improved, but this is not being logged as confirmed improvement yet. Leaf drop continues, and user cleaned 2–3 fallen leaves from the top of the pot.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events

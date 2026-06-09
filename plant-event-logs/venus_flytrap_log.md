@@ -6,7 +6,7 @@
 - Last updated: 2026-06-08
   <!-- Date this snapshot was last revised. -->
 
-- Overall condition: Stressed Walmart rescue; as of 2026-06-08, plant looked perkier after the 2026-06-07 evening tray refill and photo shows clear bright green central growth emerging from the crown. Later the same day, tray water was found empty and refilled. Continue monitoring tray consistency, crown/base condition, and response to brighter light testing.
+- Overall condition: Stressed Walmart rescue, but showing signs of new growth as of 2026-06-08. A photo submited by user shows clear bright green central growth emerging from the crown. Continue monitoring tray consistency, crown/base condition, and response to brighter light testing.
   <!-- Broad current health/status of the plant. Example: stable, recovering, declining, newly rescued, stressed, dormant, unknown. -->
 
 - Watering status: Tray/reservoir water was found empty later on 2026-06-08 and refilled with distilled/rain/RO water. Keep water around 0.25–0.5 inch and do not allow it to run dry.
@@ -33,7 +33,7 @@
 - Current concern: Monitor recovery from Walmart rescue condition, especially new browning/blackening, renewed drooping, yellowing around trap mouths, tray dry-down speed, green surface film on media, whether healthy firm green growth continues, and the active search for a brighter long-term location because current porch light is likely marginal for strong Venus flytrap recovery. The 2026-06-08 empty-tray repeat shows water loss/evaporation can be rapid under brighter heat/light conditions.
   <!-- Main current issue, risk, or monitoring focus. If nothing is wrong, say that clearly. -->
 
-- Latest check-in notes: On 2026-06-08, after the new-growth/tray-refill update, user set up a sealed white skull cachepot as an outer reservoir. The flytrap remains in its original pot and no extra media was added. Treat as a supervised test setup and monitor for leaks, heat, water level, and renewed drooping.
+- Latest check-in notes: On 2026-06-08, after the new-growth/tray-refill update, user set up a sealed white skull cachepot as an outer reservoir. The flytrap remains in its original pot and no extra media was added. Treat as a supervised test setup and monitor for leaks, heat, water level, and renewed drooping. User is planning on moving the plant outside where it will get stronger and longer sun exposure. Monitor for anything that could go wrong.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events

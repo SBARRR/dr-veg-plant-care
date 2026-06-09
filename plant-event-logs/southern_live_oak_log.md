@@ -6,7 +6,7 @@
 - Last updated: 2026-06-08
   <!-- Date this snapshot was last revised. -->
 
-- Overall condition: Stressed after recent ground-to-pot transplant; as of 2026-06-07, under-mulch soil is drying but still slightly cool/moist, and about 15 fallen brown crispy leaves were removed from the mulch surface. Continue close transplant-stress monitoring.
+- Overall condition: Stressed after recent ground-to-pot transplant; Continue close transplant-stress monitoring.
   <!-- Broad current health/status of the plant. Example: stable, recovering, declining, newly rescued, stressed, dormant, unknown. -->
 
 - Watering status: Watered on 2026-06-08 with about 1 gallon after the media no longer felt cool. Water was applied until steady drainage came from the bottom. Next watering should wait until the top 2–3 inches under the mulch dry again.
@@ -33,7 +33,7 @@
 - Current concern: Monitor transplant stress recovery in the open outdoor placement, especially leaf browning/drop, new tip posture, heat stress, pot/soil overheating, rapid dry-down after stronger sun exposure, and whether suspected orange powdery leaf fungus/rust spreads. Keep mulch slightly away from the trunk/base.
   <!-- Main current issue, risk, or monitoring focus. If nothing is wrong, say that clearly. -->
 
-- Latest check-in notes: On 2026-06-08, user left the oak in the open outdoor area outside the screened patio. Current rough light estimate is about 5–6 full-sun-equivalent hours. Later, the media no longer felt cool, so user watered with about 1 gallon until steady bottom drainage.
+- Latest check-in notes: On 2026-06-08, user moved the oak in the open outdoor area outside the screened patio. Where it would receive more light to aid in recovery. Monitor for heat stress or any other factors outdoors. Current rough light estimate is about 5–6 full-sun-equivalent hours in the new spot.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events

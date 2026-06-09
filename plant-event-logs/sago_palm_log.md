@@ -18,7 +18,7 @@
 - Pest control: No confirmed current pest issue or pest-control treatments. Photo shows spotting on yellowing fronds, but no obvious pest is confirmed from the image; user checked undersides and did not see white specks or raised bumps.
   <!-- Current pest-control state, including none, suspected pests, confirmed pests, last treatment, product used, or treatment cautions. -->
 
-- Last repot: Repotted once from the original Walmart container into the current bonsai pot, likely a few years ago around initial acquisition.
+- Last repot: Repotted once from the original Walmart container into the current bonsai pot, about a few years ago around initial acquisition.
   <!-- Most recent repot date/action. Use "unknown" if not known and "never known" if no repot has happened since acquisition. -->
 
 - Last soil change: Full soil replacement performed roughly over a year ago, around the same time as the last fertilizer application.

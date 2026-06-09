@@ -36,10 +36,10 @@
 - Light situation: Summer: mostly shaded earlier in the day, then roughly 3–3.5 hours of late-afternoon direct sun filtered by patio screen; indirect/bright shade the rest of the day. Fall/winter direct sun likely lower.
   <!-- Approximate normal light the plant receives in this location, including rough hours if known and type of light. Example: 2–3 hours direct sun, bright indirect light most of the day, mostly shade, grow light 12 hours/day. -->
 
-- Pot / container: Original store pot. Tiny, maybe about 3 - 4 in 
+- Pot / container: Original store pot, tiny, maybe about 3–4 in; as of 2026-06-08, nested inside a sealed white skull cachepot/outer reservoir.
   <!-- Current pot or container type, size if known, and material if relevant. -->
 
-- Drainage: Has drainage holes, but sits in an old cleaned out ash tray which functions as a drip tray
+- Drainage: Original store pot has drainage holes and sits inside the sealed white skull cachepot/outer reservoir with distilled/rain/RO water.
   <!-- Whether the container has drainage holes and any drainage-related notes. -->
 
 - Soil / media: Unknown, still in store bought media. Looks like its probably for carnivorous plants though at least

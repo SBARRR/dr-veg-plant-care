@@ -9,7 +9,7 @@
 - Overall condition: Stressed after recent ground-to-pot transplant; as of 2026-06-07, under-mulch soil is drying but still slightly cool/moist, and about 15 fallen brown crispy leaves were removed from the mulch surface. Continue close transplant-stress monitoring.
   <!-- Broad current health/status of the plant. Example: stable, recovering, declining, newly rescued, stressed, dormant, unknown. -->
 
-- Watering status: Last watered on 2026-05-31 with roughly 0.5 gallon or slightly more, stopping when water drained from the bottom. On 2026-06-08, soil appeared to be getting dry but still felt cool/moist under the mulch, though significantly less moist than yesterday. No midday watering was done; user plans to recheck after direct sun is gone and water later only if the top 2–3 inches under the mulch feel dry.
+- Watering status: Watered on 2026-06-08 with about 1 gallon after the media no longer felt cool. Water was applied until steady drainage came from the bottom. Next watering should wait until the top 2–3 inches under the mulch dry again.
   <!-- Latest watering state, including last watering, withheld watering, drainage behavior, tray status, pot weight, drying behavior, or other water-related context needed for daily advice. -->
 
 - Fertilizer status: No recent fertilizer; last fertilized roughly over a year ago while in-ground using slow-release bonsai pellets sprinkled on the soil surface.
@@ -30,14 +30,25 @@
 - Last prune: 2026-06-06; user trimmed affected leaves only from the top shoot/tip section after orange powdery material was found, leaving the live shoot/branch in place.
   <!-- Most recent above-ground pruning/removal, such as leaves, traps, fronds, branches, flowers, or dead material. -->
 
-- Current concern: Monitor transplant stress recovery, especially whether leaf browning/drop spreads, whether new growth/twig tips firm up or droop further, whether soil under the mulch dries steadily without becoming soggy or bone-dry, whether the suspected orange powdery leaf fungus/rust spreads beyond the affected top shoot, and the active search for a brighter long-term position because the current porch spot receives less direct sun than the smaller porch plants. Keep mulch slightly away from the trunk/base.
+- Current concern: Monitor transplant stress recovery in the open outdoor placement, especially leaf browning/drop, new tip posture, heat stress, pot/soil overheating, rapid dry-down after stronger sun exposure, and whether suspected orange powdery leaf fungus/rust spreads. Keep mulch slightly away from the trunk/base.
   <!-- Main current issue, risk, or monitoring focus. If nothing is wrong, say that clearly. -->
 
-- Latest check-in notes: On 2026-06-08, user reported the soil looks like it is getting dry, but under-mulch soil still feels cool/moist and significantly less moist than yesterday. User plans to recheck later after the sun is gone and water only if needed.
+- Latest check-in notes: On 2026-06-08, user left the oak in the open outdoor area outside the screened patio. Current rough light estimate is about 5–6 full-sun-equivalent hours. Later, the media no longer felt cool, so user watered with about 1 gallon until steady bottom drainage.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events
 <!-- Rolling event log for this plant. Keep newest 30 entries only. Newest entry goes at the top. When adding entry #31, delete the oldest entry. -->
+
+### 2026-06-08 — Open Outdoor Placement / Deep Watering
+
+- Summary: Southern Live Oak was left in the open outdoor area outside the screened patio and watered deeply to steady drainage.
+  <!-- One-line summary of what happened. -->
+
+- Details: User left the oak outside the screened patio. Current rough light estimate is about 5–6 full-sun-equivalent hours. Later, the media no longer felt cool, and user watered with about 1 gallon until steady drainage came from the bottom.
+  <!-- Useful specifics, such as amount of water, product used, symptom observed, action taken, context, or uncertainty. -->
+
+- Outcome: Open outdoor placement is the current setup while the final light timing is being confirmed. Continue monitoring new tips/leaves for heat stress, sudden limpness, hard curling, or collapse.
+  <!-- Result/status after the event, expected follow-up, or "TBD" if the outcome is not known yet. -->
 
 ### 2026-06-08 — Moisture Dry-Down Check
 

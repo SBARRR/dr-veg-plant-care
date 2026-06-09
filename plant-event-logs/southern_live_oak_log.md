@@ -3,13 +3,13 @@
 ## Current Snapshot
 <!-- Current state and durable care facts for this specific plant. This section should preserve important information that should not disappear when older Recent Events roll off the 30-entry limit. -->
 
-- Last updated: 2026-06-08
+- Last updated: 2026-06-09
   <!-- Date this snapshot was last revised. -->
 
-- Overall condition: Stressed after recent ground-to-pot transplant; Continue close transplant-stress monitoring.
+- Overall condition: Stressed after recent ground-to-pot transplant, but stable through the first full overnight/day period in the open outdoor placement as of 2026-06-09. Leaf posture looked normal, and no obvious heat stress was reported.
   <!-- Broad current health/status of the plant. Example: stable, recovering, declining, newly rescued, stressed, dormant, unknown. -->
 
-- Watering status: Watered on 2026-06-08 with about 1 gallon after the media no longer felt cool. Water was applied until steady drainage came from the bottom. Next watering should wait until the top 2–3 inches under the mulch dry again.
+- Watering status: Last watered on 2026-06-08 with about 1 gallon after the media no longer felt cool. Water was applied until steady drainage came from the bottom.
   <!-- Latest watering state, including last watering, withheld watering, drainage behavior, tray status, pot weight, drying behavior, or other water-related context needed for daily advice. -->
 
 - Fertilizer status: No recent fertilizer; last fertilized roughly over a year ago while in-ground using slow-release bonsai pellets sprinkled on the soil surface.
@@ -30,14 +30,25 @@
 - Last prune: 2026-06-06; user trimmed affected leaves only from the top shoot/tip section after orange powdery material was found, leaving the live shoot/branch in place.
   <!-- Most recent above-ground pruning/removal, such as leaves, traps, fronds, branches, flowers, or dead material. -->
 
-- Current concern: Monitor transplant stress recovery in the open outdoor placement, especially leaf browning/drop, new tip posture, heat stress, pot/soil overheating, rapid dry-down after stronger sun exposure, and whether suspected orange powdery leaf fungus/rust spreads. Keep mulch slightly away from the trunk/base.
+- Current concern: Monitor transplant stress recovery in the open outdoor placement, especially leaf browning/drop, new tip posture, heat stress, pot/soil overheating, and whether suspected orange powdery leaf fungus/rust spreads. On 2026-06-09, orange spots were visible on additional lower leaves, but this may reflect improved visibility rather than confirmed new spread.
   <!-- Main current issue, risk, or monitoring focus. If nothing is wrong, say that clearly. -->
 
-- Latest check-in notes: On 2026-06-08, user moved the oak in the open outdoor area outside the screened patio. Where it would receive more light to aid in recovery. Monitor for heat stress or any other factors outdoors. Current rough light estimate is about 5–6 full-sun-equivalent hours in the new spot.
+- Latest check-in notes: On 2026-06-09, user reported the oak looked stable after its first night outside in the open outdoor placement. Leaf posture looked fine. Pot exterior and mulch/top surface were warm but not hot. No new damage was clearly observed. User could see orange spots on more lower leaves and a clearer baseline of existing browning now that the tree is more visible outside.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events
 <!-- Rolling event log for this plant. Keep newest 30 entries only. Newest entry goes at the top. When adding entry #31, delete the oldest entry. -->
+
+### 2026-06-09 — First Outdoor Overnight / Heat and Leaf Check
+
+- Summary: Southern Live Oak looked stable after its first full overnight/day period in the open outdoor placement.
+  <!-- One-line summary of what happened. -->
+
+- Details: User reported leaf posture looked fine. Pot exterior and mulch/top surface were warm but not excessively hot. No clearly new damage was observed. Orange spots were visible on more lower leaves, and existing browning was easier to see now that the tree is more visible outside.
+  <!-- Useful specifics, such as amount of water, product used, symptom observed, action taken, context, or uncertainty. -->
+
+- Outcome: No watering, fertilizer, pruning, or spray at this check-in. Treat the orange spotting and browning observations as a better baseline for tomorrow rather than confirmed new spread today. Continue monitoring heat stress, leaf posture, leaf drop, browning progression, and orange powdery spots.
+  <!-- Result/status after the event, expected follow-up, or "TBD" if the outcome is not known yet. -->
 
 ### 2026-06-08 — Open Outdoor Placement / Deep Watering
 

@@ -9,7 +9,7 @@
 - Overall condition: Established and generally stable. Older fronds show yellowing/spotted aging or stress, while newer growth is reportedly healthy green. Current focus is better routine care discipline.
   <!-- Broad current health/status of the plant. Example: stable, recovering, declining, newly rescued, stressed, dormant, unknown. -->
 
-- Watering status: Last watered on 2026-06-05 after soil felt pretty dry; watered thoroughly until drainage came out the bottom. As of 2026-06-08, media still feels a little humid/moist, though not drastically wet, so no watering is indicated. Let the mix dry appropriately again before the next watering and avoid letting the pot sit in standing tray water.
+- Watering status: Last watered on 2026-06-05 after soil felt pretty dry; watered thoroughly until drainage came out the bottom. Let the mix dry appropriately again before the next watering and avoid letting the pot sit in standing tray water.
   <!-- Latest watering state, including last watering, withheld watering, drainage behavior, tray status, pot weight, drying behavior, or other water-related context needed for daily advice. -->
 
 - Fertilizer status: No recent fertilizer; last fertilizing was roughly over a year ago, product and dose unknown. Light palm/cycad fertilizer is appropriate during warm-season routine care, ideally at the next normal watering or when the media is not overly wet.
@@ -108,32 +108,23 @@
 ### 2026-06-01 — Photo Observation
 
 - Summary: Yellowing sago fronds with scattered tan/brown spots reviewed from user photo.
-  <!-- One-line summary of what happened. -->
 
 - Details: User shared a close-up photo of the two yellowing fronds. Fronds show scattered tan/brown necrotic or scarred-looking spots. No obvious pest is confirmed from the photo alone. User checked the undersides and did not see white specks or raised bumps. Newer growth is reportedly healthy green.
-  <!-- Useful specifics, such as amount of water, product used, symptom observed, action taken, context, or uncertainty. -->
 
 - Outcome: Do not prune yet unless fronds become mostly brown/dead, spots spread significantly, or pests are confirmed. Continue monitoring whether spots spread to healthy green growth.
-  <!-- Result/status after the event, expected follow-up, or "TBD" if the outcome is not known yet. -->
 
 ### 2026-06-01 — Observation
 
 - Summary: Plant observed as stable overall with some yellowing fronds and healthy green new growth.
-  <!-- One-line summary of what happened. -->
 
 - Details: User noted two yellow fronds but also healthy green new leaves. User is unsure how to judge plant health, but overall impression is that the plant looks fine.
-  <!-- Useful specifics, such as amount of water, product used, symptom observed, action taken, context, or uncertainty. -->
 
 - Outcome: Continue monitoring yellow fronds and new growth; no immediate intervention needed.
-  <!-- Result/status after the event, expected follow-up, or "TBD" if the outcome is not known yet. -->
 
 ### 2026-05-31 — Watering
 
 - Summary: Watered thoroughly until water drained from the bottom of the pot.
-  <!-- One-line summary of what happened. -->
 
 - Details: Amount of water unknown; user reports normal watering method is to water until runoff exits the drainage holes and fills the drip tray.
-  <!-- Useful specifics, such as amount of water, product used, symptom observed, action taken, context, or uncertainty. -->
 
 - Outcome: Drainage confirmed; follow-up is to monitor drying behavior and avoid watering again until the mix has dried appropriately.
-  <!-- Result/status after the event, expected follow-up, or "TBD" if the outcome is not known yet. -->

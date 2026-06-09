@@ -30,24 +30,24 @@
 - Last prune: 2026-06-03; user removed the fully dead brown trap mouth/tip from a partially green leaf, leaving the green lower stem/leaf tissue attached.
   <!-- Most recent above-ground pruning/removal, such as leaves, traps, fronds, branches, flowers, or dead material. -->
 
-- Current concern: Monitor recovery from Walmart rescue condition and response to supervised outdoor light testing, especially new browning/blackening, renewed drooping, heat buildup in the skull cachepot setup, yellowing around trap mouths, green surface film on media, and whether healthy firm green growth continues.
+- Current concern: Monitor recovery from Walmart rescue condition and adjustment to the outdoor setup, especially heat buildup in the skull cachepot setup, reservoir level, storm/rain overfill, renewed drooping, new browning/blackening, yellowing around trap mouths, green surface film on media, and whether healthy firm green growth continues.
   <!-- Main current issue, risk, or monitoring focus. If nothing is wrong, say that clearly. -->
 
-- Latest check-in notes: On 2026-06-09, user reported the Venus Flytrap still had a good skull reservoir water level and nothing new of concern. User moved it outside again to the same test spot as yesterday at about 2 PM.
+- Latest check-in notes: On 2026-06-09, user moved the Venus Flytrap outside to the open outdoor spot and decided to leave it outside overnight. Reservoir water level was still good earlier in the day, and no new plant concerns were reported. Continue monitoring outdoor response over the next few days.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events
 <!-- Rolling event log for this plant. Keep newest 30 entries only. Newest entry goes at the top. When adding entry #31, delete the oldest entry. -->
 
-### 2026-06-09 — Outdoor Light Test / Reservoir Stable
+### 2026-06-09 — Outdoor Move / First Overnight Outside
 
-- Summary: Venus Flytrap was moved outside again for a supervised light test, with reservoir water still at a good level.
+- Summary: Venus Flytrap was moved outside to the open outdoor spot and will remain outside overnight.
   <!-- One-line summary of what happened. -->
 
-- Details: User reported no new concerns and a good water level in the skull reservoir. Around 2 PM, user moved the plant outside again to the same outdoor test spot as the previous day.
+- Details: User reported no new plant concerns and a good reservoir water level earlier in the day. The plant was moved outside around 2 PM. Compared with the prior screened-patio setup, the new outdoor spot is estimated to provide about 1.5–2.5 additional full-sun-equivalent hours.
   <!-- Useful specifics, such as amount of water, product used, symptom observed, action taken, context, or uncertainty. -->
 
-- Outcome: Continue treating the outdoor placement as a supervised test, not a confirmed long-term setup yet. Monitor for heat buildup, renewed drooping, new browning/blackening, and whether the reservoir remains adequate during outdoor exposure.
+- Outcome: Continue monitoring outdoor response over the next few days. Watch reservoir level, heat buildup in the skull cachepot setup, storm/rain overfill, renewed drooping, new browning/blackening, and whether healthy new growth continues.
   <!-- Result/status after the event, expected follow-up, or "TBD" if the outcome is not known yet. -->
 
 ### 2026-06-08 — Skull Cachepot / Outer Reservoir Setup

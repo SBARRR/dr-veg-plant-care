@@ -3,13 +3,13 @@
 ## Current Snapshot
 <!-- Current state and durable care facts for this specific plant. This section should preserve important information that should not disappear when older Recent Events roll off the 30-entry limit. -->
 
-- Last updated: 2026-06-08
+- Last updated: 2026-06-09
   <!-- Date this snapshot was last revised. -->
 
 - Overall condition: Stressed Walmart rescue, but showing signs of new growth as of 2026-06-08. A photo submited by user shows clear bright green central growth emerging from the crown. Continue monitoring tray consistency, crown/base condition, and response to brighter light testing.
   <!-- Broad current health/status of the plant. Example: stable, recovering, declining, newly rescued, stressed, dormant, unknown. -->
 
-- Watering status: Tray/reservoir water was found empty later on 2026-06-08 and refilled with distilled/rain/RO water. Keep water around 0.25–0.5 inch and do not allow it to run dry.
+- Watering status: As of 2026-06-09, the skull reservoir still had a good water level and no refill was needed.
   <!-- Latest watering state, including last watering, withheld watering, drainage behavior, tray status, pot weight, drying behavior, or other water-related context needed for daily advice. -->
 
 - Fertilizer status: No fertilizer or plant food has been given.
@@ -30,14 +30,25 @@
 - Last prune: 2026-06-03; user removed the fully dead brown trap mouth/tip from a partially green leaf, leaving the green lower stem/leaf tissue attached.
   <!-- Most recent above-ground pruning/removal, such as leaves, traps, fronds, branches, flowers, or dead material. -->
 
-- Current concern: Monitor recovery from Walmart rescue condition, especially new browning/blackening, renewed drooping, yellowing around trap mouths, tray dry-down speed, green surface film on media, whether healthy firm green growth continues, and the active search for a brighter long-term location because current porch light is likely marginal for strong Venus flytrap recovery. The 2026-06-08 empty-tray repeat shows water loss/evaporation can be rapid under brighter heat/light conditions.
+- Current concern: Monitor recovery from Walmart rescue condition and response to supervised outdoor light testing, especially new browning/blackening, renewed drooping, heat buildup in the skull cachepot setup, yellowing around trap mouths, green surface film on media, and whether healthy firm green growth continues.
   <!-- Main current issue, risk, or monitoring focus. If nothing is wrong, say that clearly. -->
 
-- Latest check-in notes: On 2026-06-08, after the new-growth/tray-refill update, user set up a sealed white skull cachepot as an outer reservoir. The flytrap remains in its original pot and no extra media was added. Treat as a supervised test setup and monitor for leaks, heat, water level, and renewed drooping. User is planning on moving the plant outside where it will get stronger and longer sun exposure. Monitor for anything that could go wrong.
+- Latest check-in notes: On 2026-06-09, user reported the Venus Flytrap still had a good skull reservoir water level and nothing new of concern. User moved it outside again to the same test spot as yesterday at about 2 PM.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events
 <!-- Rolling event log for this plant. Keep newest 30 entries only. Newest entry goes at the top. When adding entry #31, delete the oldest entry. -->
+
+### 2026-06-09 — Outdoor Light Test / Reservoir Stable
+
+- Summary: Venus Flytrap was moved outside again for a supervised light test, with reservoir water still at a good level.
+  <!-- One-line summary of what happened. -->
+
+- Details: User reported no new concerns and a good water level in the skull reservoir. Around 2 PM, user moved the plant outside again to the same outdoor test spot as the previous day.
+  <!-- Useful specifics, such as amount of water, product used, symptom observed, action taken, context, or uncertainty. -->
+
+- Outcome: Continue treating the outdoor placement as a supervised test, not a confirmed long-term setup yet. Monitor for heat buildup, renewed drooping, new browning/blackening, and whether the reservoir remains adequate during outdoor exposure.
+  <!-- Result/status after the event, expected follow-up, or "TBD" if the outcome is not known yet. -->
 
 ### 2026-06-08 — Skull Cachepot / Outer Reservoir Setup
 

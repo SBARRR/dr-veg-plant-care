@@ -3,13 +3,13 @@
 ## Current Snapshot
 <!-- Current state and durable care facts for this specific plant. This section should preserve important information that should not disappear when older Recent Events roll off the 30-entry limit. -->
 
-- Last updated: 2026-06-08
+- Last updated: 2026-06-09
   <!-- Date this snapshot was last revised. -->
 
-- Overall condition: High-stress recovery after major repot/root reduction on 2026-06-01. As of 2026-06-08, caudex firmness remains about the same as yesterday, but softer compared to when it was initially bought, while leaf yellowing/drop continues; user removed 2–3 more fallen leaves from the pot surface. Continue close rot/dehydration monitoring.
+- Overall condition: High-stress recovery after major repot/root reduction on 2026-06-01. As of 2026-06-09, lower caudex firmness feels about the same, possibly slightly improved, with no reported mushiness, wet/slimy tissue, foul smell, spreading black/brown tissue, or collapse. Leaf drop continues; user removed 2 more fallen leaves.
   <!-- Broad current health/status of the plant. Example: stable, recovering, declining, newly rescued, stressed, dormant, unknown. -->
 
-- Watering status: Last watered on 2026-05-31 while it was in the original pot. Since this plant just had a major root reduction, recommend to not water immediately; keep dry for roughly 7–10 days while cut roots callus, unless condition changes significantly.
+- Watering status: Last watered on 2026-05-31 while it was in the original pot.
   <!-- Latest watering state, including last watering, withheld watering, drainage behavior, tray status, pot weight, drying behavior, or other water-related context needed for daily advice. -->
 
 - Fertilizer status: No fertilizer has been given since purchase.
@@ -30,14 +30,25 @@
 - Last prune: 2026-06-05; user removed the open flower and two larger unopened buds to reduce flowering energy demand during recovery. Smaller buds remain for now.
   <!-- Most recent above-ground pruning/removal, such as leaves, traps, fronds, branches, flowers, or dead material. -->
 
-- Current concern: Recovery after major root pruning and shallow-pot repot. Monitor caudex/stem firmness, exposed base tissue, lower yellowish/previously buried tissue, old root-removal scar/hole, rapid leaf yellowing/drop, stalled or lost new growth, flowering energy demand, black/brown spreading tissue, and watering timing after root wounds callus. Current porch light is acceptable during acute recovery; once the plant appears more stable, user plans to actively look for a brighter long-term location. Continue holding water during post-root-prune dry recovery unless condition changes; monitor for worsening softness, mushiness, wetness/slime, foul smell, collapse, or spreading dark tissue.
+- Current concern: Continue monitoring recovery after major root pruning and shallow-pot repot, especially lower caudex firmness, old root-removal scar/hole, continued leaf drop, stalled or lost new growth, and any signs of rot such as mushiness, wet/slimy tissue, foul smell, collapse, or spreading black/brown tissue. No such rot-warning signs were reported on 2026-06-09.
   <!-- Main current issue, risk, or monitoring focus. If nothing is wrong, say that clearly. -->
 
-- Latest check-in notes: On 2026-06-08, user reported no major new change with the Desert Rose. Firmness still feels about the same, possibly slightly improved, but this is not being logged as confirmed improvement yet. Leaf drop continues, and user cleaned 2–3 fallen leaves from the top of the pot.
+- Latest check-in notes: On 2026-06-09, user reported nothing new with the Desert Rose except 2 more fallen leaves removed. Lower caudex firmness felt the same if not slightly improved. User reported no mushiness, wet/slimy tissue, foul smell, spreading black/brown tissue, or collapse.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events
 <!-- Rolling event log for this plant. Keep newest 30 entries only. Newest entry goes at the top. When adding entry #31, delete the oldest entry. -->
+
+### 2026-06-09 — Continued Leaf Drop / Firmness Stable
+
+- Summary: Desert Rose had 2 more leaves fall, while lower caudex firmness stayed about the same or slightly improved.
+  <!-- One-line summary of what happened. -->
+
+- Details: User reported no major new changes. Two more leaves had fallen and were removed. Lower caudex firmness felt the same if not slightly improved, and no mushiness, wet/slimy tissue, foul smell, spreading black/brown tissue, or collapse was reported.
+  <!-- Useful specifics, such as amount of water, product used, symptom observed, action taken, context, or uncertainty. -->
+
+- Outcome: Continue dry post-root-prune recovery for now. Do not water, fertilize, spray, repot, or disturb roots at this check-in. Monitor for worsening softness, wet/slimy tissue, foul smell, spreading black/brown tissue, collapse, or major acceleration in leaf drop.
+  <!-- Result/status after the event, expected follow-up, or "TBD" if the outcome is not known yet. -->
 
 ### 2026-06-08 — Continued Leaf Drop / Firmness Stable
 

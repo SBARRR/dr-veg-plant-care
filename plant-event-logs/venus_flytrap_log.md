@@ -6,10 +6,10 @@
 - Last updated: 2026-06-08
   <!-- Date this snapshot was last revised. -->
 
-- Overall condition: Stressed Walmart rescue; as of 2026-06-08, plant looked perkier after the 2026-06-07 evening tray refill. Continue monitoring tray consistency, crown/base condition, and response to brighter light testing.
+- Overall condition: Stressed Walmart rescue; as of 2026-06-08, plant looked perkier after the 2026-06-07 evening tray refill and photo shows clear bright green central growth emerging from the crown. Later the same day, tray water was found empty and refilled. Continue monitoring tray consistency, crown/base condition, and response to brighter light testing.
   <!-- Broad current health/status of the plant. Example: stable, recovering, declining, newly rescued, stressed, dormant, unknown. -->
 
-- Watering status: Tray water was empty on 2026-06-07 evening and was refilled. On 2026-06-08, tray water was at a good level and no refill was needed. Standing rule remains to use only distilled, rain, or RO water. Continue keeping media wet and refill the tray when empty or nearly empty.
+- Watering status: Tray water was empty on 2026-06-07 evening and was refilled. On 2026-06-08, tray water was at a good level earlier, but later the same day it was found empty again after brighter light/heat exposure and was refilled. Standing rule remains to use only distilled, rain, or RO water. Continue keeping media wet and refill the tray when empty or nearly empty.
   <!-- Latest watering state, including last watering, withheld watering, drainage behavior, tray status, pot weight, drying behavior, or other water-related context needed for daily advice. -->
 
 - Fertilizer status: No fertilizer or plant food has been given.
@@ -30,14 +30,25 @@
 - Last prune: 2026-06-03; user removed the fully dead brown trap mouth/tip from a partially green leaf, leaving the green lower stem/leaf tissue attached.
   <!-- Most recent above-ground pruning/removal, such as leaves, traps, fronds, branches, flowers, or dead material. -->
 
-- Current concern: Monitor recovery from Walmart rescue condition, especially new browning/blackening, renewed drooping, yellowing around trap mouths, tray dry-down speed, green surface film on media, whether healthy firm green growth continues, and the active search for a brighter long-term location because current porch light is likely marginal for strong Venus flytrap recovery.
+- Current concern: Monitor recovery from Walmart rescue condition, especially new browning/blackening, renewed drooping, yellowing around trap mouths, tray dry-down speed, green surface film on media, whether healthy firm green growth continues, and the active search for a brighter long-term location because current porch light is likely marginal for strong Venus flytrap recovery. The 2026-06-08 empty-tray repeat shows water loss/evaporation can be rapid under brighter heat/light conditions.
   <!-- Main current issue, risk, or monitoring focus. If nothing is wrong, say that clearly. -->
 
-- Latest check-in notes: On 2026-06-08, user reported the Venus flytrap looks perkier than yesterday and tray water is at a good level, so no refill was done. Later, the plant was briefly moved outside for a supervised brighter-light test, received about 2 hours of extra outdoor sun/light exposure, then was returned from the outdoor test setup. Continue monitoring tray level, media wetness, crown/base condition, and whether drooping returns during future brighter-light testing.
+- Latest check-in notes: On 2026-06-08, user reported the Venus flytrap looks perkier than yesterday and tray water was at a good level earlier. Later, the plant was briefly moved outside for a supervised brighter-light test, received about 2 hours of extra outdoor sun/light exposure, then was returned from the outdoor test setup. User later observed clear new bright green central growth emerging from the crown; photo documented new curled leaves/traps forming. Tray was found empty later the same day, so user refilled it. Continue monitoring tray level, media wetness, crown/base condition, and whether drooping returns during future brighter-light testing.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events
 <!-- Rolling event log for this plant. Keep newest 30 entries only. Newest entry goes at the top. When adding entry #31, delete the oldest entry. -->
+
+### 2026-06-08 — New Central Growth / Tray Empty Refill
+
+- Summary: New bright green central growth was observed, but tray water was later found empty and refilled.
+  <!-- One-line summary of what happened. -->
+
+- Details: User observed clear new bright green growth emerging from the crown after the brief outdoor light test. Photo documented new curled leaves/traps forming. Later the same day, the tray was found empty, so user refilled it.
+  <!-- Useful specifics, such as amount of water, product used, symptom observed, action taken, context, or uncertainty. -->
+
+- Outcome: New central growth is a positive recovery sign and suggests the crown is actively growing. The empty tray shows water loss/evaporation is rapid under current heat/light conditions, so future outdoor placement needs reliable tray water and heat control. Continue using only distilled/rain/RO water and do not feed, fertilize, repot, or disturb the media.
+  <!-- Result/status after the event, expected follow-up, or "TBD" if the outcome is not known yet. -->
 
 ### 2026-06-08 — Brief Outdoor Light Test
 

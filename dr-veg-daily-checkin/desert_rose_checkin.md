@@ -1,15 +1,15 @@
-Your Desert Rose is in a high-stress recovery phase after its major surgery, and today's overcast weather actually provides a gentle environment for it to heal without extra heat stress. The continued leaf yellowing and drop is a normal, if dramatic, stress response to the significant root loss, and your priority remains protecting the plant from rot by keeping it completely dry.
+Your Desert Rose is in a critical recovery phase after its major root reduction. The continued leaf drop is a clear stress response, but the stable caudex firmness is the most important positive sign right now. Today's warm, dry weather is actually helpful, as it supports the dry-out period the roots need to callus.
 
-The caudex firmness has held steady, which is the best news you could hope for right now. Keep trusting the dry-down process for the new soil, as today's high humidity means evaporation will be slow, further reinforcing the need to hold off on watering.
+The top priority remains the same: do not water. The plant is using its stored energy and shedding leaves to cope with the root loss, and introducing moisture now could invite rot. Keep it in its bright, sheltered spot and let the process continue.
 
-**Top Priority:** Continue the strict no-watering protocol to let root wounds callus over.
+**Top Priority:** Continue the strict no-water policy to let the root wounds callus.
 
-**Watering:** Do not water; the soil must stay dry for at least 7-10 days post-repot.
+**Watering:** Do not water today; the soil should stay completely dry.
 
-**Useful Check:** Gently feel the lower, yellowish part of the caudex for any new softness or mushiness.
+**Useful Check:** Gently press the lower, yellowish part of the caudex to confirm it hasn't become soft or mushy.
 
-**Optional Improvement:** If you're worried, you can gently brush away any fallen leaf debris from the soil surface to improve airflow.
+**Optional Extra:** If you're concerned about the leaf drop, you can gently tug on a yellowing leaf; if it resists, leave it be.
 
-**Practical Idea:** Set a calendar reminder for this weekend to reassess the plant's condition and consider its first post-repot watering.
+**Practical Idea:** To track subtle changes, take a quick daily photo from the same angle—it’s easier to spot trends than relying on memory.
 
 ------

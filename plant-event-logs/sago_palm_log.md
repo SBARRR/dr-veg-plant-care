@@ -3,16 +3,16 @@
 ## Current Snapshot
 <!-- Current state and durable care facts for this specific plant. This section should preserve important information that should not disappear when older Recent Events roll off the 30-entry limit. -->
 
-- Last updated: 2026-06-08
+- Last updated: 2026-06-09
   <!-- Date this snapshot was last revised. -->
 
 - Overall condition: Established and generally stable. Older fronds show yellowing/spotted aging or stress, while newer growth is reportedly healthy green. Current focus is better routine care discipline.
   <!-- Broad current health/status of the plant. Example: stable, recovering, declining, newly rescued, stressed, dormant, unknown. -->
 
-- Watering status: Last watered on 2026-06-05 after soil felt pretty dry; watered thoroughly until drainage came out the bottom. Let the mix dry appropriately again before the next watering and avoid letting the pot sit in standing tray water.
+- Watering status: Watered on 2026-06-09 after the soil felt dry. User watered slowly until drainage came from the bottom. Let the mix dry appropriately again before the next watering.
   <!-- Latest watering state, including last watering, withheld watering, drainage behavior, tray status, pot weight, drying behavior, or other water-related context needed for daily advice. -->
 
-- Fertilizer status: No recent fertilizer; last fertilizing was roughly over a year ago, product and dose unknown. Light palm/cycad fertilizer is appropriate during warm-season routine care, ideally at the next normal watering or when the media is not overly wet.
+- Fertilizer status: Fertilized on 2026-06-09 with 1 level tablespoon total of BGI PalmGain 8-2-12, scattered across the exposed soil surface after moving the top dressing aside, then covered back over. Do not fertilize again soon; monitor response first.
   <!-- Latest fertilizer state, including last feeding, fertilizer used, form, dose/strength, or whether fertilizer is being intentionally avoided. -->
 
 - Pest control: No confirmed current pest issue or pest-control treatments. Photo shows spotting on yellowing fronds, but no obvious pest is confirmed from the image; user checked undersides and did not see white specks or raised bumps.
@@ -30,14 +30,25 @@
 - Last prune: Last frond removal was around fall 2025; exact date and number of fronds removed unknown.
   <!-- Most recent above-ground pruning/removal, such as leaves, traps, fronds, branches, flowers, or dead material. -->
 
-- Current concern: Monitor yellowing/spotted older fronds, confirm newer green growth remains healthy, and resume light warm-season feeding at a conservative dose.
+- Current concern: Monitor yellowing/spotted older fronds, confirm newer green growth remains healthy, and watch response after the 2026-06-09 PalmGain feeding. Older yellowing fronds still have some green at the tips and did not release with a gentle tug, so leave them attached for now.
   <!-- Main current issue, risk, or monitoring focus. If nothing is wrong, say that clearly. -->
 
-- Latest check-in notes: On 2026-06-08, user reported nothing new with the Sago Palm. Media still felt a little humid/moist, though not drastically wet, so no watering was done. Light palm/cycad fertilizer remains reasonable at the next normal watering or when the media is not overly wet.
+- Latest check-in notes: On 2026-06-09, user reported the Sago Palm soil felt dry, applied 1 level tablespoon total of BGI PalmGain 8-2-12 by moving the top layer/top dressing aside, scattering fertilizer over the soil, covering it back over, and watering until drainage came from the bottom. Older yellowing fronds still show some green at the tips and did not release with a gentle tug, so they were left attached.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events
 <!-- Rolling event log for this plant. Keep newest 30 entries only. Newest entry goes at the top. When adding entry #31, delete the oldest entry. -->
+
+### 2026-06-09 — Dry Soil / PalmGain Feeding / Watering
+
+- Summary: Sago Palm soil felt dry, so user applied a conservative PalmGain dose and watered to drainage.
+  <!-- One-line summary of what happened. -->
+
+- Details: User applied 1 level tablespoon total of BGI PalmGain 8-2-12. The top layer/top dressing was moved aside, fertilizer was scattered across the soil surface, the top layer was replaced, and the plant was watered until water drained from the bottom.
+  <!-- Useful specifics, such as amount of water, product used, symptom observed, action taken, context, or uncertainty. -->
+
+- Outcome: Fertilizer was watered in successfully. Do not fertilize again soon; monitor response first. Older yellowing fronds still have some green at the tips and did not release with a gentle tug, so leave them attached for now.
+  <!-- Result/status after the event, expected follow-up, or "TBD" if the outcome is not known yet. -->
 
 ### 2026-06-07 — Moisture / Stability Check
 

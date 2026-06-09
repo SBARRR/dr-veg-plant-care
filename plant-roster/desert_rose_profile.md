@@ -60,5 +60,5 @@
 
 - Plant marker found deep in the original pot said “Bombay Citrine”; likely cultivar/marketing label for this Desert Rose. Exact cultivar identity is not independently confirmed. Continue treating care needs as Adenium obesum.
 
-- Repotted into a shallow bonsai pot on 2026-06-01. Some base/caudex tissue that was previously below soil is now exposed above the soil line.
+- Some base/caudex tissue that was previously below soil is now exposed above the soil line.
   <!-- Stable notes about this specific plant that do not fit elsewhere. Do not use this for daily care events. -->

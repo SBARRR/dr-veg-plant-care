@@ -1,15 +1,17 @@
-Your Venus Flytrap is showing a promising spark of recovery, with bright green new growth emerging from its crown. This is a great sign that the core of the plant is healthy and actively responding to the consistent, pure water you're providing.
+Your Venus Flytrap has fresh new growth at the center and is now fully outside in its new spot—that's a promising recovery sign. With extreme heat (feels like 103°F) and heavy rain forecast, the challenge will be keeping the skull cachepot from turning into a hot bath or getting oversaturated.
 
-The recent shift to the skull cachepot is a clever solution to prevent the tray from drying out, especially under today's forecasted heat. With the strong sun and high temperatures, maintaining that reservoir of distilled water is your plant's best defense against stress and renewed drooping.
+Stay on top of the reservoir level today: the storm could overfill it, while the heat and sun afterward might spike the water temperature and risk cooking the roots. Keep an eye on that bright green new growth—it's your best clue that the crown is healthy and the plant is settling in.
 
-**Top Priority:** Ensure the skull reservoir has about a half-inch of distilled water to combat today's high heat and evaporation.
+---
 
-**Watering:** Top off the reservoir if it's low, but don't let the water level rise above the base of the inner pot to avoid stem rot.
+**Top priority:** Check the skull reservoir for overfill after the rain, then for heat buildup when the sun returns.
 
-**Useful Check:** Gently feel the new central growth; it should be firm, not soft or mushy, which confirms healthy development.
+**Watering guidance:** Maintain about 0.25–0.5 inch of pure water in the tray; top off with distilled or rain water if needed.
 
-**Optional Extra:** If the plant feels hot to the touch in its afternoon sun spot, consider a light shade cloth during the peak heat hours to prevent root cook-out.
+**Useful check:** Lift the pot and inspect the media's moisture level and the crown for any new blackening or mushiness.
 
-**Practical Idea:** For a future upgrade, consider a simple saucer filled with pebbles and water beneath the skull pot; the evaporating water can provide a slight, beneficial humidity boost without risking the roots.
+**Optional improvement:** If the skull pot feels hot to the touch during afternoon sun, move the entire setup to a spot with late-afternoon shade.
+
+**Practical idea:** Add a small digital thermometer to the reservoir water so you can quickly tell if it's getting dangerously warm.
 
 ------

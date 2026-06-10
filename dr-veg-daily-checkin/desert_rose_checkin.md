@@ -1,15 +1,17 @@
-Your Desert Rose is in a critical recovery phase after its major root reduction. The continued leaf drop is a clear stress response, but the stable caudex firmness is the most important positive sign right now. Today's warm, dry weather is actually helpful, as it supports the dry-out period the roots need to callus.
+Your Desert Rose is still recovering from its major root-prune repot—leaf drop continues but the caudex remains firm and stable, which is a good sign. With heavy rain and high humidity in the forecast, shielding it from excess moisture is the biggest priority today to avoid rot.
 
-The top priority remains the same: do not water. The plant is using its stored energy and shedding leaves to cope with the root loss, and introducing moisture now could invite rot. Keep it in its bright, sheltered spot and let the process continue.
+The heat and humidity add extra stress, but as long as the plant stays dry and warm, it should continue its slow recovery. Keep it protected from the rain, and hold off on watering until the caudex shows clear thirst.
 
-**Top Priority:** Continue the strict no-water policy to let the root wounds callus.
+**Today’s quick actions:**
 
-**Watering:** Do not water today; the soil should stay completely dry.
+Keep an eye on that lower caudex firmness daily—any softness or mushiness needs immediate attention.
 
-**Useful Check:** Gently press the lower, yellowish part of the caudex to confirm it hasn't become soft or mushy.
+No watering today; stay the course until the mix is bone dry and the caudex feels slightly shriveled with thirst.
 
-**Optional Extra:** If you're concerned about the leaf drop, you can gently tug on a yellowing leaf; if it resists, leave it be.
+After any rain shower, check the pot for standing water and dump it out if needed.
 
-**Practical Idea:** To track subtle changes, take a quick daily photo from the same angle—it’s easier to spot trends than relying on memory.
+If the screened porch lets in too much rain, moving the pot to a completely covered spot is a smart optional upgrade.
+
+Remove any fallen leaves from the soil surface to discourage mold in this damp weather.
 
 ------

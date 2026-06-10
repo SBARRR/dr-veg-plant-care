@@ -1,15 +1,15 @@
-Overall, your Sago Palm is looking stable and settled in its shady porch home. Its slow-growing nature means patience is key, and the current hot, humid weather simply means we should be extra mindful of its watering rhythm.
+Your Sago Palm is doing fine overall — the older yellowing fronds with spots are a slow, expected fade, and the new growth remains healthy and green. With today’s heat and potential heavy rain, the main job is keeping that shallow bonsai pot from staying soggy after storms.
 
-The focus remains on observing the older yellowing fronds while letting the newer green growth thrive. Today's forecast supports letting the soil dry thoroughly, as the pot is still recovering from its last drink a few days ago.
+Since you just watered and fed on June 9th, let the top inch or two of mix dry out before even thinking about more water. That PalmGain dose was a solid move, but now it just needs time to work without extra moisture mucking things up.
 
-Your top priority today is a simple finger-check to confirm the soil is dry before considering another watering.
+**Top priority:** Let the soil dry thoroughly — don’t water again until the top 1–2 inches feel dry, especially after any rain sneaks in.
 
-Hold off on watering; the soil likely still has moisture from the 5th.
+**Watering guidance:** Skip watering today; the mix should still have enough moisture from your June 9th watering.
 
-Give those two older yellow fronds a gentle tug; if they detach easily, you can remove them.
+**Useful check:** Peek at the drip tray after any rain to make sure the pot isn’t sitting in collected water.
 
-Consider a light dose of palm-specific fertilizer at its next watering, as it's been over a year.
+**Optional improvement:** If heavy rain keeps soaking the pot, consider moving it to a drier corner of the porch to avoid root rot risks.
 
-If you have a moment, tilt the pot to check if any water has pooled beneath the river rocks in the drip tray.
+**Practical idea:** Use a wooden chopstick or skewer to probe the soil depth — if it comes out damp, back off on watering.
 
 ------

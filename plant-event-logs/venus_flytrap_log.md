@@ -3,13 +3,13 @@
 ## Current Snapshot
 <!-- Current state and durable care facts for this specific plant. This section should preserve important information that should not disappear when older Recent Events roll off the 30-entry limit. -->
 
-- Last updated: 2026-06-09
+- Last updated: 2026-06-10
   <!-- Date this snapshot was last revised. -->
 
 - Overall condition: Stressed Walmart rescue, but showing signs of new growth as of 2026-06-08. A photo submited by user shows clear bright green central growth emerging from the crown. Continue monitoring tray consistency, crown/base condition, and response to brighter light testing.
   <!-- Broad current health/status of the plant. Example: stable, recovering, declining, newly rescued, stressed, dormant, unknown. -->
 
-- Watering status: As of 2026-06-09, the skull reservoir still had a good water level and no refill was needed.
+- Watering status: As of 2026-06-10, the skull reservoir still had a decent amount of water.
   <!-- Latest watering state, including last watering, withheld watering, drainage behavior, tray status, pot weight, drying behavior, or other water-related context needed for daily advice. -->
 
 - Fertilizer status: No fertilizer or plant food has been given.
@@ -33,7 +33,7 @@
 - Current concern: Monitor recovery from Walmart rescue condition and adjustment to the outdoor setup, especially heat buildup in the skull cachepot setup, reservoir level, storm/rain overfill, renewed drooping, new browning/blackening, yellowing around trap mouths, green surface film on media, and whether healthy firm green growth continues.
   <!-- Main current issue, risk, or monitoring focus. If nothing is wrong, say that clearly. -->
 
-- Latest check-in notes: On 2026-06-09, user moved the Venus Flytrap outside to the open outdoor spot and decided to leave it outside overnight. Reservoir water level was still good earlier in the day, and no new plant concerns were reported. Continue monitoring outdoor response over the next few days.
+- Latest check-in notes: On 2026-06-10, user reported the Venus Flytrap looks about the same, the skull reservoir still has a decent amount of water, and the outer reservoir does not feel hot. User moved it under the patio because rain was possible, to reduce risk of the sealed skull reservoir overfilling.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events

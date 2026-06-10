@@ -3,13 +3,13 @@
 ## Current Snapshot
 <!-- Current state and durable care facts for this specific plant. This section should preserve important information that should not disappear when older Recent Events roll off the 30-entry limit. -->
 
-- Last updated: 2026-06-09
+- Last updated: 2026-06-10
   <!-- Date this snapshot was last revised. -->
 
 - Overall condition: Established and generally stable. Older fronds show yellowing/spotted aging or stress, while newer growth is reportedly healthy green. Current focus is better routine care discipline.
   <!-- Broad current health/status of the plant. Example: stable, recovering, declining, newly rescued, stressed, dormant, unknown. -->
 
-- Watering status: Watered on 2026-06-09 after the soil felt dry. User watered slowly until drainage came from the bottom. Let the mix dry appropriately again before the next watering.
+- Watering status: As of 2026-06-10, soil still feels a little moist after the 2026-06-09 watering, and the drip tray contains water.
   <!-- Latest watering state, including last watering, withheld watering, drainage behavior, tray status, pot weight, drying behavior, or other water-related context needed for daily advice. -->
 
 - Fertilizer status: Fertilized on 2026-06-09 with 1 level tablespoon total of BGI PalmGain 8-2-12, scattered across the exposed soil surface after moving the top dressing aside, then covered back over. Do not fertilize again soon; monitor response first.
@@ -33,7 +33,7 @@
 - Current concern: Monitor yellowing/spotted older fronds, confirm newer green growth remains healthy, and watch response after the 2026-06-09 PalmGain feeding. Older yellowing fronds still have some green at the tips and did not release with a gentle tug, so leave them attached for now.
   <!-- Main current issue, risk, or monitoring focus. If nothing is wrong, say that clearly. -->
 
-- Latest check-in notes: On 2026-06-09, user reported the Sago Palm soil felt dry, applied 1 level tablespoon total of BGI PalmGain 8-2-12 by moving the top layer/top dressing aside, scattering fertilizer over the soil, covering it back over, and watering until drainage came from the bottom. Older yellowing fronds still show some green at the tips and did not release with a gentle tug, so they were left attached.
+- Latest check-in notes: On 2026-06-10, user reported nothing new with the Sago Palm. Overall condition looks the same, soil still feels a little moist, and the drip tray has water.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events

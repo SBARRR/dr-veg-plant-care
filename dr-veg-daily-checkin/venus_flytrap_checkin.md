@@ -1,17 +1,11 @@
-Your Venus Flytrap has fresh new growth at the center and is now fully outside in its new spot—that's a promising recovery sign. With extreme heat (feels like 103°F) and heavy rain forecast, the challenge will be keeping the skull cachepot from turning into a hot bath or getting oversaturated.
+Your flytrap is showing promising signs of recovery with that new central growth, which is a great indicator that the crown is healthy and actively responding to your care. The skull reservoir setup is working well to keep the media wet, and the recent move to a fully outdoor spot should provide the strong light it desperately needs.
 
-Stay on top of the reservoir level today: the storm could overfill it, while the heat and sun afterward might spike the water temperature and risk cooking the roots. Keep an eye on that bright green new growth—it's your best clue that the crown is healthy and the plant is settling in.
+Today's forecast is hot and humid, which is excellent for a bog plant's moisture needs but also means evaporation will be high. Your top priority is ensuring the reservoir doesn't run dry, as the new growth is a sign of progress you want to protect. Keep monitoring that bright green center to confirm it continues unfurling without scorching.
 
----
+Check the skull reservoir's water level; it should still have a decent amount, but refill it if it's low or empty.
 
-**Top priority:** Check the skull reservoir for overfill after the rain, then for heat buildup when the sun returns.
+Give the new central growth a quick look to ensure it's still firm and green, not turning crispy or black.
 
-**Watering guidance:** Maintain about 0.25–0.5 inch of pure water in the tray; top off with distilled or rain water if needed.
-
-**Useful check:** Lift the pot and inspect the media's moisture level and the crown for any new blackening or mushiness.
-
-**Optional improvement:** If the skull pot feels hot to the touch during afternoon sun, move the entire setup to a spot with late-afternoon shade.
-
-**Practical idea:** Add a small digital thermometer to the reservoir water so you can quickly tell if it's getting dangerously warm.
+If you have time, consider gently rotating the pot to ensure all sides of the plant get even light exposure as it acclimates.
 
 ------

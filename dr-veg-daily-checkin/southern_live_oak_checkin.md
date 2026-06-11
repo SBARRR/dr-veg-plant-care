@@ -1,25 +1,15 @@
-Your Southern Live Oak is settling into its new outdoor spot and seems stable so far, which is great news given all that recent root disturbance. Today’s pairing of extreme heat (feels like 103°F) and heavy rain could stress a recovering tree, so keep an eye on how it handles the sudden shifts.
+Your Southern Live Oak is holding steady after its big move, which is a great sign given the recent root disturbance. The warm, humid weather is actually helpful for recovery, as it reduces the risk of the soil drying out too fast.
 
-The rain may mean you can skip watering entirely, but after the storm passes, check that the pot isn’t staying soggy—standing water would undo all the progress. Focus on the leaves and tips: any wilting or browning that doesn’t recover by evening is a sign to move it to a slightly shadier spot until the heat eases.
+Keep your focus on letting the soil dry properly between waterings to encourage new root growth and prevent rot. The current overcast conditions are a gentle break from intense sun, giving your oak a moment to acclimate without extra heat stress.
 
-Highlight what matters most today, especially the top plant-care action or observation priority if there is one.
+Top priority: Continue to let the soil dry out; do not water today.
 
-Watch for limp growth or crispy edges after this afternoon’s heat and rain combo, and be ready to give it temporary shade if it looks stressed.
+Water only when the top 2-3 inches of soil under the mulch feel dry to the touch.
 
-Include watering guidance.
+Check the underside of a few lower leaves for any new orange powdery spots.
 
-Don’t water today if the rain delivers at least an inch; wait for the soil surface to feel slightly dry under the mulch before your next deep watering.
+If you're up for it, gently scrape away the top layer of mulch from the trunk's base to ensure it's not staying too damp.
 
-Include a useful check.
-
-Check that the drainage holes aren’t blocked by mulch or debris so the pot can shed excess rainwater quickly.
-
-Mention optional improvements related to care (i.e. going the extra mile) only when they are actually useful.
-
-If you have a cloth or shade cloth, draping it overhead during the fiercest afternoon sun could ease leaf scorch risk without blocking all light.
-
-When useful, you may include one practical idea.
-
-Use a wooden skewer test to poke into the soil about 4 inches deep—if it comes out wet, hold off on any watering until it feels damp but not muddy.
+A simple wooden skewer stuck into the soil is a foolproof way to check moisture deep in the pot.
 
 ------

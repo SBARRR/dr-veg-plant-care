@@ -3,13 +3,13 @@
 ## Current Snapshot
 <!-- Current state and durable care facts for this specific plant. This section should preserve important information that should not disappear when older Recent Events roll off the 30-entry limit. -->
 
-- Last updated: 2026-06-10
+- Last updated: 2026-06-11
   <!-- Date this snapshot was last revised. -->
 
 - Overall condition: Stressed Walmart rescue, but showing signs of new growth as of 2026-06-08. A photo submited by user shows clear bright green central growth emerging from the crown. Continue monitoring tray consistency, crown/base condition, and response to brighter light testing.
   <!-- Broad current health/status of the plant. Example: stable, recovering, declining, newly rescued, stressed, dormant, unknown. -->
 
-- Watering status: As of 2026-06-10, the skull reservoir still had a decent amount of water.
+- Watering status: As of 2026-06-11, the skull reservoir still contains a decent amount of water.
   <!-- Latest watering state, including last watering, withheld watering, drainage behavior, tray status, pot weight, drying behavior, or other water-related context needed for daily advice. -->
 
 - Fertilizer status: No fertilizer or plant food has been given.
@@ -30,10 +30,10 @@
 - Last prune: 2026-06-03; user removed the fully dead brown trap mouth/tip from a partially green leaf, leaving the green lower stem/leaf tissue attached.
   <!-- Most recent above-ground pruning/removal, such as leaves, traps, fronds, branches, flowers, or dead material. -->
 
-- Current concern: Monitor recovery from Walmart rescue condition and adjustment to the outdoor setup, especially heat buildup in the skull cachepot setup, reservoir level, storm/rain overfill, renewed drooping, new browning/blackening, yellowing around trap mouths, green surface film on media, and whether healthy firm green growth continues.
+- Current concern: Monitor recovery from Walmart rescue condition and adjustment to the outdoor setup, especially heat buildup in the skull cachepot setup, reservoir level, storm/rain overfill, renewed drooping, new browning/blackening, yellowing around trap mouths, green surface film on media, and whether healthy firm green growth continues. As of 2026-06-11, blackening is continuing to spread through previously brown/dying trap and leaf tissue, while the new central growth remains stable.
   <!-- Main current issue, risk, or monitoring focus. If nothing is wrong, say that clearly. -->
 
-- Latest check-in notes: On 2026-06-10, user reported the Venus Flytrap looks about the same, the skull reservoir still has a decent amount of water, and the outer reservoir does not feel hot. User moved it under the patio because rain was possible, then moved it back outside after the rain passed.
+- Latest check-in notes: On 2026-06-11, user reported the Venus Flytrap looks about the same overall and the skull reservoir still contains a decent amount of water. New central growth appears unchanged. User observed blackening continuing to spread through previously brown/dying trap and leaf tissue.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events

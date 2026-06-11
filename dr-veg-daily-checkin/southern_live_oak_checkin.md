@@ -1,15 +1,15 @@
-Your Southern Live Oak is holding steady after its big move, which is a great sign given the recent root disturbance. The warm, humid weather is actually helpful for recovery, as it reduces the risk of the soil drying out too fast.
+Your Southern Live Oak is holding steady in its new outdoor home, which is a great sign after its recent move. The soil is still moist from its last drink, so today is all about letting it settle and breathe.
 
-Keep your focus on letting the soil dry properly between waterings to encourage new root growth and prevent rot. The current overcast conditions are a gentle break from intense sun, giving your oak a moment to acclimate without extra heat stress.
+The tree is showing some expected stress with leaf browning and those orange spots, but no new, rapid decline has been reported. With the high humidity and heat, the focus is on careful observation and resisting the urge to over-care.
 
-Top priority: Continue to let the soil dry out; do not water today.
+**Top Priority:** Continue monitoring the tree's stability; watch for any sudden wilting of new growth or a rapid increase in leaf drop.
 
-Water only when the top 2-3 inches of soil under the mulch feel dry to the touch.
+**Watering:** Hold off on watering today—the soil is still moist from June 8th.
 
-Check the underside of a few lower leaves for any new orange powdery spots.
+**Useful Check:** Gently lift the pot to feel its weight; this will help you gauge moisture levels better than a surface check.
 
-If you're up for it, gently scrape away the top layer of mulch from the trunk's base to ensure it's not staying too damp.
+**Optional Improvement:** If you have a wooden skewer, poke it into the soil for a few minutes to get a clearer picture of moisture deep in the root zone.
 
-A simple wooden skewer stuck into the soil is a foolproof way to check moisture deep in the pot.
+**Practical Idea:** On your next check, take a quick photo of the canopy; comparing pictures over time is the easiest way to spot subtle changes.
 
 ------

@@ -33,7 +33,7 @@
 - Current concern: Monitor recovery from Walmart rescue condition and adjustment to the outdoor setup, especially heat buildup in the skull cachepot setup, reservoir level, storm/rain overfill, renewed drooping, new browning/blackening, yellowing around trap mouths, green surface film on media, and whether healthy firm green growth continues.
   <!-- Main current issue, risk, or monitoring focus. If nothing is wrong, say that clearly. -->
 
-- Latest check-in notes: On 2026-06-10, user reported the Venus Flytrap looks about the same, the skull reservoir still has a decent amount of water, and the outer reservoir does not feel hot. User moved it under the patio because rain was possible, to reduce risk of the sealed skull reservoir overfilling.
+- Latest check-in notes: On 2026-06-10, user reported the Venus Flytrap looks about the same, the skull reservoir still has a decent amount of water, and the outer reservoir does not feel hot. User moved it under the patio because rain was possible, then moved it back outside after the rain passed.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events
@@ -235,4 +235,3 @@
   <!-- Useful specifics, such as amount of water, product used, symptom observed, action taken, context, or uncertainty. -->
 
 - Outcome: Initial post-purchase watering completed; follow-up showed tray water was fully used up by the next day.
-  <!-- Result/status after the event, expected follow-up, or "TBD" if the outcome is not known yet. -->

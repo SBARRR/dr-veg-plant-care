@@ -3,10 +3,10 @@
 ## Current Snapshot
 <!-- Current state and durable care facts for this specific plant. This section should preserve important information that should not disappear when older Recent Events roll off the 30-entry limit. -->
 
-- Last updated: 2026-06-10
+- Last updated: 2026-06-11
   <!-- Date this snapshot was last revised. -->
 
-- Overall condition: High-stress recovery after major repot/root reduction on 2026-06-01. As of 2026-06-10, lower caudex feels slightly more flexible/less firm, but not mushy or squishy, with no reported wet/slimy tissue, foul smell, spreading dark tissue, or collapse. Soil remains totally dry, leaf drop continues, and all flower buds/open flower were removed to reduce energy demand.
+- Overall condition: High-stress recovery after major repot/root reduction on 2026-06-01. As of 2026-06-11, lower caudex firmness feels improved compared to 2026-06-10, with no reported mushiness, wet/slimy tissue, foul smell, spreading dark tissue, or collapse. Soil remains totally dry, leaf drop continues at a reduced pace, and all flower buds/open flower were removed on 2026-06-10 to reduce energy demand.
   <!-- Broad current health/status of the plant. Example: stable, recovering, declining, newly rescued, stressed, dormant, unknown. -->
 
 - Watering status: Last watered on 2026-05-31 while it was in the original pot. As of 2026-06-10, soil is still totally dry and no water has been given during post-root-prune recovery.
@@ -33,7 +33,7 @@
 - Current concern: Continue monitoring recovery after major root pruning and shallow-pot repot, especially lower caudex firmness/softening, old root-removal scar/hole, continued leaf drop, response after flower-bud removal, and any signs of rot such as mushiness, wet/slimy tissue, foul smell, collapse, or spreading black/brown tissue. As of 2026-06-10, lower caudex is slightly more flexible/less firm but no stronger rot-warning signs were reported.
   <!-- Main current issue, risk, or monitoring focus. If nothing is wrong, say that clearly. -->
 
-- Latest check-in notes: On 2026-06-10, user reported some flower buds had enlarged and one had started to flower. Lower caudex felt slightly more flexible/less firm, but not mushy or squishy, with no wet/slimy tissue, foul smell, spreading dark tissue, or collapse. Soil remained totally dry. User removed more fallen leaves and cut off all flower buds/open flower as advised.
+- Latest check-in notes: On 2026-06-11, user reported one leaf fell off and was removed. Lower caudex firmness feels better than the previous day. Soil remains dry.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events

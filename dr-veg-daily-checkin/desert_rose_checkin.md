@@ -1,17 +1,15 @@
-Your Desert Rose is still recovering from its major root-prune repot—leaf drop continues but the caudex remains firm and stable, which is a good sign. With heavy rain and high humidity in the forecast, shielding it from excess moisture is the biggest priority today to avoid rot.
+Your Desert Rose is in a delicate recovery phase after its major root reduction. The continued leaf drop is a normal stress response, but the slightly flexible lower caudex warrants close attention to ensure it doesn't progress to mushiness.
 
-The heat and humidity add extra stress, but as long as the plant stays dry and warm, it should continue its slow recovery. Keep it protected from the rain, and hold off on watering until the caudex shows clear thirst.
+Today's warm, humid weather is actually helpful for recovery, as it encourages callusing without the need for watering. The priority remains a hands-off approach, letting the plant focus its limited energy on healing.
 
-**Today’s quick actions:**
+**Top Priority:** Do not water; continue monitoring the lower caudex for any change from flexible to truly soft or mushy.
 
-Keep an eye on that lower caudex firmness daily—any softness or mushiness needs immediate attention.
+**Watering:** Withhold all water. The soil should stay completely dry.
 
-No watering today; stay the course until the mix is bone dry and the caudex feels slightly shriveled with thirst.
+**Useful Check:** Gently press the lower, yellowish part of the caudex. It should have some give but still feel firm, not squishy.
 
-After any rain shower, check the pot for standing water and dump it out if needed.
+**Optional Improvement:** Ensure the pot is in the brightest spot on your porch to maximize light without adding stress.
 
-If the screened porch lets in too much rain, moving the pot to a completely covered spot is a smart optional upgrade.
-
-Remove any fallen leaves from the soil surface to discourage mold in this damp weather.
+**Practical Idea:** If you're worried, mark today's date on your calendar as a reminder to reassess for watering in 5-7 days, but only if the caudex remains firm.
 
 ------

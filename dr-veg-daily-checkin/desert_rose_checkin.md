@@ -1,15 +1,15 @@
-Your Desert Rose is in a delicate recovery phase after its major root reduction. The continued leaf drop is a normal stress response, but the slightly flexible lower caudex warrants close attention to ensure it doesn't progress to mushiness.
+Your Desert Rose is in a critical recovery phase after its major root surgery. The continued leaf drop is a normal stress response, but the slight improvement in caudex firmness is a very encouraging sign that it's holding its own.
 
-Today's warm, humid weather is actually helpful for recovery, as it encourages callusing without the need for watering. The priority remains a hands-off approach, letting the plant focus its limited energy on healing.
+Today's heavy rain and high humidity mean the air is doing the hydrating for you. The top priority remains keeping the soil bone dry to protect those fresh root wounds from any chance of rot while they callus over.
 
-**Top Priority:** Do not water; continue monitoring the lower caudex for any change from flexible to truly soft or mushy.
+**Top Priority:** Keep the soil absolutely dry; do not water today despite the storm.
 
-**Watering:** Withhold all water. The soil should stay completely dry.
+**Watering:** Withhold all water; the plant is still in its dry recovery period post-repot.
 
-**Useful Check:** Gently press the lower, yellowish part of the caudex. It should have some give but still feel firm, not squishy.
+**Useful Check:** Gently press the lower, yellowish part of the caudex to confirm it remains firm, not soft or mushy.
 
-**Optional Improvement:** Ensure the pot is in the brightest spot on your porch to maximize light without adding stress.
+**Optional Improvement:** If water is pooling on the porch, consider moving the pot to a slightly more sheltered spot on the rack to keep the base extra dry.
 
-**Practical Idea:** If you're worried, mark today's date on your calendar as a reminder to reassess for watering in 5-7 days, but only if the caudex remains firm.
+**Practical Idea:** If you're curious, feel the weight of the pot—it should still feel very light, confirming the soil is dry.
 
 ------

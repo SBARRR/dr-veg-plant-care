@@ -1,11 +1,15 @@
-Your flytrap is showing promising signs of recovery with that new central growth, which is a great indicator that the crown is healthy and actively responding to your care. The skull reservoir setup is working well to keep the media wet, and the recent move to a fully outdoor spot should provide the strong light it desperately needs.
+Your Venus Flytrap is showing promising resilience with that new central growth holding steady, a great sign that the crown is healthy and actively recovering. The recent move outdoors is a big step, and today's stormy weather with high humidity actually provides a helpful, gentle buffer against the intense sun and heat as it continues to acclimate.
 
-Today's forecast is hot and humid, which is excellent for a bog plant's moisture needs but also means evaporation will be high. Your top priority is ensuring the reservoir doesn't run dry, as the new growth is a sign of progress you want to protect. Keep monitoring that bright green center to confirm it continues unfurling without scorching.
+The key now is to ensure its core bog-plant needs are met without new stress. Keep a close eye on the water reservoir in its skull pot, as evaporation can be rapid, and make sure the plant isn't sitting in overheated water after the sun returns.
 
-Check the skull reservoir's water level; it should still have a decent amount, but refill it if it's low or empty.
+**Top Priority:** Ensure the skull reservoir has clean, distilled water and isn't overheating in the returning sun after the storm.
 
-Give the new central growth a quick look to ensure it's still firm and green, not turning crispy or black.
+**Watering:** Check the reservoir level and top it up with distilled water if it's less than a quarter full.
 
-If you have time, consider gently rotating the pot to ensure all sides of the plant get even light exposure as it acclimates.
+**Useful Check:** Gently feel the base of the skull pot after the rain clears to ensure it's warm, not hot, from sun exposure.
+
+**Optional Improvement:** If you see a lot of dead, blackened leaf litter on the soil surface, carefully pluck it out to improve airflow and appearance.
+
+**Practical Idea:** Place a small tile or coaster under the skull pot to lift it slightly off the ground, improving air circulation and helping to moderate root temperature.
 
 ------

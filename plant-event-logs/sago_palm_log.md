@@ -3,13 +3,13 @@
 ## Current Snapshot
 <!-- Current state and durable care facts for this specific plant. This section should preserve important information that should not disappear when older Recent Events roll off the 30-entry limit. -->
 
-- Last updated: 2026-06-11
+- Last updated: 2026-06-12
   <!-- Date this snapshot was last revised. -->
 
 - Overall condition: Established and generally stable. Older fronds show yellowing/spotted aging or stress, while newer growth is reportedly healthy green. Current focus is better routine care discipline.
   <!-- Broad current health/status of the plant. Example: stable, recovering, declining, newly rescued, stressed, dormant, unknown. -->
 
-- Watering status: As of 2026-06-11, soil is still moist after the 2026-06-09 watering; no watering done today.
+- Watering status: As of 2026-06-12, soil still feels a little humid after the 2026-06-09 watering and feeding; no watering done today.
   <!-- Latest watering state, including last watering, withheld watering, drainage behavior, tray status, pot weight, drying behavior, or other water-related context needed for daily advice. -->
 
 - Fertilizer status: Fertilized on 2026-06-09 with 1 level tablespoon total of BGI PalmGain 8-2-12, scattered across the exposed soil surface after moving the top dressing aside, then covered back over. Do not fertilize again soon; monitor response first.
@@ -33,7 +33,7 @@
 - Current concern: Monitor yellowing/spotted older fronds, confirm newer green growth remains healthy, and watch response after the 2026-06-09 PalmGain feeding. Older yellowing fronds still have some green at the tips and did not release with a gentle tug, so leave them attached for now.
   <!-- Main current issue, risk, or monitoring focus. If nothing is wrong, say that clearly. -->
 
-- Latest check-in notes: On 2026-06-11, user reported nothing new with the Sago Palm and soil is still moist.
+- Latest check-in notes: On 2026-06-12, user reported nothing new with the Sago Palm. Soil still feels a little humid.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events

@@ -3,13 +3,13 @@
 ## Current Snapshot
 <!-- Current state and durable care facts for this specific plant. This section should preserve important information that should not disappear when older Recent Events roll off the 30-entry limit. -->
 
-- Last updated: 2026-06-12
+- Last updated: 2026-06-13
   <!-- Date this snapshot was last revised. -->
 
 - Overall condition: Stressed Walmart rescue, but showing signs of new growth as of 2026-06-08. A photo submited by user shows clear bright green central growth emerging from the crown. Continue monitoring tray consistency, crown/base condition, and response to brighter light testing.
   <!-- Broad current health/status of the plant. Example: stable, recovering, declining, newly rescued, stressed, dormant, unknown. -->
 
-- Watering status: On 2026-06-12, the plant received approximately 1 hour of fairly heavy rain. Reservoir was later topped back up to the normal level. Media remains wet and the plant continues to be watered via the reservoir method.
+- Watering status: On 2026-06-13, reservoir level was fine and no refill was needed. Media remains wet and the plant continues to be watered via the reservoir method.
   <!-- Latest watering state, including last watering, withheld watering, drainage behavior, tray status, pot weight, drying behavior, or other water-related context needed for daily advice. -->
 
 - Fertilizer status: No fertilizer or plant food has been given.
@@ -30,10 +30,10 @@
 - Last prune: 2026-06-03; user removed the fully dead brown trap mouth/tip from a partially green leaf, leaving the green lower stem/leaf tissue attached.
   <!-- Most recent above-ground pruning/removal, such as leaves, traps, fronds, branches, flowers, or dead material. -->
 
-- Current concern: Monitor recovery from Walmart rescue condition and adjustment to the outdoor setup, especially heat buildup in the skull cachepot setup, reservoir level, storm/rain overfill, renewed drooping, new browning/blackening, yellowing around trap mouths, green surface film on media, and whether healthy firm green growth continues. As of 2026-06-11, blackening is continuing to spread through previously brown/dying trap and leaf tissue, while the new central growth remains stable.
+- Current concern: Monitor recovery from Walmart rescue condition and adjustment to the outdoor setup, especially reservoir level, heat buildup in the skull cachepot setup, storm/rain overfill, renewed drooping, crown/base issues, blackening on healthy green traps, green surface film on media, and whether healthy firm green growth continues. As of 2026-06-13, new growth continues normally, blackening is progressing only on leaves with dead traps, and no blackening was reported on green traps.
   <!-- Main current issue, risk, or monitoring focus. If nothing is wrong, say that clearly. -->
 
-- Latest check-in notes: On 2026-06-12, user reported no new blackening or browning. Center growth remains stable and green. Skull pot and inner pot were checked and were not hot.
+- Latest check-in notes: On 2026-06-13, user reported the Venus flytrap looked visually unchanged, reservoir level was fine, and new growth continued normally. Blackening continued to progress a little more on leaves with dead traps, but no blackening was seen on green traps. Despite the extra-hot day, the skull pot and inner pot were not hot to the touch.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events
@@ -124,7 +124,7 @@
 - Details: User reported nothing significant/new with the Venus flytrap. Tray water was almost gone, though a little water remained. User added some more water to the tray. Water type and amount were not restated; standing rule remains distilled, rain, or RO water only.
   <!-- Useful specifics, such as amount of water, product used, symptom observed, action taken, context, or uncertainty. -->
 
-- Outcome: Tray top-off was appropriate because “almost gone” counts as refill time. Continue keeping media wet with shallow tray water and monitor for new blackening, mushiness, collapse, or worsening browning.
+- Outcome: Tray top-off was appropriate because "almost gone" counts as refill time. Continue keeping media wet with shallow tray water and monitor for new blackening, mushiness, collapse, or worsening browning.
   <!-- Result/status after the event, expected follow-up, or "TBD" if the outcome is not known yet. -->
 
 ### 2026-06-05 — New Growth / Tray Refill

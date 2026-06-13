@@ -1,15 +1,15 @@
-Your Sago Palm is in a stable holding pattern after its recent feeding, with the moist soil and humid weather meaning no watering is needed today. The older yellowing fronds are still hanging on, which is fine—they'll drop when they're truly spent.
+Your Sago Palm is looking stable overall, with its established growth and healthy green new fronds. The recent fertilizer application should support it well as we head into the warm, active summer months.
 
-The late-afternoon sun it gets is perfect for growth, and the screened patio offers good protection from today's potential storm winds. Just keep an eye on the new green growth to ensure it stays healthy as the plant processes its fertilizer.
+Given the forecast for heavy rain, the main thing to watch is that your setup continues to protect it from standing water. The river rocks in the drip tray are doing their job, so just ensure they're keeping the pot elevated after today's downpour.
 
-**Top Priority:** Let the soil dry out completely; do not water today.
+**Top Priority:** Let the rain do the watering today and focus on ensuring no water pools around the pot's base.
 
-**Watering:** Skip it—the soil is still moist from the 9th and humidity is high.
+**Watering:** Skip manual watering; the forecasted 1.9 inches of rain is more than enough.
 
-**Useful Check:** Feel the weight of the pot or probe the top inch of soil to confirm it's not yet dry.
+**Useful Check:** After the storm passes, peek under the pot to confirm the river rocks are still keeping it above any collected water.
 
-**Optional Improvement:** If you're curious, gently lift the pot to see if the river rocks are effectively keeping it above any water in the tray after recent rain.
+**Optional Extra:** If you have a moment, gently brush any debris or old leaf litter from the crown where fronds meet the trunk to maintain good airflow.
 
-**Practical Idea:** On your next watering day, try lifting the pot to feel its 'dry' weight, so you have a better baseline for future checks.
+**Practical Idea:** Consider placing a small, clear plastic cup upside-down over the soil surface during heavy rain if you ever need to shield it from excessive water in its shallow pot.
 
 ------

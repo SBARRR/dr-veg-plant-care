@@ -1,15 +1,13 @@
-Your oak is holding steady in its new outdoor spot, showing no dramatic worsening since its stressful move from the ground. The recent heavy rain means the soil is still plenty moist, so the main job today is to simply let it be and watch.
+Your oak is holding steady after its big move, which is a great sign given the recent root disturbance. The heavy rain yesterday likely gave it a good soak, so today's focus is on letting the soil breathe and monitoring for any stress signals.
 
-Recovery from that major root disturbance will be a slow and patient process, not a quick fix. The current weather pattern of intense heat and humidity is actually a good backdrop, as it encourages the roots to stay active and seek moisture without you needing to intervene.
+With the intense heat and humidity, the key is to ensure the pot isn't staying waterlogged while also watching for signs of heat stress on the leaves. Your consistent checks are exactly what this recovering tree needs right now.
 
-**Top Priority:** Let the soil dry out completely; do not water today despite the heat.
+Hold off on watering; let the soil dry down after yesterday's heavy rain.
 
-**Watering:** Skip it—the pot is still saturated from yesterday's downpour.
+Check the posture of the newest leaves and tips for any sudden wilting or curling.
 
-**Useful Check:** Look for any new, soft wilting in the newest growth tips, which would be a true distress signal.
+If you're unsure about soil moisture later, a simple wooden skewer test is more reliable than a finger check.
 
-**Optional Extra:** Gently brush away any leaf debris that has landed on the mulch to improve airflow.
-
-**Practical Idea:** If you're worried about judging soil moisture, a simple wooden skewer pushed deep into the pot will tell you when it's truly dry all the way through.
+Consider gently brushing away any leaf debris from the mulch surface to improve airflow.
 
 ------

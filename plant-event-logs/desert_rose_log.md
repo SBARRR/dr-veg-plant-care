@@ -3,10 +3,10 @@
 ## Current Snapshot
 <!-- Current state and durable care facts for this specific plant. This section should preserve important information that should not disappear when older Recent Events roll off the 30-entry limit. -->
 
-- Last updated: 2026-06-12
+- Last updated: 2026-06-13
   <!-- Date this snapshot was last revised. -->
 
-- Overall condition: High-stress recovery after major repot/root work on 2026-06-01. As of 2026-06-12, no leaf drop was reported today and lower caudex firmness seems stable to possibly improving, especially lower on the caudex. No reported mushiness, foul smell, spreading dark plant discoloration, or collapse. Soil remains dry, and all flower buds/open flower were removed on 2026-06-10 to reduce energy demand.
+- Overall condition: High-stress recovery after major repot/root work on 2026-06-01. As of 2026-06-13, no new leaf drop was reported and caudex firmness remains stable. No reported mushiness, foul smell, spreading dark plant discoloration, or collapse. Soil remains dry, and all flower buds/open flower were removed on 2026-06-10 to reduce energy demand.
   <!-- Broad current health/status of the plant. Example: stable, recovering, declining, newly rescued, stressed, dormant, unknown. -->
 
 - Watering status: Last watered on 2026-05-31 while it was in the original pot. As of 2026-06-12, soil remains dry and no water has been given during post-repot recovery.
@@ -30,10 +30,10 @@
 - Last prune: 2026-06-10; user removed all remaining flower buds and the open flower to reduce energy demand during high-stress root-prune recovery.
   <!-- Most recent above-ground pruning/removal, such as leaves, traps, fronds, branches, flowers, or dead material. -->
 
-- Current concern: Continue monitoring recovery after major root pruning and shallow-pot repot, especially lower caudex firmness/softening, old root-removal scar/hole, continued leaf drop, response after flower-bud removal, and any signs of decline such as mushiness, foul smell, collapse, or spreading black/brown discoloration. As of 2026-06-12, no leaf drop was reported today and caudex firmness seems stable to possibly improving.
+- Current concern: Continue monitoring recovery after major root pruning and shallow-pot repot, especially lower caudex firmness/softening, old root-removal scar/hole, leaf drop, response after flower-bud removal, and any signs of decline such as mushiness, foul smell, collapse, or spreading black/brown discoloration. As of 2026-06-13, firmness remains stable and no new leaf drop was reported.
   <!-- Main current issue, risk, or monitoring focus. If nothing is wrong, say that clearly. -->
 
-- Latest check-in notes: On 2026-06-12, user reported nothing new with the Desert Rose. No leaf drop occurred today, and caudex firmness seems stable to possibly improving, especially lower on the caudex.
+- Latest check-in notes: On 2026-06-13, user reported nothing new with the Desert Rose. Firmness remains the same and no new leaf drop was reported.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events

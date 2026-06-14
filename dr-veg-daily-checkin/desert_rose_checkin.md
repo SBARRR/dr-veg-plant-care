@@ -1,15 +1,15 @@
-Your Desert Rose is holding steady in its high-stress recovery, with no new leaf drop reported yesterday and caudex firmness appearing stable. The recent heavy rain and high humidity mean extra vigilance is needed to keep its dry, well-drained recovery environment secure.
+Your Desert Rose is holding steady in its high-stress recovery after the major root work. The stable caudex firmness and lack of new leaf drop are positive signs, suggesting it's coping with the shock.
 
-The plant's priority remains avoiding any moisture near its roots while it heals from the major root pruning. With the forecasted heat and humidity, ensuring it stays in a warm, bright, and completely dry spot on your porch is the best support you can give it.
+While the overcast weather means less intense light, the warmth and humidity are actually supportive for a recovering succulent. The key now is to continue the dry, stable environment to let those damaged roots callous and begin to heal.
 
-**Top Priority:** Keep the soil bone-dry and protect the plant from any rain splash or overspray.
+**Top Priority:** Continue the dry recovery; do not water today.
 
-**Watering:** Do not water today; the soil must stay dry for at least another week post-repot.
+**Watering:** Hold off entirely—the soil should stay dry for at least a few more days.
 
-**Useful Check:** Gently press the lower, yellowish part of the caudex to confirm it's firm, not soft or mushy.
+**Useful Check:** Gently press the lower, yellowish part of the caudex to ensure it remains firm, not mushy.
 
-**Optional Improvement:** If the patio screen gets heavily splashed during storms, consider moving the plant a few inches further from the screen's edge.
+**Optional Extra:** If you're near the plant, a quick visual scan for any new, concerning soft spots or discoloration around the old root scar is a good proactive move.
 
-**Practical Idea:** Place a small saucer upside-down under the pot to elevate it slightly, ensuring any incidental water runs off and doesn't pool.
+**Practical Idea:** Resist the urge to check the roots; stability is more valuable than inspection right now.
 
 ------

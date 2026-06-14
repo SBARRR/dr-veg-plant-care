@@ -1,13 +1,15 @@
-Your oak is holding steady after its big move, which is a great sign given the recent root disturbance. The heavy rain yesterday likely gave it a good soak, so today's focus is on letting the soil breathe and monitoring for any stress signals.
+Your oak is holding steady after its big move from the ground to the pot, which is a great sign given the root disturbance. The overcast day and high humidity are actually helpful right now, as they reduce the risk of the soil drying out too fast and adding extra heat stress.
 
-With the intense heat and humidity, the key is to ensure the pot isn't staying waterlogged while also watching for signs of heat stress on the leaves. Your consistent checks are exactly what this recovering tree needs right now.
+Continue to prioritize recovery by letting the soil dry down properly between waterings, as the log shows it's still quite moist. Keep a close eye on the orange leaf spots you noted earlier, but avoid any major interventions while the tree is stabilizing.
 
-Hold off on watering; let the soil dry down after yesterday's heavy rain.
+**Top Priority:** Hold off on watering; the soil is still very moist from the last check.
 
-Check the posture of the newest leaves and tips for any sudden wilting or curling.
+**Watering:** Only water when the top 2-3 inches of soil under the mulch feel dry to the touch.
 
-If you're unsure about soil moisture later, a simple wooden skewer test is more reliable than a finger check.
+**Useful Check:** Gently lift the pot to feel its weight; a heavy pot confirms the soil is still wet.
 
-Consider gently brushing away any leaf debris from the mulch surface to improve airflow.
+**Optional Improvement:** If you're concerned about the orange spots, you could gently wipe a few lower leaves with a damp cloth to see if the material comes off, which helps distinguish fungus from harmless galls.
+
+**Practical Idea:** On a hot afternoon, feel the pot's sides; if it's very hot, a temporary shade screen can prevent root zone overheating.
 
 ------

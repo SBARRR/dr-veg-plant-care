@@ -3,13 +3,13 @@
 ## Current Snapshot
 <!-- Current state and durable care facts for this specific plant. This section should preserve important information that should not disappear when older Recent Events roll off the 30-entry limit. -->
 
-- Last updated: 2026-06-13
+- Last updated: 2026-06-14
   <!-- Date this snapshot was last revised. -->
 
 - Overall condition: Stressed after recent ground-to-pot transplant, but currently stable in the open outdoor placement as of 2026-06-10. User reports nothing new and overall condition looks the same.
   <!-- Broad current health/status of the plant. Example: stable, recovering, declining, newly rescued, stressed, dormant, unknown. -->
 
-- Watering status: On 2026-06-13, soil still felt very moist, so no watering was done.
+- Watering status: On 2026-06-14, soil still felt definitely moist, so no watering was done.
   <!-- Latest watering state, including last watering, withheld watering, drainage behavior, tray status, pot weight, drying behavior, or other water-related context needed for daily advice. -->
 
 - Fertilizer status: No recent fertilizer; last fertilized roughly over a year ago while in-ground using slow-release bonsai pellets sprinkled on the soil surface.
@@ -33,7 +33,7 @@
 - Current concern: Monitor transplant stress recovery in the open outdoor placement, especially leaf browning/drop, new tip posture, heat stress, pot/soil overheating, and whether suspected orange powdery leaf fungus/rust spreads. On 2026-06-09, orange spots were visible on additional lower leaves, but this may reflect improved visibility rather than confirmed new spread.
   <!-- Main current issue, risk, or monitoring focus. If nothing is wrong, say that clearly. -->
 
-- Latest check-in notes: On 2026-06-13, user reported the Live Oak looked visually the same and the soil still felt very moist.
+- Latest check-in notes: On 2026-06-14, user reported nothing new with the Live Oak. Overall condition looked the same and soil still felt definitely moist.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events

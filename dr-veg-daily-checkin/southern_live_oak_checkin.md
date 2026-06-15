@@ -1,15 +1,15 @@
-Your oak is holding steady after its big move from the ground to the pot, which is a great sign given the root disturbance. The overcast day and high humidity are actually helpful right now, as they reduce the risk of the soil drying out too fast and adding extra heat stress.
+Your Southern Live Oak is holding steady in its new outdoor home, which is a great sign after the stressful transplant. The recent warm, humid weather is actually helpful, as it supports recovery without adding extra drying stress.
 
-Continue to prioritize recovery by letting the soil dry down properly between waterings, as the log shows it's still quite moist. Keep a close eye on the orange leaf spots you noted earlier, but avoid any major interventions while the tree is stabilizing.
+The tree's main job right now is to rebuild its root system, so patience is key. Continue to focus on stable moisture and good light, and let the oak do its thing at its own pace.
 
-**Top Priority:** Hold off on watering; the soil is still very moist from the last check.
+Top priority: Keep monitoring the orange leaf spots for any new spread, but don't intervene unless it clearly worsens.
 
-**Watering:** Only water when the top 2-3 inches of soil under the mulch feel dry to the touch.
+Water only when the top few inches of soil under the mulch feel dry; with today's stormy humidity, that likely won't be today.
 
-**Useful Check:** Gently lift the pot to feel its weight; a heavy pot confirms the soil is still wet.
+Give the pot a quick lift to check its weight; it should still feel heavy from the moisture noted yesterday.
 
-**Optional Improvement:** If you're concerned about the orange spots, you could gently wipe a few lower leaves with a damp cloth to see if the material comes off, which helps distinguish fungus from harmless galls.
+Consider gently brushing away any leaf debris that collects on the mulch after today's wind to keep the area clean.
 
-**Practical Idea:** On a hot afternoon, feel the pot's sides; if it's very hot, a temporary shade screen can prevent root zone overheating.
+A practical idea: On a hot day later this week, feel the pot's side in the afternoon sun; if it's too hot to touch, a little shade during peak heat can prevent root cookery.
 
 ------

@@ -1,13 +1,13 @@
-Your Venus flytrap is showing promising recovery with new central growth, a great sign that the crown is healthy and actively responding to care. The hot, sunny weather means you'll need to be extra vigilant about its water reservoir, as evaporation is high right now.
+Great to see your Venus flytrap is settling into its new outdoor home and continues to show that promising green central growth. Today's intense heat and humidity are actually beneficial, mirroring its native bog conditions, but they also mean we need to be extra vigilant about its water reservoir. Your consistent tray checks are paying off and keeping this rescue on a stable path forward.
 
-The plant's transition to its permanent outdoor spot seems to be going well, with no reported heat stress in the skull cachepot yesterday. Today's overcast conditions might offer a gentler light day, which can be helpful as it continues to adjust to the increased outdoor exposure.
+The primary focus today is simply ensuring that reservoir doesn't run dry, as the high evaporation rate from the heat and sun could catch you by surprise. Remember, the plant's recovery hinges on those wet roots and strong light more than anything else.
 
-Top priority: Ensure the skull cachepot's reservoir has about a quarter-inch of distilled or rain water, as the heat will quickly deplete it.
+Top priority: Check the water level in the skull cachepot reservoir this evening.
 
-Water with distilled, rain, or RO water only, keeping the media constantly wet via the reservoir.
+Watering guidance: Refill the reservoir with distilled/rain/RO water if it's low or empty.
 
-Check that no water has pooled excessively in the bottom of the skull pot, which could lead to stagnant conditions.
+Useful check: Gently feel the base of the plant's crown; it should be firm, not soft or mushy.
 
-Consider placing a small, light-colored stone or piece of bark on the media surface to help keep the root zone slightly cooler on blistering days.
+Practical idea: If the white skull pot feels hot to the touch in the afternoon sun, consider giving it a tiny bit of afternoon shade to prevent the roots from cooking.
 
 ------

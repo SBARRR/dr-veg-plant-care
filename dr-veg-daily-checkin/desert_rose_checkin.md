@@ -1,15 +1,13 @@
-Your Desert Rose is holding steady in its high-stress recovery after the major root work. The stable caudex firmness and lack of new leaf drop are positive signs, suggesting it's coping with the shock.
+Your Desert Rose is showing promising signs of stabilization after its stressful repot. The improved caudex firmness and lack of new leaf drop following yesterday's first watering are excellent news, suggesting the roots are beginning to function again.
 
-While the overcast weather means less intense light, the warmth and humidity are actually supportive for a recovering succulent. The key now is to continue the dry, stable environment to let those damaged roots callous and begin to heal.
+Today's hot, humid weather with a chance of thunderstorms means you should keep a close eye on drainage and ensure the plant stays dry between waterings. The focus now shifts to supporting this recovery by letting the soil dry thoroughly and watching for any subtle changes in the plant's condition.
 
-**Top Priority:** Continue the dry recovery; do not water today.
+Top priority: Let the soil dry completely after yesterday's watering; do not water again today.
 
-**Watering:** Hold off entirely—the soil should stay dry for at least a few more days.
+Water only when the top few inches of the succulent mix are bone dry and the pot feels light.
 
-**Useful Check:** Gently press the lower, yellowish part of the caudex to ensure it remains firm, not mushy.
+Give the caudex a gentle squeeze to confirm it remains firm, not soft or mushy.
 
-**Optional Extra:** If you're near the plant, a quick visual scan for any new, concerning soft spots or discoloration around the old root scar is a good proactive move.
-
-**Practical Idea:** Resist the urge to check the roots; stability is more valuable than inspection right now.
+If you have a small fan, running it nearby for a few hours would boost airflow and help the soil dry faster, reducing rot risk.
 
 ------

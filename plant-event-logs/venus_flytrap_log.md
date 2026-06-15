@@ -3,13 +3,13 @@
 ## Current Snapshot
 <!-- Current state and durable care facts for this specific plant. This section should preserve important information that should not disappear when older Recent Events roll off the 30-entry limit. -->
 
-- Last updated: 2026-06-14
+- Last updated: 2026-06-15
   <!-- Date this snapshot was last revised. -->
 
 - Overall condition: Stressed Walmart rescue, but showing signs of new growth as of 2026-06-08. A photo submited by user shows clear bright green central growth emerging from the crown. Continue monitoring tray consistency, crown/base condition, and response to brighter light testing.
   <!-- Broad current health/status of the plant. Example: stable, recovering, declining, newly rescued, stressed, dormant, unknown. -->
 
-- Watering status: On 2026-06-14, reservoir level remained at a good level and no refill was needed. Media remains wet and the plant continues to be watered via the reservoir method.
+- Watering status: On 2026-06-15, reservoir was empty, so user refilled it with more water. Media remains wet and the plant continues to be watered via the reservoir method.
   <!-- Latest watering state, including last watering, withheld watering, drainage behavior, tray status, pot weight, drying behavior, or other water-related context needed for daily advice. -->
 
 - Fertilizer status: No fertilizer or plant food has been given.
@@ -30,10 +30,10 @@
 - Last prune: 2026-06-03; user removed the fully dead brown trap mouth/tip from a partially green leaf, leaving the green lower stem/leaf tissue attached.
   <!-- Most recent above-ground pruning/removal, such as leaves, traps, fronds, branches, flowers, or dead material. -->
 
-- Current concern: Monitor recovery from Walmart rescue condition and adjustment to the outdoor setup, especially reservoir level, heat buildup in the skull cachepot setup, storm/rain overfill, renewed drooping, crown/base blackening or mushiness, blackening on healthy green traps, green surface film on media, and whether healthy firm green growth continues. As of 2026-06-14, growth continues normally, reservoir level remains adequate, and no new concerning browning or blackening was reported.
+- Current concern: Monitor outdoor acclimation and recovery from Walmart rescue condition, especially reservoir level, heat buildup in the skull cachepot setup, storm/rain overfill, renewed drooping, crown/base blackening or mushiness, blackening on healthy green traps, green surface film on media, and whether healthy firm green growth continues. As of 2026-06-15, growth continues to progress and possible additional new center growth was reported.
   <!-- Main current issue, risk, or monitoring focus. If nothing is wrong, say that clearly. -->
 
-- Latest check-in notes: On 2026-06-14, user reported no new concerns with the Venus flytrap. Reservoir level remained decent, growth continued normally, and no new concerning browning or blackening was observed.
+- Latest check-in notes: On 2026-06-15, user reported the Venus flytrap looked visually the same, growth continued progressing, and possible new growth was emerging from the center. Reservoir was empty, so user added more water.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events

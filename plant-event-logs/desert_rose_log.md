@@ -3,10 +3,10 @@
 ## Current Snapshot
 <!-- Current state and durable care facts for this specific plant. This section should preserve important information that should not disappear when older Recent Events roll off the 30-entry limit. -->
 
-- Last updated: 2026-06-14
+- Last updated: 2026-06-15
   <!-- Date this snapshot was last revised. -->
 
-- Overall condition: Recovering after major repot/root work on 2026-06-01. As of 2026-06-14, no new leaf drop was reported and caudex firmness is improving, including the lower caudex. No reported mushiness, foul smell, spreading dark discoloration, or collapse.
+- Overall condition: Recovering after major repot/root work on 2026-06-01. As of 2026-06-15, no new leaf drop or yellowing was reported, and caudex firmness remains stable following the first post-repot watering on 2026-06-14. No reported mushiness, foul smell, spreading dark discoloration, or collapse.
   <!-- Broad current health/status of the plant. Example: stable, recovering, declining, newly rescued, stressed, dormant, unknown. -->
 
 - Watering status: On 2026-06-14, user performed the first post-repot watering, watering thoroughly until water drained from the bottom of the pot.
@@ -30,10 +30,10 @@
 - Last prune: 2026-06-10; user removed all remaining flower buds and the open flower to reduce energy demand during high-stress root-prune recovery.
   <!-- Most recent above-ground pruning/removal, such as leaves, traps, fronds, branches, flowers, or dead material. -->
 
-- Current concern: Continue monitoring recovery after major root pruning and shallow-pot repot, especially response to the first post-repot watering, lower caudex firmness, old root-removal scar/hole, and any signs of decline such as mushiness, foul smell, collapse, or spreading black/brown discoloration. As of 2026-06-14, firmness is improving and no new leaf drop was reported.
+- Current concern: Continue monitoring recovery after major root pruning and shallow-pot repot, especially response to the first post-repot watering, lower caudex firmness, old root-removal scar/hole, and any signs of decline such as mushiness, foul smell, collapse, or spreading black/brown discoloration. As of 2026-06-15, firmness remains stable and no new leaf drop or yellowing was reported.
   <!-- Main current issue, risk, or monitoring focus. If nothing is wrong, say that clearly. -->
 
-- Latest check-in notes: On 2026-06-14, user reported no new leaf drop and improved firmness, including the lower caudex. Plant looked visually unchanged otherwise. User performed the first post-repot watering after the mix had remained dry during recovery.
+- Latest check-in notes: On 2026-06-15, user reported the Desert Rose looked visually unchanged. Caudex firmness remained steady, no new leaf drop was observed, and no new yellowing was reported.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events

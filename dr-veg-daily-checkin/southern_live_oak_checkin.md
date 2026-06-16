@@ -1,15 +1,13 @@
-Your Southern Live Oak is holding steady in its new outdoor home, which is a great sign after the stressful transplant. The recent warm, humid weather is actually helpful, as it supports recovery without adding extra drying stress.
+Your Southern Live Oak is holding steady after its big move, which is a great sign of resilience. The warm, humid weather is actually helping it settle in by keeping the soil from drying out too quickly.
 
-The tree's main job right now is to rebuild its root system, so patience is key. Continue to focus on stable moisture and good light, and let the oak do its thing at its own pace.
+Focus today is on letting the soil continue its dry-down cycle, as it was still pretty moist yesterday. Keep an eye out for any new leaf browning or drooping, which would be your main signal that it needs a drink.
 
-Top priority: Keep monitoring the orange leaf spots for any new spread, but don't intervene unless it clearly worsens.
+Skip watering today; the soil is still moist from your last check.
 
-Water only when the top few inches of soil under the mulch feel dry; with today's stormy humidity, that likely won't be today.
+Gently feel the soil under the mulch to confirm it's drying before you consider watering.
 
-Give the pot a quick lift to check its weight; it should still feel heavy from the moisture noted yesterday.
+Clear any newly fallen brown leaves from the mulch surface to keep things tidy.
 
-Consider gently brushing away any leaf debris that collects on the mulch after today's wind to keep the area clean.
-
-A practical idea: On a hot day later this week, feel the pot's side in the afternoon sun; if it's too hot to touch, a little shade during peak heat can prevent root cookery.
+Consider using a wooden skewer to check moisture deeper in the pot for a more accurate read.
 
 ------

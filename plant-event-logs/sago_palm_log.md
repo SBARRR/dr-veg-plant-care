@@ -3,13 +3,13 @@
 ## Current Snapshot
 <!-- Current state and durable care facts for this specific plant. This section should preserve important information that should not disappear when older Recent Events roll off the 30-entry limit. -->
 
-- Last updated: 2026-06-15
+- Last updated: 2026-06-16
   <!-- Date this snapshot was last revised. -->
 
-- Overall condition: Established and generally stable. Older fronds show yellowing/spotted aging or stress, while newer growth is reportedly healthy green. Current focus is better routine care discipline.
+- Overall condition: Established and generally stable. Older fronds show yellowing/spotted aging or stress, while newer growth is reportedly healthy green.
   <!-- Broad current health/status of the plant. Example: stable, recovering, declining, newly rescued, stressed, dormant, unknown. -->
 
-- Watering status: On 2026-06-15, soil felt dry, so user watered until water drained from the drainage holes.
+- Watering status: On 2026-06-16, soil was still a little wet, and the plant also received some brief wind-blown rain through the screen. No watering was done.
   <!-- Latest watering state, including last watering, withheld watering, drainage behavior, tray status, pot weight, drying behavior, or other water-related context needed for daily advice. -->
 
 - Fertilizer status: Fertilized on 2026-06-09 with 1 level tablespoon total of BGI PalmGain 8-2-12, scattered across the exposed soil surface after moving the top dressing aside, then covered back over. Do not fertilize again soon; monitor response first.
@@ -30,10 +30,10 @@
 - Last prune: Last frond removal was around fall 2025; exact date and number of fronds removed unknown.
   <!-- Most recent above-ground pruning/removal, such as leaves, traps, fronds, branches, flowers, or dead material. -->
 
-- Current concern: Monitor yellowing/spotted older fronds, confirm newer green growth remains healthy, and watch response after the 2026-06-09 PalmGain feeding. Older yellowing fronds still have some green at the tips and did not release with a gentle tug, so leave them attached for now.
+- Current concern: Monitor yellowing/spotted older fronds and confirm newer green growth remains healthy. Older yellowing fronds still have some green at the tips and should remain attached unless they become mostly brown/dead or release easily with a gentle tug.
   <!-- Main current issue, risk, or monitoring focus. If nothing is wrong, say that clearly. -->
 
-- Latest check-in notes: On 2026-06-15, user reported the Sago Palm looked visually the same. Soil felt dry, so user watered to drainage.
+- Latest check-in notes: On 2026-06-16, user reported nothing new with the Sago Palm. Soil was still a little wet. Brief wind-blown rain came through the screen and lightly wet the plant/soil.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events

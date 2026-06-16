@@ -6,7 +6,7 @@
 - Last updated: 2026-06-16
   <!-- Date this snapshot was last revised. -->
 
-- Overall condition: Recovering after major repot/root work and major root reduction performed on 2026-06-01. Plant remains stable with no confirmed signs of tissue decline or structural failure and is currently being monitored through post-repot recovery.
+- Overall condition: Recovering after major repot/root work and severe root reduction performed on 2026-06-01. Plant remains stable with no confirmed signs of tissue decline or structural failure and is currently being monitored through post-repot recovery.
   <!-- Broad current health/status of the plant. Example: stable, recovering, declining, newly rescued, stressed, dormant, unknown. -->
 
 - Watering status: On 2026-06-14, user performed the first post-repot watering, watering thoroughly until water drained from the bottom of the pot.
@@ -15,8 +15,8 @@
 - Fertilizer status: No fertilizer has been given since purchase.
   <!-- Latest fertilizer state, including last feeding, fertilizer used, form, dose/strength, or whether fertilizer is being intentionally avoided. -->
 
-- Leaf-care history: Possible leaf concern at purchase due to white/cloudy splotches on leaves; preventive leaf treatment completed on 2026-05-27.
-  <!-- Current leaf-care state, including none, suspected concerns, confirmed concerns, last treatment, product used, or treatment cautions. -->
+- Leaf/pest history: Possible pest/leaf-spot concern at purchase due to white/cloudy splotches on leaves; oil-based leaf treatment completed on 2026-05-27 as a precaution.
+  <!-- Current leaf/pest context, including none, suspected concerns, confirmed concerns, last treatment, product type used, or treatment cautions. -->
 
 - Last repot: Repotted from original Walmart/store pot into a shallow unglazed ceramic bonsai training pot, approx. 8.2 in L x 6.7 in W x 2.3 in H.
   <!-- Most recent repot date/action. Use "unknown" if not known and "never known" if no repot has happened since acquisition. -->
@@ -132,7 +132,7 @@
 - Details: User reports the plant looks pretty good overall, though user is unfamiliar with Desert Rose stress signs. Small new growth points are present but have not noticeably grown since purchase, and one small growth point fell off on its own when the pot was moved for inspection. User is also monitoring prior white/cloudy leaf splotches and soil dry-down after the plant was very wet at purchase.
   <!-- Useful specifics, such as amount of water, product used, symptom observed, action taken, context, or uncertainty. -->
 
-- Outcome: Continue monitoring soil dry-down, possible leaf spotting, and whether new growth resumes or additional growth points drop.
+- Outcome: Continue monitoring soil dry-down, possible leaf spotting/pest signs, and whether new growth resumes or additional growth points drop.
   <!-- Result/status after the event, expected follow-up, or "TBD" if the outcome is not known yet. -->
 
 ### 2026-05-31 — Watering
@@ -146,13 +146,13 @@
 - Outcome: Drainage confirmed; continue allowing the soil to dry appropriately before the next watering.
   <!-- Result/status after the event, expected follow-up, or "TBD" if the outcome is not known yet. -->
 
-### 2026-05-27 — Leaf Treatment
+### 2026-05-27 — Leaf/Pest Treatment
 
-- Summary: Preventive leaf treatment completed after possible leaf-spot concern at purchase.
+- Summary: Preventive leaf treatment completed after possible pest/leaf-spot concern at purchase.
   <!-- One-line summary of what happened. -->
 
-- Details: User noticed white/cloudy splotches on some leaves after purchase and treated the plant as a precaution. No confirmed pest identification recorded.
+- Details: User noticed white/cloudy splotches on some leaves after purchase and used an oil-based leaf treatment as a precaution. No confirmed pest identification recorded.
   <!-- Useful specifics, such as amount of water, product used, symptom observed, action taken, context, or uncertainty. -->
 
-- Outcome: Preventive treatment completed; monitor leaves for worsening spotting, activity, or treatment-related stress.
+- Outcome: Preventive treatment completed; monitor leaves for worsening spotting, pest activity, or treatment-related stress.
   <!-- Result/status after the event, expected follow-up, or "TBD" if the outcome is not known yet. -->

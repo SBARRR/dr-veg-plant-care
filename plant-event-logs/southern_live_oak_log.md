@@ -3,13 +3,13 @@
 ## Current Snapshot
 <!-- Current state and durable care facts for this specific plant. This section should preserve important information that should not disappear when older Recent Events roll off the 30-entry limit. -->
 
-- Last updated: 2026-06-15
+- Last updated: 2026-06-16
   <!-- Date this snapshot was last revised. -->
 
-- Overall condition: Stressed after recent ground-to-pot transplant, but currently stable in the open outdoor placement as of 2026-06-10. User reports nothing new and overall condition looks the same.
+- Overall condition: Recovering from major ground-to-pot transplant and root disturbance performed on 2026-05-26. Tree appears stable and is being monitored for continued transplant recovery.
   <!-- Broad current health/status of the plant. Example: stable, recovering, declining, newly rescued, stressed, dormant, unknown. -->
 
-- Watering status: On 2026-06-15, soil still felt pretty moist, so no watering was done.
+- Watering status: On 2026-06-16, soil still felt moist, so no watering was done. The tree also received brief natural rainfall while outdoors.
   <!-- Latest watering state, including last watering, withheld watering, drainage behavior, tray status, pot weight, drying behavior, or other water-related context needed for daily advice. -->
 
 - Fertilizer status: No recent fertilizer; last fertilized roughly over a year ago while in-ground using slow-release bonsai pellets sprinkled on the soil surface.
@@ -30,10 +30,10 @@
 - Last prune: 2026-06-06; user trimmed affected leaves only from the top shoot/tip section after orange powdery material was found, leaving the live shoot/branch in place.
   <!-- Most recent above-ground pruning/removal, such as leaves, traps, fronds, branches, flowers, or dead material. -->
 
-- Current concern: Monitor transplant stress recovery in the open outdoor placement, especially leaf browning/drop, new tip posture, heat stress, pot/soil overheating, and whether suspected orange powdery leaf fungus/rust spreads. As of 2026-06-15, most old brown leaves had fallen naturally with wind, no new browning was observed, and soil remained pretty moist.
+- Current concern: Monitor transplant recovery, especially leaf browning/drop, new growth posture, heat stress, and whether the previously observed orange powdery spotting returns or spreads.
   <!-- Main current issue, risk, or monitoring focus. If nothing is wrong, say that clearly. -->
 
-- Latest check-in notes: On 2026-06-15, user reported most old brown leaves had fallen off naturally with wind. No new browning was observed, overall visual condition looked the same, and soil still felt pretty moist.
+- Latest check-in notes: On 2026-06-16, user reported no new visual changes. Soil still felt moist, no new browning was observed, and the tree received brief rainfall while outdoors.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events

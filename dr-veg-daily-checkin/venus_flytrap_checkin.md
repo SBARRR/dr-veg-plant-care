@@ -1,13 +1,15 @@
-Great to see your Venus flytrap is settling into its new outdoor home and continues to show that promising green central growth. Today's intense heat and humidity are actually beneficial, mirroring its native bog conditions, but they also mean we need to be extra vigilant about its water reservoir. Your consistent tray checks are paying off and keeping this rescue on a stable path forward.
+Your Venus flytrap is showing promising signs of recovery with that new central growth, a clear win for your consistent watering. The move outdoors is a great step, but today's high heat and intense sun mean we need to watch for any stress on this Walmart rescue.
 
-The primary focus today is simply ensuring that reservoir doesn't run dry, as the high evaporation rate from the heat and sun could catch you by surprise. Remember, the plant's recovery hinges on those wet roots and strong light more than anything else.
+The sealed skull cachepot is doing its job as a reservoir, but the rapid water use you've noted means evaporation is high. Focus on keeping that reservoir reliably filled to support the plant through this acclimation period.
 
-Top priority: Check the water level in the skull cachepot reservoir this evening.
+Top priority: Ensure the skull reservoir has about a quarter-inch of distilled water to combat today's high evaporation.
 
-Watering guidance: Refill the reservoir with distilled/rain/RO water if it's low or empty.
+Keep the media wet by maintaining that shallow reservoir level; check it this evening as the heat peaks.
 
-Useful check: Gently feel the base of the plant's crown; it should be firm, not soft or mushy.
+Give the new central growth a quick glance to confirm it's still firm and bright green, not wilting or blackening.
 
-Practical idea: If the white skull pot feels hot to the touch in the afternoon sun, consider giving it a tiny bit of afternoon shade to prevent the roots from cooking.
+For an optional upgrade, consider shading the white skull pot during the hottest afternoon hours to keep root temperatures more stable.
+
+A simple piece of cardboard propped on the sun-side can provide temporary relief from the most intense heat.
 
 ------

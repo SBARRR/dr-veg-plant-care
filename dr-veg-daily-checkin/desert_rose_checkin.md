@@ -1,15 +1,13 @@
-Your Desert Rose is holding steady after its major root surgery and first post-repot watering. The stable caudex firmness and lack of new leaf drop are excellent signs that it's handling the stress well.
+Your Desert Rose is still in recovery mode after that big root prune and repot earlier this month. It’s holding steady with no new softness or leaf drop, which is great news given the stress it’s under; keep it warm and dry and avoid watering for now since the soil is still drying out.
 
-Today's overcast weather means less intense light, which is actually a gentle break for your recovering plant. Just ensure it stays warm and dry, as the high humidity calls for extra vigilance against any potential moisture issues.
+The weather is warm and mostly sunny with some thunderstorms possible, but your screened porch setup should protect the plant from heavy rain and wind. Just keep an eye on the caudex firmness and old root-removal site for any soft spots or darkening, and hold off on fertilizer or pruning until it shows signs of new growth.
 
-**Today's Priority:** Continue monitoring the caudex and lower stem for any new softness or discoloration following yesterday's watering.
+Top priority today: Don’t water yet—let the soil dry out fully before the next watering.
 
-**Watering:** Do not water today; let the fast-draining mix dry out completely after the thorough soak.
+Check the caudex firmness gently for any soft or mushy spots.
 
-**Useful Check:** Gently press around the old root-removal scar to confirm it's still firm and doesn't smell foul.
+Make sure the pot drains well and there’s no standing water after rain or watering.
 
-**Optional Improvement:** Rotate the pot a quarter turn to ensure even light exposure as it recovers.
-
-**Practical Idea:** If you have a small fan, running it nearby for a few hours can boost airflow around the base, helping the soil dry and preventing fungal issues.
+(Optional) If you want to go the extra mile, consider gently wiping leaves with a damp cloth to keep them dust-free and help photosynthesis.
 
 ------

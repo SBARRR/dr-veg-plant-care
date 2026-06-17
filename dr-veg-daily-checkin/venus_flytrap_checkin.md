@@ -1,15 +1,13 @@
-Your Venus flytrap is showing promising signs of recovery with that new central growth, a clear win for your consistent watering. The move outdoors is a great step, but today's high heat and intense sun mean we need to watch for any stress on this Walmart rescue.
+Your Venus Flytrap is settling in nicely outdoors with healthy new growth emerging, which is a great sign after its Walmart rescue. The warm, sunny weather with moderate humidity suits it well, but keep an eye on the tray water level since evaporation is quick in this heat, and the pot setup can get warm.
 
-The sealed skull cachepot is doing its job as a reservoir, but the rapid water use you've noted means evaporation is high. Focus on keeping that reservoir reliably filled to support the plant through this acclimation period.
+Today’s priority is maintaining consistently wet media using distilled, rain, or RO water in the tray reservoir to avoid drying out, which is the biggest risk right now. Keep monitoring the crown for any softening or blackening and avoid disturbing the roots or repotting until absolutely necessary.
 
-Top priority: Ensure the skull reservoir has about a quarter-inch of distilled water to combat today's high evaporation.
+Top priority: Check and refill the tray water with distilled, rain, or RO water if it’s empty or nearly empty.
 
-Keep the media wet by maintaining that shallow reservoir level; check it this evening as the heat peaks.
+Watering: Keep the tray water shallow (about 0.25–0.5 inch) and ensure the soil stays wet but not flooded.
 
-Give the new central growth a quick glance to confirm it's still firm and bright green, not wilting or blackening.
+Check: Inspect the crown and base for any signs of mushiness, blackening, or foul smell.
 
-For an optional upgrade, consider shading the white skull pot during the hottest afternoon hours to keep root temperatures more stable.
-
-A simple piece of cardboard propped on the sun-side can provide temporary relief from the most intense heat.
+Optional upgrade: If you want to go the extra mile, gently remove any fully dead traps to keep the plant tidy and improve airflow around the crown.
 
 ------

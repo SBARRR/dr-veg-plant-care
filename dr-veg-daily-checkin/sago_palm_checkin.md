@@ -1,15 +1,13 @@
-Your Sago Palm is looking stable and established, with its recent fertilizer dose and watering putting it in a good position for the warm season ahead. The older fronds showing some yellowing and spots are likely just aging out, which is normal, especially with the recent heat.
+Your Sago Palm is holding steady with healthy new growth despite some yellowing and spotted older fronds, which is normal for its slow-growing nature. The recent thunderstorm and warm temps mean the soil is still a bit moist, so no watering is needed today to avoid soggy roots.
 
-New growth remains healthy and green, which is the best sign you can ask for. With today's high humidity and heat, just keep an eye on how quickly the soil dries after your last watering.
+Keep an eye on those yellowing fronds but don’t remove them unless they turn mostly brown or come off easily, as they still contribute to the plant’s health. The bonsai pot’s drainage and river rock setup are doing their job well, so just maintain good airflow and avoid letting the pot sit in standing water.
 
-**Top Priority:** Monitor the plant's response to the PalmGain fertilizer applied last week, watching for any signs of improvement or stress in the new growth.
+Top priority: Hold off on watering today since the soil is still moist from recent rain and watering.
 
-**Watering:** Only water today if the top 1-2 inches of soil feel completely dry; otherwise, let it continue drying out.
+Water only when the top 1–2 inches of soil feel dry and the pot feels lighter.
 
-**Quick Check:** Gently tug on the yellowing older fronds—if they release with little resistance, you can remove them.
+Check the drip tray to ensure no standing water is accumulating under the pot.
 
-**Extra Mile:** On your next watering day, use a chopstick to gently aerate the soil surface to improve water penetration and airflow.
-
-**Practical Idea:** Consider taking a weekly photo from the same angle to easily track subtle changes in frond color and growth over time.
+Optional: Gently brush off the white plastic decorations occasionally to keep airflow and moisture balance optimal around the base.
 
 ------

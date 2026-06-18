@@ -3,13 +3,13 @@
 ## Current Snapshot
 <!-- Current state and durable care facts for this specific plant. This section should preserve important information that should not disappear when older Recent Events roll off the 30-entry limit. -->
 
-- Last updated: 2026-06-17
+- Last updated: 2026-06-18
   <!-- Date this snapshot was last revised. -->
 
 - Overall condition: Established and generally stable. Older fronds show yellowing/spotted aging or stress, while newer growth is reportedly healthy green.
   <!-- Broad current health/status of the plant. Example: stable, recovering, declining, newly rescued, stressed, dormant, unknown. -->
 
-- Watering status: On 2026-06-16, soil was still a little wet, and the plant also received some brief wind-blown rain through the screen. No watering was done.
+- Watering status: On 2026-06-18, user watered the Sago Palm.
   <!-- Latest watering state, including last watering, withheld watering, drainage behavior, tray status, pot weight, drying behavior, or other water-related context needed for daily advice. -->
 
 - Fertilizer status: Fertilized on 2026-06-09 with 1 level tablespoon total of BGI PalmGain 8-2-12, scattered across the exposed soil surface after moving the top dressing aside, then covered back over. Do not fertilize again soon; monitor response first.
@@ -33,7 +33,7 @@
 - Current concern: Monitor yellowing/spotted older fronds and confirm newer green growth remains healthy. Older yellowing fronds still have some green at the tips and should remain attached unless they become mostly brown/dead or release easily with a gentle tug.
   <!-- Main current issue, risk, or monitoring focus. If nothing is wrong, say that clearly. -->
 
-- Latest check-in notes: On 2026-06-17, user reported the soil still felt moist with no notable visual changes. No watering or other action was taken.
+- Latest check-in notes: On 2026-06-18, user reported no meaningful visual changes. Older yellowing/spotted fronds appear stable.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events
@@ -117,25 +117,3 @@
   <!-- Result/status after the event, expected follow-up, or "TBD" if the outcome is not known yet. -->
 
 ### 2026-06-01 — Photo Observation
-
-- Summary: Yellowing sago fronds with scattered tan/brown spots reviewed from user photo.
-
-- Details: User shared a close-up photo of the two yellowing fronds. Fronds show scattered tan/brown necrotic or scarred-looking spots. No obvious pest is confirmed from the photo alone. User checked the undersides and did not see white specks or raised bumps. Newer growth is reportedly healthy green.
-
-- Outcome: Do not prune yet unless fronds become mostly brown/dead, spots spread significantly, or pests are confirmed. Continue monitoring whether spots spread to healthy green growth.
-
-### 2026-06-01 — Observation
-
-- Summary: Plant observed as stable overall with some yellowing fronds and healthy green new growth.
-
-- Details: User noted two yellow fronds but also healthy green new leaves. User is unsure how to judge plant health, but overall impression is that the plant looks fine.
-
-- Outcome: Continue monitoring yellow fronds and new growth; no immediate intervention needed.
-
-### 2026-05-31 — Watering
-
-- Summary: Watered thoroughly until water drained from the bottom of the pot.
-
-- Details: Amount of water unknown; user reports normal watering method is to water until runoff exits the drainage holes and fills the drip tray.
-
-- Outcome: Drainage confirmed; follow-up is to monitor drying behavior and avoid watering again until the mix has dried appropriately.

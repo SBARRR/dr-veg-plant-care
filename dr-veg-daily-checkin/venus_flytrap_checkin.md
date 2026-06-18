@@ -1,13 +1,13 @@
-Your Venus Flytrap is settling in nicely outdoors with healthy new growth emerging, which is a great sign after its Walmart rescue. The warm, sunny weather with moderate humidity suits it well, but keep an eye on the tray water level since evaporation is quick in this heat, and the pot setup can get warm.
+Your Venus Flytrap is doing well overall and showing steady new growth after its move outdoors. The hot and sunny weather with a high near 96°F means your plant will be thirsty and the tray water will evaporate quickly, so keeping the media consistently wet is key to avoid stress.
 
-Today’s priority is maintaining consistently wet media using distilled, rain, or RO water in the tray reservoir to avoid drying out, which is the biggest risk right now. Keep monitoring the crown for any softening or blackening and avoid disturbing the roots or repotting until absolutely necessary.
+Since the plant is in a small pot inside a sealed cachepot, watch for heat buildup in the tray water during the hottest part of the day, as overheating can cause drooping or damage. The good news is the plant is acclimating nicely, so just keep an eye on tray water levels and crown health to catch any early signs of trouble.
 
-Top priority: Check and refill the tray water with distilled, rain, or RO water if it’s empty or nearly empty.
+Top priority today: Check the tray water level mid-afternoon to ensure it hasn’t evaporated completely in the heat.
 
-Watering: Keep the tray water shallow (about 0.25–0.5 inch) and ensure the soil stays wet but not flooded.
+Keep the tray filled with distilled, rain, or RO water to about 0.25–0.5 inch depth; never let the media dry out.
 
-Check: Inspect the crown and base for any signs of mushiness, blackening, or foul smell.
+Look over the traps and crown for any new drooping, darkening, or soft spots that could signal heat stress or water issues.
 
-Optional upgrade: If you want to go the extra mile, gently remove any fully dead traps to keep the plant tidy and improve airflow around the crown.
+Optional: If you want to go the extra mile, move the plant to a spot with morning sun and afternoon shade to reduce heat stress during peak sun hours.
 
 ------

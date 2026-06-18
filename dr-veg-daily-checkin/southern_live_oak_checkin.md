@@ -1,13 +1,13 @@
-Your Southern Live Oak is steadily recovering from its recent transplant and root disturbance, showing stable leaf posture and no new browning or wilting. The current warm weather with moderate humidity and occasional thunderstorms means the soil is drying slowly, so keep an eye on moisture without rushing to water.
+Your Southern Live Oak is holding steady as it recovers from the big transplant and root disturbance last month. The soil remains moist under the mulch, which is great for steady recovery, but watch closely for any new leaf yellowing or spread of the orange powdery spots you spotted earlier.
 
-Since the tree is still in recovery, the priority is maintaining consistent but not soggy soil moisture, avoiding fertilizer or pruning for now, and monitoring the orange powdery spots for any spread. The oak is happily soaking up about 5–6 hours of direct sun daily, which supports recovery without overwhelming it.
+With the heat pushing near 96°F and a fair bit of sun, the tree might feel the stress, so keep it in that bright outdoor spot with good airflow but avoid extra watering unless the top 2–3 inches of soil under the mulch dry out. No fertilizer or pruning yet—just steady moisture and monitoring for any signs of stress or pests.
 
-Check soil moisture under the mulch 2–3 inches down before watering today.
+Check the top 2–3 inches of soil under the mulch for dryness before watering.
 
-Water deeply only if the soil feels dry at that depth and the pot feels noticeably lighter.
+Water deeply only if the soil feels dry and the pot feels lighter, avoiding soggy conditions.
 
-Look over the canopy for any new orange powdery spots or worsening leaf browning.
+Look for any new spreading of orange powdery spots or worsening leaf browning.
 
-Optionally, gently clear fallen leaves off the mulch to prevent fungal buildup.
+Optional: Gently remove fallen leaves from the mulch surface to reduce fungal risk.
 
 ------

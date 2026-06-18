@@ -1,13 +1,13 @@
-Your Desert Rose is still in recovery mode after that big root prune and repot earlier this month. It’s holding steady with no new softness or leaf drop, which is great news given the stress it’s under; keep it warm and dry and avoid watering for now since the soil is still drying out.
+Your Desert Rose is still in recovery mode after that major root pruning and repotting earlier this month. The warm, mostly sunny weather with some afternoon filtered sun is great for encouraging new growth, but keep in mind the plant’s root system is still fragile, so it’s best to avoid watering too soon or too much.
 
-The weather is warm and mostly sunny with some thunderstorms possible, but your screened porch setup should protect the plant from heavy rain and wind. Just keep an eye on the caudex firmness and old root-removal site for any soft spots or darkening, and hold off on fertilizer or pruning until it shows signs of new growth.
+Since you watered thoroughly on June 14 after letting the soil dry well, hold off on watering again until the soil feels dry a few inches down and the caudex remains firm. Keep an eye on the lower caudex and old root-removal site for any softness, discoloration, or odor, as these are the key signs to catch early if rot starts.
 
-Top priority today: Don’t water yet—let the soil dry out fully before the next watering.
+Top priority today: Check the soil dryness and caudex firmness before considering watering.
 
-Check the caudex firmness gently for any soft or mushy spots.
+Water only if the soil is dry at least 2 inches deep and the caudex feels firm.
 
-Make sure the pot drains well and there’s no standing water after rain or watering.
+Give the lower caudex and root-removal site a gentle squeeze to confirm firmness and absence of mushiness or odor.
 
-(Optional) If you want to go the extra mile, consider gently wiping leaves with a damp cloth to keep them dust-free and help photosynthesis.
+Optional upgrade: If you want to boost recovery, gently increase airflow around the plant by opening the patio screen or using a small fan on low, avoiding direct wind.
 
 ------

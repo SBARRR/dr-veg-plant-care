@@ -1,13 +1,13 @@
-Your Southern Live Oak is holding steady as it recovers from the big transplant and root disturbance last month. The soil remains moist under the mulch, which is great for steady recovery, but watch closely for any new leaf yellowing or spread of the orange powdery spots you spotted earlier.
+Your Southern Live Oak is still settling in after its big move from the ground to the pot less than a month ago, and it’s showing typical signs of transplant stress like some leaf browning and the occasional orange powdery spot. With the hot weather and occasional thunderstorms, keeping the soil consistently moist but not soggy is key to helping it recover without encouraging root rot.
 
-With the heat pushing near 96°F and a fair bit of sun, the tree might feel the stress, so keep it in that bright outdoor spot with good airflow but avoid extra watering unless the top 2–3 inches of soil under the mulch dry out. No fertilizer or pruning yet—just steady moisture and monitoring for any signs of stress or pests.
+Since the oak is in a 3-gallon pot with decent drainage and about 5–6 hours of direct sun, the main focus today is to keep an eye on soil moisture and leaf condition without rushing to water. The tree is stable but still sensitive, so avoid fertilizer or pruning for now and just monitor for any worsening browning or new spotting.
 
-Check the top 2–3 inches of soil under the mulch for dryness before watering.
+Check soil moisture under the mulch and only water deeply if the top 2–3 inches feel dry and warm.
 
-Water deeply only if the soil feels dry and the pot feels lighter, avoiding soggy conditions.
+Water thoroughly until runoff, then let the pot drain fully—don’t let it sit in standing water.
 
-Look for any new spreading of orange powdery spots or worsening leaf browning.
+Look over the leaves for any increase in orange powdery spots or new browning.
 
-Optional: Gently remove fallen leaves from the mulch surface to reduce fungal risk.
+(Optional) If you want to go the extra mile, gently increase airflow around the tree by spacing nearby plants or using a small fan on low to reduce fungal risks.
 
 ------

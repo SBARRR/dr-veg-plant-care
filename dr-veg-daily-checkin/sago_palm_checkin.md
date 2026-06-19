@@ -1,13 +1,13 @@
-Your Sago Palm is holding steady with healthy new growth despite some older fronds showing yellowing and spotting, which is normal aging or mild stress. The soil remains slightly moist after recent watering and some rain, so no watering is needed today to avoid soggy roots in the shallow bonsai pot.
+Your Sago Palm is holding steady with healthy new growth and some older fronds showing normal yellowing and spotting, which is typical for its slow pace. The recent warm weather with high temps and moderate humidity means the soil will dry faster, so keep an eye on moisture but avoid watering too soon.
 
-With the high heat and moderate humidity today, your plant’s drainage and airflow setup are working well to prevent rot, so just keep an eye on those older fronds and don’t rush to prune them unless they turn mostly brown. The main focus is to let the soil dry out properly between waterings and avoid standing water in the drip tray.
+Since you watered yesterday and the soil was dry then, today is a good day to check the top inch or two of soil for dryness before deciding to water again. Keep the pot elevated above any tray water to prevent soggy roots, and leave those yellowing fronds alone unless they turn brown or fall off easily.
 
-Top priority: Check that the pot is not sitting in any standing water today.
+Top priority: Check the soil moisture 1–2 inches down before watering to avoid overwatering.
 
-Hold off watering; only water when the top 1–2 inches of soil feel dry and the pot feels lighter.
+Hold off watering today unless the soil feels dry and the pot feels light.
 
-Give the soil surface a gentle poke or lift the pot to check moisture before deciding to water next.
+Check the drip tray to ensure no standing water is touching the pot bottom.
 
-(Optional) Consider gently removing a few of the oldest fully brown fronds if they appear loose to tidy up without stressing the plant.
+Optional upgrade: Gently wipe dust off fronds to keep pores clear and improve photosynthesis.
 
 ------

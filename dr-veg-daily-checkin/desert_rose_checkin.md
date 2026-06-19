@@ -1,13 +1,13 @@
-Your Desert Rose is still in recovery mode after that major root pruning and repotting earlier this month. The warm, mostly sunny weather with some afternoon filtered sun is great for encouraging new growth, but keep in mind the plant’s root system is still fragile, so it’s best to avoid watering too soon or too much.
+Your Desert Rose is steadily recovering from the major root pruning and repotting done earlier this month, with no new signs of softness or rot in the caudex, which is great news. The warm weather with bright filtered sun and moderate humidity suits it well, but keep an eye on the exposed caudex and old root-removal site for any softening or discoloration.
 
-Since you watered thoroughly on June 14 after letting the soil dry well, hold off on watering again until the soil feels dry a few inches down and the caudex remains firm. Keep an eye on the lower caudex and old root-removal site for any softness, discoloration, or odor, as these are the key signs to catch early if rot starts.
+Since you watered thoroughly yesterday, hold off on watering today to avoid overwatering during this sensitive recovery phase. Continue to keep the plant warm and dry, protected from heavy rain, and monitor firmness and leaf condition without disturbing the roots or fertilizing just yet.
 
-Top priority today: Check the soil dryness and caudex firmness before considering watering.
+Top priority today: Check the caudex firmness and old root-removal site for any new softness or dark spots.
 
-Water only if the soil is dry at least 2 inches deep and the caudex feels firm.
+Skip watering today; wait until the soil feels dry several inches down before watering again.
 
-Give the lower caudex and root-removal site a gentle squeeze to confirm firmness and absence of mushiness or odor.
+Look over the plant for any new leaf yellowing, drop, or pest signs as a quick health check.
 
-Optional upgrade: If you want to boost recovery, gently increase airflow around the plant by opening the patio screen or using a small fan on low, avoiding direct wind.
+Optional: If you want to go the extra mile, consider gently brushing off any dust from leaves to improve photosynthesis without stressing the plant.
 
 ------

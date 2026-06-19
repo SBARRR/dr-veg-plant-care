@@ -1,13 +1,13 @@
-Your Venus Flytrap is doing well overall and showing steady new growth after its move outdoors. The hot and sunny weather with a high near 96°F means your plant will be thirsty and the tray water will evaporate quickly, so keeping the media consistently wet is key to avoid stress.
+Your Venus Flytrap is settling in well outdoors with steady new growth and no fresh browning or drooping, which is great news given the recent warm, sunny weather with some thunderstorms expected later. The key now is to keep the soil consistently wet using distilled or rainwater and watch that the tray water doesn’t dry out too fast in the heat, as the plant relies on that shallow water to stay happy.
 
-Since the plant is in a small pot inside a sealed cachepot, watch for heat buildup in the tray water during the hottest part of the day, as overheating can cause drooping or damage. The good news is the plant is acclimating nicely, so just keep an eye on tray water levels and crown health to catch any early signs of trouble.
+Since the skull cachepot setup can trap heat, keep an eye on the pot temperature during the hottest part of the day to avoid cooking the roots. The moderate humidity and airflow outdoors are helping prevent mold and fungus issues, so just maintain your current watering routine and avoid disturbing the soil or repotting for now.
 
-Top priority today: Check the tray water level mid-afternoon to ensure it hasn’t evaporated completely in the heat.
+Top priority today: Check the tray water level and refill with distilled or rainwater if it’s empty or nearly empty.
 
-Keep the tray filled with distilled, rain, or RO water to about 0.25–0.5 inch depth; never let the media dry out.
+Keep the soil media wet at all times by maintaining about 0.25–0.5 inch of water in the tray.
 
-Look over the traps and crown for any new drooping, darkening, or soft spots that could signal heat stress or water issues.
+Look over the crown and base for any signs of softness, darkening, or foul smell.
 
-Optional: If you want to go the extra mile, move the plant to a spot with morning sun and afternoon shade to reduce heat stress during peak sun hours.
+Optionally, if you want to go the extra mile, consider gently shading the pot during peak afternoon heat to prevent root overheating.
 
 ------

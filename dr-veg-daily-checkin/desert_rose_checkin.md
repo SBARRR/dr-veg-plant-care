@@ -1,13 +1,13 @@
-Your Desert Rose is steadily recovering from the major root pruning and repotting done earlier this month, with no new signs of softness or rot in the caudex, which is great news. The warm weather with bright filtered sun and moderate humidity suits it well, but keep an eye on the exposed caudex and old root-removal site for any softening or discoloration.
+Your Desert Rose is still in recovery mode after that big root prune and repot earlier this month, so the main thing is to keep it warm, dry, and stress-free. The recent thunderstorm brought plenty of rain and high humidity, so double-check that your porch setup isn’t letting too much water sit in the pot or tray, as soggy conditions could spell trouble for your healing caudex.
 
-Since you watered thoroughly yesterday, hold off on watering today to avoid overwatering during this sensitive recovery phase. Continue to keep the plant warm and dry, protected from heavy rain, and monitor firmness and leaf condition without disturbing the roots or fertilizing just yet.
+Since the soil was watered just yesterday and the plant is still stabilizing, hold off on watering today to avoid overdoing it. Keep an eye on the caudex firmness and the old root-removal site for any soft spots or discoloration, and make sure the plant gets its usual filtered afternoon sun without sudden harsh light shocks.
 
-Top priority today: Check the caudex firmness and old root-removal site for any new softness or dark spots.
+Top priority: Confirm no standing water is trapped in or under the pot after recent rain.
 
-Skip watering today; wait until the soil feels dry several inches down before watering again.
+Skip watering today; wait until the soil feels dry several inches down before the next soak.
 
-Look over the plant for any new leaf yellowing, drop, or pest signs as a quick health check.
+Check the caudex firmness gently and look for any soft or darkened areas near the root-removal site.
 
-Optional: If you want to go the extra mile, consider gently brushing off any dust from leaves to improve photosynthesis without stressing the plant.
+Optional: If you want to go the extra mile, consider gently tilting the pot after rain to help excess water drain out faster.
 
 ------

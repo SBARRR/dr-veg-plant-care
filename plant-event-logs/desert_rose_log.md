@@ -1,39 +1,39 @@
 # Desert Rose Log
 
 ## Current Snapshot
-<!-- Current state and durable care facts for this specific plant. This section should preserve important information that should not disappear when older Recent Events roll off the 30-entry limit. -->
+<!-- Current state and durable care facts for this specific plant. This section should preserve important information that should not disappear. -->
 
-- Last updated: 2026-06-19
+- Last updated: 2026-06-20
   <!-- Date this snapshot was last revised. -->
 
-- Overall condition: Recovering after major repot/root work and severe root reduction performed on 2026-06-01. Plant remains stable with no confirmed signs of tissue decline or structural failure and is currently being monitored through post-repot recovery.
+- Overall condition: Recovering after major repot/root work and severe root reduction performed on 2026-06-01. Plant must be monitored through post-repot recovery. As of 2026-06-20 plant is stable and improving. Caudex firmness has increased compared with previous check-ins, with no reported yellowing, leaf drop, or other signs of decline.
   <!-- Broad current health/status of the plant. Example: stable, recovering, declining, newly rescued, stressed, dormant, unknown. -->
 
-- Watering status: On 2026-06-18, user watered the Desert Rose.
-  <!-- Latest watering state, including last watering, withheld watering, drainage behavior, tray status, pot weight, drying behavior, or other water-related context needed for daily advice. -->
+- Watering status: On 2026-06-20, user watered the Desert Rose. Previous watering was on 2026-06-18
+  <!-- Latest watering state or other water-related context needed for daily advice. -->
 
 - Fertilizer status: No fertilizer has been given since purchase.
-  <!-- Latest fertilizer state, including last feeding, fertilizer used, form, dose/strength, or whether fertilizer is being intentionally avoided. -->
+  <!-- Latest fertilizer state, including last feeding, fertilizer used, form, dose/strength, and or fertilizer guidance. -->
 
-- Leaf/pest history: Possible pest/leaf-spot concern at purchase due to white/cloudy splotches on leaves; oil-based leaf treatment completed on 2026-05-27 as a precaution.
-  <!-- Current leaf/pest context, including none, suspected concerns, confirmed concerns, last treatment, product type used, or treatment cautions. -->
+- Leaf/pest history: Possible pest/leaf-spot concern at purchase due to white/cloudy splotches on leaves; oil-based leaf treatment completed on 2026-05-27 as a precaution. User has not reported if white splotches have returned.
+  <!-- Current pest-control state. -->
 
 - Last repot: Repotted from original Walmart/store pot into a shallow unglazed ceramic bonsai training pot, approx. 8.2 in L x 6.7 in W x 2.3 in H.
   <!-- Most recent repot date/action. Use "unknown" if not known and "never known" if no repot has happened since acquisition. -->
 
 - Last soil change: 2026-06-01; original store soil was replaced with tiny roots succulent soil.
-  <!-- Most recent full or partial soil/media change. This may be the same date as repotting, but keep separate if only the media was refreshed or changed. -->
+  <!-- Most recent full or partial soil/media change. -->
 
-- Last root prune: 2026-06-01; major root reduction performed to fit shallow bonsai pot, estimated by user at around 80% or more of roots removed. This is a major stress event and raises risk if watered too soon.
-  <!-- Most recent root pruning or major root disturbance. Use "none known" if no root pruning has happened. -->
+- Last root prune: 2026-06-01; major root reduction performed to fit shallow bonsai pot, estimated by user at around 80% or more of roots removed.
+  <!-- Most recent root pruning or major root disturbance. -->
 
 - Last prune: 2026-06-10; user removed all remaining flower buds and the open flower to reduce energy demand during high-stress root-prune recovery.
   <!-- Most recent above-ground pruning/removal, such as leaves, traps, fronds, branches, flowers, or dead material. -->
 
 - Current concern: Continue monitoring recovery after major root pruning and shallow-pot repot, especially lower caudex firmness, the old root-removal site, and any signs of tissue decline such as excess softening, unusual odor, structural failure, or expanding dark discoloration.
-  <!-- Main current issue, risk, or monitoring focus. If nothing is wrong, say that clearly. -->
+  <!-- Main current issue, risk, or monitoring focus. None is also a valid option. -->
 
-- Latest check-in notes: On 2026-06-19, user reported stable firmness, no new yellowing, and no meaningful visual changes. Soil remained suitable, so no watering was performed.
+- Latest check-in notes: On 2026-06-20, user reported improved caudex firmness. Plant remains visually stable with no yellowing or leaf drop.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events
@@ -71,14 +71,6 @@
 
 - Outcome: Continue high-stress recovery care: keep warm, dry, and protected from rain; do not water, fertilize, apply leaf treatment, or disturb roots. Recheck lower caudex and older root-removal areas for increasing softness, unusual odor, expanding dark discoloration, or structural failure.
 
-### 2026-06-04 — Post-Repot Stability Check
-
-- Summary: Desert rose condition and caudex firmness reported unchanged from yesterday.
-
-- Details: User reports nothing really new to report. Caudex firmness feels the same as 2026-06-03, and overall details remain the same as yesterday. No new worsening signs were reported.
-
-- Outcome: Continue high-stress recovery care: keep warm, dry, and protected from rain; do not water, fertilize, apply leaf treatment, or disturb roots. Keep monitoring for increasing softness, unusual odor, expanding dark discoloration, or structural failure.
-
 ### 2026-06-03 — Post-Repot Caudex Softness Check
 
 - Summary: Upper caudex remains firm; lower yellowish caudex may feel slightly softer but no clear signs of tissue decline reported.
@@ -87,14 +79,6 @@
 
 - Outcome: Continue high-stress recovery care: keep warm, dry, and protected from rain; do not water, fertilize, apply leaf treatment, or disturb roots. Recheck lower caudex and older root-removal areas for increasing softness, unusual odor, expanding dark discoloration, or structural failure.
 
-### 2026-06-02 — Post-Repot Caudex / Root-Removal Site Check
-
-- Summary: Desert rose visually stable after major root prune; lower caudex has slightly more give and an old root-removal site is visible.
-
-- Details: User reports leaves are not yellowing or drooping and plant looks about the same. Green upper caudex/stem remains firm. Lower yellowish/previously buried tissue has slightly more give, but not described as overly soft. Photo shows a noticeable old root-removal site; follow-up check found the site feels similar in firmness to surrounding tissue, with no unusual odor or structural failure reported.
-
-- Outcome: Continue keeping plant warm, dry, and protected from rain. Do not water, fertilize, apply leaf treatment, or disturb roots. Monitor old root-removal site for unusual odor, expanding dark discoloration, or structural failure.
-
 ### 2026-06-01 — Repot / Major Root Prune
 
 - Summary: Repotted Desert Rose into shallow bonsai pot with major root reduction.
@@ -102,22 +86,6 @@
 - Details: User moved the plant from the original Walmart/store pot into an unglazed ceramic bonsai training pot approx. 8.2 in L x 6.7 in W x 2.3 in H. The plant was too large/deep for the shallow pot, so user removed a large amount of roots, estimated around 80% or more. New succulent mix was completely dry. Some base/caudex tissue that was previously below soil is now exposed above the soil line. User had previously checked the visible trunk/caudex and it felt firm.
 
 - Outcome: Treat as high-stress recovery. Keep warm, dry, and protected from rain; avoid watering for roughly 7–10 days while recovering. Avoid fertilizer, oil-based leaf treatments, additional root work, or harsh direct sun during early recovery. Monitor for excess caudex or stem softness, expanding dark discoloration, severe shriveling, leaf drop, and whether new growth survives.
-
-### 2026-06-01 — Observation
-
-- Summary: Initial log check-in after purchase; plant appears generally good but has a few monitoring concerns.
-
-- Details: User reports the plant looks pretty good overall, though user is unfamiliar with Desert Rose stress signs. Small new growth points are present but have not noticeably grown since purchase, and one small growth point fell off on its own when the pot was moved for inspection. User is also monitoring prior white/cloudy leaf splotches and soil dry-down after the plant was very wet at purchase.
-
-- Outcome: Continue monitoring soil dry-down, possible leaf spotting/pest signs, and whether new growth resumes or additional growth points drop.
-
-### 2026-05-31 — Watering
-
-- Summary: Watered lightly after withholding water due to wet purchase soil.
-
-- Details: Plant was extremely wet at purchase, so user withheld watering until the soil felt less wet and more dryish. User watered lightly but enough for water to drain from the bottom of the pot.
-
-- Outcome: Drainage confirmed; continue allowing the soil to dry appropriately before the next watering.
 
 ### 2026-05-27 — Leaf/Pest Treatment
 

@@ -3,7 +3,7 @@
 ## Current Snapshot
 <!-- Current state and durable care facts for this specific plant. This section should preserve important information that should not disappear when older Recent Events roll off the 30-entry limit. -->
 
-- Last updated: 2026-06-18
+- Last updated: 2026-06-19
   <!-- Date this snapshot was last revised. -->
 
 - Overall condition: Recovering after major repot/root work and severe root reduction performed on 2026-06-01. Plant remains stable with no confirmed signs of tissue decline or structural failure and is currently being monitored through post-repot recovery.
@@ -33,7 +33,7 @@
 - Current concern: Continue monitoring recovery after major root pruning and shallow-pot repot, especially lower caudex firmness, the old root-removal site, and any signs of tissue decline such as excess softening, unusual odor, structural failure, or expanding dark discoloration.
   <!-- Main current issue, risk, or monitoring focus. If nothing is wrong, say that clearly. -->
 
-- Latest check-in notes: On 2026-06-18, user reported caudex firmness remains stable with no new yellowing, leaf drop, or other visual changes.
+- Latest check-in notes: On 2026-06-19, user reported stable firmness, no new yellowing, and no meaningful visual changes. Soil remained suitable, so no watering was performed.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events

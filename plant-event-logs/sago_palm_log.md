@@ -3,7 +3,7 @@
 ## Current Snapshot
 <!-- Current state and durable care facts for this specific plant. This section should preserve important information that should not disappear when older Recent Events roll off the 30-entry limit. -->
 
-- Last updated: 2026-06-18
+- Last updated: 2026-06-19
   <!-- Date this snapshot was last revised. -->
 
 - Overall condition: Established and generally stable. Older fronds show yellowing/spotted aging or stress, while newer growth is reportedly healthy green.
@@ -33,7 +33,7 @@
 - Current concern: Monitor yellowing/spotted older fronds and confirm newer green growth remains healthy. Older yellowing fronds still have some green at the tips and should remain attached unless they become mostly brown/dead or release easily with a gentle tug.
   <!-- Main current issue, risk, or monitoring focus. If nothing is wrong, say that clearly. -->
 
-- Latest check-in notes: On 2026-06-18, user reported no meaningful visual changes. Older yellowing/spotted fronds appear stable.
+- Latest check-in notes: On 2026-06-19, user reported no meaningful visual changes. Soil remains moist, so no watering was performed.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events
@@ -114,6 +114,5 @@
   <!-- Useful specifics, such as amount of water, product used, symptom observed, action taken, context, or uncertainty. -->
 
 - Outcome: No watering today. Leave yellow fronds unless they become mostly brown/dead or pull away with little resistance.
-  <!-- Result/status after the event, expected follow-up, or "TBD" if the outcome is not known yet. -->
 
 ### 2026-06-01 — Photo Observation

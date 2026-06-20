@@ -1,13 +1,13 @@
-Your Southern Live Oak is still settling in after its big move from the ground to the pot less than a month ago, and it’s showing typical signs of transplant stress like some leaf browning and the occasional orange powdery spot. With the hot weather and occasional thunderstorms, keeping the soil consistently moist but not soggy is key to helping it recover without encouraging root rot.
+Your Southern Live Oak is still in recovery mode after its recent transplant and root disturbance, so steady moisture without sogginess is key right now. The recent thunderstorms brought plenty of rain, but since your oak is in a pot outside the screened patio, it’s smart to double-check the soil moisture rather than assuming it got soaked.
 
-Since the oak is in a 3-gallon pot with decent drainage and about 5–6 hours of direct sun, the main focus today is to keep an eye on soil moisture and leaf condition without rushing to water. The tree is stable but still sensitive, so avoid fertilizer or pruning for now and just monitor for any worsening browning or new spotting.
+Today, focus on checking the soil moisture under the mulch to ensure it’s still slightly moist but not wet, as your oak prefers steady moisture during recovery. Hold off on watering unless the top 2–3 inches feel dry under the mulch, and keep an eye on any new leaf browning or orange powdery spots that might reappear.
 
-Check soil moisture under the mulch and only water deeply if the top 2–3 inches feel dry and warm.
+Check soil moisture under the mulch before deciding to water today.
 
-Water thoroughly until runoff, then let the pot drain fully—don’t let it sit in standing water.
+Water deeply only if the top 2–3 inches of soil feel dry, then let excess drain fully.
 
-Look over the leaves for any increase in orange powdery spots or new browning.
+Inspect leaves for any new browning or orange powdery spots.
 
-(Optional) If you want to go the extra mile, gently increase airflow around the tree by spacing nearby plants or using a small fan on low to reduce fungal risks.
+(Optional) Consider gently increasing airflow around the tree by repositioning it slightly if you notice any mildew or fungus signs.
 
 ------

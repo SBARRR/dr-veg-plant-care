@@ -1,13 +1,13 @@
-Your Venus Flytrap is settling in well outdoors with steady new growth and no fresh browning or drooping, which is great news given the recent warm, sunny weather with some thunderstorms expected later. The key now is to keep the soil consistently wet using distilled or rainwater and watch that the tray water doesn’t dry out too fast in the heat, as the plant relies on that shallow water to stay happy.
+Your Venus Flytrap is adapting well to its outdoor spot with about 5–6 hours of bright sun, which is great for its growth and trap coloration. The recent thunderstorms and high humidity mean the tray water will evaporate quickly, so keeping the media consistently wet is key to avoid stress or drooping.
 
-Since the skull cachepot setup can trap heat, keep an eye on the pot temperature during the hottest part of the day to avoid cooking the roots. The moderate humidity and airflow outdoors are helping prevent mold and fungus issues, so just maintain your current watering routine and avoid disturbing the soil or repotting for now.
+Since the plant is still in its original pot inside the skull cachepot reservoir, watch for any heat buildup during sunny afternoons, as the pot can get warm and dry out the roots quickly. The healthy new growth from the crown is a good sign, so keep the water pure and the environment airy to prevent mold or rot.
 
-Top priority today: Check the tray water level and refill with distilled or rainwater if it’s empty or nearly empty.
+Top priority today: Check the tray water level and refill with distilled, rain, or RO water if it’s empty or nearly empty.
 
-Keep the soil media wet at all times by maintaining about 0.25–0.5 inch of water in the tray.
+Keep the media wet at all times but avoid flooding; about 0.25–0.5 inch of water in the tray is perfect.
 
-Look over the crown and base for any signs of softness, darkening, or foul smell.
+Look over the traps and crown for any signs of darkening, softness, or drooping that could indicate stress.
 
-Optionally, if you want to go the extra mile, consider gently shading the pot during peak afternoon heat to prevent root overheating.
+Optional: If you want to go the extra mile, gently remove any fully blackened traps to keep the plant tidy and improve airflow around the crown.
 
 ------

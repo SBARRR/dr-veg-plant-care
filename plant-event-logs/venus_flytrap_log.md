@@ -3,13 +3,13 @@
 ## Current Snapshot
 <!-- Current state and durable care facts for this specific plant. This section should preserve important information that should not disappear when older Recent Events roll off the 30-entry limit. -->
 
-- Last updated: 2026-06-18
+- Last updated: 2026-06-19
   <!-- Date this snapshot was last revised. -->
 
 - Overall condition: Recovering from poor condition at purchase and adapting well to outdoor placement. Healthy new growth continues to emerge from the crown and no major decline has been observed.
   <!-- Broad current health/status of the plant. Example: stable, recovering, declining, newly rescued, stressed, dormant, unknown. -->
 
-- Watering status: On 2026-06-18, reservoir level was low and user refilled with water.
+- Watering status: On 2026-06-19, reservoir water level was low and was refilled.
   <!-- Latest watering state, including last watering, withheld watering, drainage behavior, tray status, pot weight, drying behavior, or other water-related context needed for daily advice. -->
 
 - Fertilizer status: No fertilizer or plant food has been given.
@@ -33,7 +33,7 @@
 - Current concern: Continue monitoring outdoor acclimation, reservoir consistency, crown/base health, and whether healthy new growth continues. Watch for renewed drooping, darkening of healthy green traps, crown/base softening, or other signs of decline.
   <!-- Main current issue, risk, or monitoring focus. If nothing is wrong, say that clearly. -->
 
-- Latest check-in notes: On 2026-06-18, user reported normal growth progression with no new browning, blackening, or other concerns.
+- Latest check-in notes: On 2026-06-19, user reported continued normal growth. Reservoir water level was low and was refilled.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events

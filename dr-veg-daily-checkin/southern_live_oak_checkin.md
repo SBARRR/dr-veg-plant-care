@@ -1,13 +1,13 @@
-Your Southern Live Oak is still in recovery mode after its recent transplant and root disturbance, so steady moisture without sogginess is key right now. The recent thunderstorms brought plenty of rain, but since your oak is in a pot outside the screened patio, it’s smart to double-check the soil moisture rather than assuming it got soaked.
+Your Southern Live Oak is holding steady in its new pot after the big transplant about a month ago, showing no new signs of stress despite the warm June weather. The overcast skies and moderate humidity help keep soil moisture from drying out too fast, but the tree still needs careful watering to avoid drying out or sogginess given its root disturbance.
 
-Today, focus on checking the soil moisture under the mulch to ensure it’s still slightly moist but not wet, as your oak prefers steady moisture during recovery. Hold off on watering unless the top 2–3 inches feel dry under the mulch, and keep an eye on any new leaf browning or orange powdery spots that might reappear.
+Today, the top priority is to check soil moisture carefully before watering—aim for steady moisture without sogginess since the soil was drying but not bone-dry yesterday. Keep an eye on any return of orange powdery spots or leaf browning, but no fertilizer or pruning for now; just steady, gentle care as it recovers.
 
-Check soil moisture under the mulch before deciding to water today.
+Check soil moisture by feeling the top 2–3 inches and lifting the pot to gauge weight before watering.
 
-Water deeply only if the top 2–3 inches of soil feel dry, then let excess drain fully.
+Water deeply only if the soil feels dry at that depth, letting water drain fully without leaving the pot sitting in water.
 
-Inspect leaves for any new browning or orange powdery spots.
+Look over the leaves for any new orange powdery spots or unusual browning.
 
-(Optional) Consider gently increasing airflow around the tree by repositioning it slightly if you notice any mildew or fungus signs.
+(Optional) To improve drainage and airflow, consider placing the pot on a small rack or bricks to keep it off the stand surface and allow better bottom airflow.
 
 ------

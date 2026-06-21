@@ -1,13 +1,13 @@
-Your Sago Palm is holding steady with healthy new growth, while some older fronds show normal yellowing and spotting—no urgent issues yet. The recent heavy rain and high humidity mean the soil is still quite moist, so it’s best to hold off on watering to avoid soggy roots.
+Your Sago Palm is holding steady with healthy new growth despite some older fronds showing normal yellowing and spotting, which is typical for this slow-growing cycad. Given the warm, mostly sunny weather with moderate humidity, your plant’s outdoor porch spot with filtered afternoon sun is just right for steady growth without scorch risk.
 
-Keep an eye on those older fronds; leave them alone unless they turn mostly brown or come off easily with a gentle tug. The plant is in a good spot with filtered afternoon sun and good airflow, so just keep monitoring moisture and avoid letting the pot sit in standing water.
+Since you watered yesterday after the soil dried, the plant is well hydrated for now, so no immediate watering is needed today. Keep an eye on those older yellow fronds—they’re still attached and should stay until mostly brown or loose, helping the plant conserve energy.
 
-Top priority today: Confirm the soil surface is dry before considering any watering.
+Top priority today: Confirm the top 1–2 inches of soil is dry before considering watering again.
 
-Hold off watering since the soil is still moist from recent rain and watering.
+Water only when the soil surface feels dry and the pot feels lighter than after watering.
 
-Check the drip tray to ensure no standing water is pooling under the pot.
+Check the drainage tray to ensure no standing water is accumulating under the pot.
 
-Optional: If you want to go the extra mile, gently brush off the white gravel top dressing to check soil moisture more accurately.
+Optional: Gently brush off the white gravel top dressing occasionally to prevent it from hiding moisture issues or pests.
 
 ------

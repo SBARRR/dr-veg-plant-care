@@ -1,13 +1,15 @@
-Your Desert Rose is still in recovery mode after that big root prune and repot earlier this month, so the main thing is to keep it warm, dry, and stress-free. The recent thunderstorm brought plenty of rain and high humidity, so double-check that your porch setup isn’t letting too much water sit in the pot or tray, as soggy conditions could spell trouble for your healing caudex.
+Your Desert Rose is steadily recovering well after that major root prune and repot earlier this month, with improved caudex firmness and no new leaf drop or yellowing. The current warm, mostly sunny weather with moderate humidity is ideal for its recovery and growth, but keep it shaded from harsh afternoon sun through the patio screen to avoid stress while it heals.
 
-Since the soil was watered just yesterday and the plant is still stabilizing, hold off on watering today to avoid overdoing it. Keep an eye on the caudex firmness and the old root-removal site for any soft spots or discoloration, and make sure the plant gets its usual filtered afternoon sun without sudden harsh light shocks.
+Since you watered yesterday, hold off on watering again until the soil is fully dry—this plant hates soggy roots, especially now. Keep an eye on the caudex firmness and the old root-removal site for any soft spots or discoloration, which would be a red flag. Optional: once fully recovered, consider a light, diluted fertilizer to support new growth, but only if the plant looks strong and the soil is dry.
 
-Top priority: Confirm no standing water is trapped in or under the pot after recent rain.
+Today’s quick actions:
 
-Skip watering today; wait until the soil feels dry several inches down before the next soak.
+Check caudex firmness and old root-removal site for any softening or dark spots  
 
-Check the caudex firmness gently and look for any soft or darkened areas near the root-removal site.
+Skip watering today; water only when soil is completely dry and caudex feels slightly shriveled  
 
-Optional: If you want to go the extra mile, consider gently tilting the pot after rain to help excess water drain out faster.
+Confirm pot drains well and no standing water collects after watering  
+
+(Optional) Plan to start light fertilizing in a few weeks if recovery continues smoothly  
 
 ------

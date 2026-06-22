@@ -1,15 +1,13 @@
-Your Desert Rose is steadily recovering well after that major root prune and repot earlier this month, with improved caudex firmness and no new leaf drop or yellowing. The current warm, mostly sunny weather with moderate humidity is ideal for its recovery and growth, but keep it shaded from harsh afternoon sun through the patio screen to avoid stress while it heals.
+Your Desert Rose is steadily recovering well from the major root pruning and repotting earlier this month, with the caudex firmness improving and no new signs of decline. The warm, mostly sunny weather with moderate humidity is ideal for its recovery, but keep in mind it’s still a delicate phase where overwatering or stress could set it back.
 
-Since you watered yesterday, hold off on watering again until the soil is fully dry—this plant hates soggy roots, especially now. Keep an eye on the caudex firmness and the old root-removal site for any soft spots or discoloration, which would be a red flag. Optional: once fully recovered, consider a light, diluted fertilizer to support new growth, but only if the plant looks strong and the soil is dry.
+Since the soil dried out fully within 24 hours after your last watering, the plant is ready for a careful deep watering today to support its active growth phase. Continue to monitor the caudex firmness and avoid fertilizer or disturbance until it shows strong new growth and stable firmness.
 
-Today’s quick actions:
+Water deeply today since the soil is dry and the caudex feels firm.
 
-Check caudex firmness and old root-removal site for any softening or dark spots  
+Check the caudex firmness and soil dryness before watering again.
 
-Skip watering today; water only when soil is completely dry and caudex feels slightly shriveled  
+Keep the plant in bright, filtered late-afternoon sun and avoid harsh midday direct sun to prevent stress.
 
-Confirm pot drains well and no standing water collects after watering  
-
-(Optional) Plan to start light fertilizing in a few weeks if recovery continues smoothly  
+(Optional) Consider gently wiping leaves to check for any return of white splotches or pests, but avoid treatments unless you see clear signs.
 
 ------

@@ -1,13 +1,13 @@
-Your Southern Live Oak is holding steady in its new pot after the big transplant about a month ago, showing no new signs of stress despite the warm June weather. The overcast skies and moderate humidity help keep soil moisture from drying out too fast, but the tree still needs careful watering to avoid drying out or sogginess given its root disturbance.
+Your Southern Live Oak is steadily recovering from its recent transplant and root disturbance, showing stable leaf posture and no new major damage despite the summer heat. The current outdoor setup with 5–6 hours of direct sun is good for acclimation, but keep an eye on the orange powdery spots and leaf browning as mild heat stress and fungal issues can linger.
 
-Today, the top priority is to check soil moisture carefully before watering—aim for steady moisture without sogginess since the soil was drying but not bone-dry yesterday. Keep an eye on any return of orange powdery spots or leaf browning, but no fertilizer or pruning for now; just steady, gentle care as it recovers.
+Today’s dry weather with a high near 97°F means the soil can dry out faster, so maintaining steady moisture without sogginess is key to avoid stressing the roots further. Continue deep watering only when the top 2–3 inches of soil feel dry, and watch for any signs of wilting or sudden leaf drop that might signal heat or water stress.
 
-Check soil moisture by feeling the top 2–3 inches and lifting the pot to gauge weight before watering.
+Check soil moisture by feeling the top 2–3 inches before watering today.
 
-Water deeply only if the soil feels dry at that depth, letting water drain fully without leaving the pot sitting in water.
+Water deeply until you see drainage, then let the pot drain fully—avoid watering on a strict schedule.
 
-Look over the leaves for any new orange powdery spots or unusual browning.
+Inspect leaves for any new orange powdery spots or worsening browning.
 
-(Optional) To improve drainage and airflow, consider placing the pot on a small rack or bricks to keep it off the stand surface and allow better bottom airflow.
+Optionally, gently increase airflow around the tree by moving the pot to a breezier spot if possible to reduce fungal risk.
 
 ------

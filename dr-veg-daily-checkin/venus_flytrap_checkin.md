@@ -1,13 +1,13 @@
-Your Venus Flytrap is settling in well outdoors with healthy new growth and no major issues so far. The warm weather with plenty of sunshine is perfect for its active growth phase, just keep an eye on the water level in the tray to avoid drying out in the heat.
+Your Venus flytrap is settling nicely into its outdoor summer spot with plenty of bright light and warm temps, which is exactly what it needs to thrive. Keep an eye on the water reservoir in the skull cachepot to ensure the soil stays consistently wet without drying out, especially with the heat pushing evaporation.
 
-Since the plant is in a small pot inside a sealed cachepot, make sure the tray water doesn’t get too hot or stagnant, which can stress the roots. Continue to avoid tap water and fertilizer, and only remove traps that are fully black and dead to keep the plant focused on healthy growth.
+Today, the top priority is to check the tray water level and refill with distilled or rainwater if it’s low, since dry media can stress your flytrap fast. Also, give the plant a quick look for any blackened traps or signs of crown softness, but don’t worry about a few brown traps—they’re normal as long as new growth looks healthy.
 
-Top priority today: Check and top off the tray water with distilled, rain, or RO water to keep the media consistently wet.
+Top care today: Check and top off the tray water with distilled or rainwater to keep the soil wet  
 
-Water by maintaining a shallow layer of pure water in the tray; avoid letting it dry out, especially with today’s warm temps.
+Watering: Keep the tray water shallow but never let it dry out completely  
 
-Check the crown and new growth for firmness and bright green color to catch any early signs of stress.
+Quick check: Look for any softening at the crown or new traps that look weak or discolored  
 
-Optional: If you want to go the extra mile, gently remove any fully dead traps to keep the plant tidy and improve airflow around the base.
+Optional upgrade: If you want to go the extra mile, gently remove fully dead traps to keep the plant tidy and improve airflow  
 
 ------

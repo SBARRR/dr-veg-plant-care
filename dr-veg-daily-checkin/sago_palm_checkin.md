@@ -1,13 +1,13 @@
-Your Sago Palm is holding steady with healthy new growth despite some older fronds showing normal yellowing and spotting, which is typical for this slow-growing cycad. Given the warm, mostly sunny weather with moderate humidity, your plant’s outdoor porch spot with filtered afternoon sun is just right for steady growth without scorch risk.
+Your Sago Palm is holding steady with healthy new growth despite some older fronds showing yellowing and spotting, which is typical for aging leaves. The recent warm weather with high heat and moderate humidity means the soil will dry faster, so keeping an eye on moisture is key without overwatering.
 
-Since you watered yesterday after the soil dried, the plant is well hydrated for now, so no immediate watering is needed today. Keep an eye on those older yellow fronds—they’re still attached and should stay until mostly brown or loose, helping the plant conserve energy.
+Since you fertilized recently, hold off on feeding for now and focus on monitoring soil moisture and frond condition. The screened porch location with filtered afternoon sun is just right, but watch for any signs of sun scorch or pest activity, especially with the upcoming thunderstorms.
 
-Top priority today: Confirm the top 1–2 inches of soil is dry before considering watering again.
+Top priority today: Check the soil moisture by feeling the top 1–2 inches and pot weight before deciding to water.
 
-Water only when the soil surface feels dry and the pot feels lighter than after watering.
+Water only if the soil feels dry and the pot is noticeably lighter, then water thoroughly until drainage occurs.
 
-Check the drainage tray to ensure no standing water is accumulating under the pot.
+Inspect the undersides of fronds and the crown for any small scale or pests, since spotting is present but no pests confirmed.
 
-Optional: Gently brush off the white gravel top dressing occasionally to prevent it from hiding moisture issues or pests.
+Optional upgrade: If you want to go the extra mile, gently remove any fully brown fronds to tidy up without stressing the plant.
 
 ------

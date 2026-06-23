@@ -1,13 +1,11 @@
-Your Southern Live Oak is steadily recovering from its recent transplant and root disturbance, showing stable leaf posture and no new major damage despite the summer heat. The current outdoor setup with 5–6 hours of direct sun is good for acclimation, but keep an eye on the orange powdery spots and leaf browning as mild heat stress and fungal issues can linger.
+Your Southern Live Oak is holding steady after its recent transplant shock and root disturbance, which is great news given the hot, sunny weather with highs near 97°F and a dry forecast. Keep prioritizing steady moisture without sogginess, as the tree’s roots are still recovering and can’t handle drought or waterlogging well right now.
 
-Today’s dry weather with a high near 97°F means the soil can dry out faster, so maintaining steady moisture without sogginess is key to avoid stressing the roots further. Continue deep watering only when the top 2–3 inches of soil feel dry, and watch for any signs of wilting or sudden leaf drop that might signal heat or water stress.
+Today, focus on checking the soil moisture by feeling the top 2–3 inches and the pot weight before deciding to water; if it’s still moist, hold off. Water deeply only when the soil starts to dry, letting excess drain fully, and keep an eye on leaf posture for any signs of heat stress or wilting. Optionally, you can gently increase airflow around the tree to help prevent fungal issues like the orange powdery spots you noticed earlier.
 
-Check soil moisture by feeling the top 2–3 inches before watering today.
+Check soil moisture before watering
 
-Water deeply until you see drainage, then let the pot drain fully—avoid watering on a strict schedule.
+Water deeply only when topsoil feels dry, ensuring good drainage
 
-Inspect leaves for any new orange powdery spots or worsening browning.
-
-Optionally, gently increase airflow around the tree by moving the pot to a breezier spot if possible to reduce fungal risk.
+Look for any new leaf browning, wilting, or powdery spots
 
 ------

@@ -1,13 +1,11 @@
-Your Sago Palm is holding steady with healthy new growth despite some older fronds showing yellowing and spotting, which is typical for aging leaves. The recent warm weather with high heat and moderate humidity means the soil will dry faster, so keeping an eye on moisture is key without overwatering.
+Your Sago Palm is holding steady with healthy new growth despite some older fronds showing yellowing and spotting, which is normal aging or mild stress. With the hot weather and long sunshine hours, it’s great that you’re keeping it in filtered late-afternoon sun and good airflow on your porch, which helps prevent heat scorch and pests.
 
-Since you fertilized recently, hold off on feeding for now and focus on monitoring soil moisture and frond condition. The screened porch location with filtered afternoon sun is just right, but watch for any signs of sun scorch or pest activity, especially with the upcoming thunderstorms.
+Since you watered yesterday after the soil dried, hold off on watering today to avoid soggy roots in that shallow bonsai pot. Keep an eye on the top 1–2 inches of soil drying out before the next watering, and gently check if any yellow fronds become mostly brown or loosen easily for removal. Optional: if you want to go the extra mile, consider lightly misting the fronds early in the morning to reduce dust and keep the plant fresh without wetting the soil.
 
-Top priority today: Check the soil moisture by feeling the top 1–2 inches and pot weight before deciding to water.
+Water only when the top 1–2 inches of soil feel dry and the pot feels lighter.
 
-Water only if the soil feels dry and the pot is noticeably lighter, then water thoroughly until drainage occurs.
+Check the firmness of yellow fronds today—remove only if mostly brown or very loose.
 
-Inspect the undersides of fronds and the crown for any small scale or pests, since spotting is present but no pests confirmed.
-
-Optional upgrade: If you want to go the extra mile, gently remove any fully brown fronds to tidy up without stressing the plant.
+If you want, lightly mist fronds in the morning to freshen them without wetting soil.
 
 ------

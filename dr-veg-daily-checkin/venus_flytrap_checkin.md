@@ -1,13 +1,11 @@
-Your Venus flytrap is settling nicely into its outdoor summer spot with plenty of bright light and warm temps, which is exactly what it needs to thrive. Keep an eye on the water reservoir in the skull cachepot to ensure the soil stays consistently wet without drying out, especially with the heat pushing evaporation.
+Your Venus flytrap is settling well into its outdoor spot with strong light and warm temps, showing healthy new growth and no signs of distress. The skull cachepot reservoir setup is working nicely to keep the media wet, which is crucial since this plant hates drying out, especially in this hot, sunny weather with highs near 97°F and strong UV.
 
-Today, the top priority is to check the tray water level and refill with distilled or rainwater if it’s low, since dry media can stress your flytrap fast. Also, give the plant a quick look for any blackened traps or signs of crown softness, but don’t worry about a few brown traps—they’re normal as long as new growth looks healthy.
+Today, top off the tray with distilled or rainwater if it’s running low to keep the soil consistently moist but not flooded. Check that the media feels damp to the touch and watch for any drooping or darkening of healthy traps, which could signal water stress or heat issues. Optional: if you want to go the extra mile, gently remove any fully black traps to keep the plant tidy and improve airflow around the crown.
 
-Top care today: Check and top off the tray water with distilled or rainwater to keep the soil wet  
+Top off the tray water with distilled or rainwater if it’s low today.
 
-Watering: Keep the tray water shallow but never let it dry out completely  
+Feel the soil to confirm it’s wet but not soggy.
 
-Quick check: Look for any softening at the crown or new traps that look weak or discolored  
-
-Optional upgrade: If you want to go the extra mile, gently remove fully dead traps to keep the plant tidy and improve airflow  
+Look for any drooping or darkened healthy traps as a quick health check.
 
 ------

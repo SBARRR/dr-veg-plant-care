@@ -1,11 +1,11 @@
-Your Sago Palm is holding steady with healthy new growth despite some older fronds showing yellowing and spotting, which is normal aging or mild stress. With the hot weather and long sunshine hours, it’s great that you’re keeping it in filtered late-afternoon sun and good airflow on your porch, which helps prevent heat scorch and pests.
+Your Sago Palm is holding steady with healthy new growth despite some older fronds showing yellowing and spotting, which is normal aging and stress signs. With the warm, mostly sunny weather and moderate humidity, it’s a good time to keep an eye on soil moisture and avoid overwatering since the pot is shallow and dries quickly in heat.
 
-Since you watered yesterday after the soil dried, hold off on watering today to avoid soggy roots in that shallow bonsai pot. Keep an eye on the top 1–2 inches of soil drying out before the next watering, and gently check if any yellow fronds become mostly brown or loosen easily for removal. Optional: if you want to go the extra mile, consider lightly misting the fronds early in the morning to reduce dust and keep the plant fresh without wetting the soil.
+Today, focus on checking the top 1–2 inches of soil to confirm it’s dry before watering again—don’t water just because the surface looks dry if the pot still feels heavy. Also, give the yellowing fronds a gentle tug to see if they’re loosening but leave them attached unless they come away easily or turn mostly brown. Optionally, you could improve airflow around the plant by gently repositioning it or clearing nearby clutter to reduce any pest or rot risk.
 
-Water only when the top 1–2 inches of soil feel dry and the pot feels lighter.
+Check soil moisture before watering again.
 
-Check the firmness of yellow fronds today—remove only if mostly brown or very loose.
+Gently tug yellowing fronds to see if they’re ready to remove.
 
-If you want, lightly mist fronds in the morning to freshen them without wetting soil.
+(Optional) Clear space around the pot for better airflow to keep the crown dry.
 
 ------

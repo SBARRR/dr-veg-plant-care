@@ -1,11 +1,11 @@
-Your Southern Live Oak is holding steady after its recent transplant shock and root disturbance, which is great news given the hot, sunny weather with highs near 97°F and a dry forecast. Keep prioritizing steady moisture without sogginess, as the tree’s roots are still recovering and can’t handle drought or waterlogging well right now.
+Your Southern Live Oak is holding steady in its recovery after the big transplant and root disturbance last month, which is great news given the recent 95°F heat and strong sun exposure. Keep an eye on the leaf condition for any new browning or orange powdery spots, especially since the tree is still adjusting and the soil should stay moist but not soggy to avoid stress or root rot.
 
-Today, focus on checking the soil moisture by feeling the top 2–3 inches and the pot weight before deciding to water; if it’s still moist, hold off. Water deeply only when the soil starts to dry, letting excess drain fully, and keep an eye on leaf posture for any signs of heat stress or wilting. Optionally, you can gently increase airflow around the tree to help prevent fungal issues like the orange powdery spots you noticed earlier.
+Today’s priority is to maintain steady moisture without overwatering—since the soil was cool and moist yesterday, hold off watering unless the top 2–3 inches feel dry or the pot feels noticeably lighter. Check the soil moisture by feeling the topsoil and lifting the pot to gauge weight; this simple check helps avoid both drought and soggy roots. If you want to go the extra mile, consider gently improving airflow around the pot to reduce fungal risks and help the tree cope with the heat.
 
-Check soil moisture before watering
+Water deeply only if the top 2–3 inches of soil are dry and the pot feels light.
 
-Water deeply only when topsoil feels dry, ensuring good drainage
+Check the soil moisture and pot weight before deciding to water today.
 
-Look for any new leaf browning, wilting, or powdery spots
+Optionally, gently increase airflow around the tree by moving the pot slightly or trimming any nearby dense foliage blocking breeze.
 
 ------

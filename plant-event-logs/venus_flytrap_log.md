@@ -3,7 +3,7 @@
 ## Current Snapshot
 <!-- Current state and durable care facts for this specific plant. This section should preserve important information that should not disappear. -->
 
-- Last updated: 2026-06-24
+- Last updated: 2026-06-25
   <!-- Date this snapshot was last revised. -->
 
 - Overall condition: Recovering from poor condition at purchase and adapting well to outdoor placement. Healthy new growth continues to emerge from the crown and no major decline has been observed.
@@ -33,7 +33,7 @@
 - Current concern: Continue monitoring outdoor acclimation, reservoir consistency, crown/base health, and whether healthy new growth continues. Watch for renewed drooping, darkening of healthy green traps, crown/base softening, or other signs of decline.
   <!-- Main current issue, risk, or monitoring focus. None is also a valid option. -->
 
-- Latest check-in notes: On 2026-06-24, growth remained steady and no new issues were reported.
+- Latest check-in notes: On 2026-06-25, no new changes or issues were reported.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events

@@ -1,11 +1,11 @@
-Your Desert Rose is recovering well after the big root prune and repot, with firmness improving and no new signs of rot or decline. The current warm, mostly sunny weather with some afternoon filtered sun suits it nicely, but keep in mind it still needs careful watering since the roots are limited and the pot is shallow.
+Your Desert Rose is steadily recovering from the big root prune and repot, and the caudex firmness is improving, which is great news. With today's warm, mostly sunny weather and moderate humidity, it's a good time to keep the plant warm and dry without rushing to water—its soil should be fully dry before the next watering.
 
-Today, the top priority is to avoid watering again until the soil is fully dry, as the mix is still moist from your last watering on June 22. Check the caudex firmness and soil dryness before considering water—firm caudex and moist soil mean hold off. Optionally, you can gently inspect the old root-removal site for any soft spots or discoloration, but no action needed unless you see mushiness or rot.
+Since you watered two days ago and the soil was dry yesterday, hold off on watering today to avoid soggy roots, especially after such a major root disturbance. Check the caudex firmness again—if it feels firm and not mushy or overly soft, that’s a good sign; if it’s wrinkled, a light watering might be due soon. Optional: consider gently shielding the plant from the strongest afternoon sun if you notice any leaf scorch, as it’s still settling in.
 
-Hold off watering until soil is dry and caudex feels firm
+Hold off watering today; wait until the soil is dry and the caudex feels firm before watering again.
 
-Check caudex firmness and soil moisture before watering
+Check the caudex firmness and soil dryness to confirm no softness or wetness is developing.
 
-Optionally, inspect the old root-removal site for softness or dark spots
+If you want to go the extra mile, gently monitor for any new leaf spots or pests since the last treatment, but don’t stress about it unless symptoms worsen.
 
 ------

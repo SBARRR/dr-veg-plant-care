@@ -1,11 +1,15 @@
-Your Desert Rose is steadily recovering from the big root prune and repot, and the caudex firmness is improving, which is great news. With today's warm, mostly sunny weather and moderate humidity, it's a good time to keep the plant warm and dry without rushing to water—its soil should be fully dry before the next watering.
+Your Desert Rose is steadily recovering from its major root pruning and repotting earlier this month, with caudex firmness improving and no new signs of decline. The warm, mostly sunny weather with some afternoon filtered sun suits it well, but keep it shielded from heavy rain and avoid watering too soon to prevent stress or rot.
 
-Since you watered two days ago and the soil was dry yesterday, hold off on watering today to avoid soggy roots, especially after such a major root disturbance. Check the caudex firmness again—if it feels firm and not mushy or overly soft, that’s a good sign; if it’s wrinkled, a light watering might be due soon. Optional: consider gently shielding the plant from the strongest afternoon sun if you notice any leaf scorch, as it’s still settling in.
+Today, the key action is to hold off on watering until the soil is fully dry and the caudex feels firm, as overwatering during recovery is the biggest risk. Give the pot a gentle lift to gauge its weight—if it feels light, the soil is likely dry enough for a thorough watering.
 
-Hold off watering today; wait until the soil is dry and the caudex feels firm before watering again.
+Check the lower caudex and root-removal site for any soft spots or dark discoloration, which could signal trouble. Optionally, you can improve airflow around the plant by gently repositioning it on the rack to reduce humidity buildup and speed soil drying.
 
-Check the caudex firmness and soil dryness to confirm no softness or wetness is developing.
+Hold watering until soil is dry and caudex feels firm.
 
-If you want to go the extra mile, gently monitor for any new leaf spots or pests since the last treatment, but don’t stress about it unless symptoms worsen.
+Lift pot to check soil dryness by weight.
+
+Inspect lower caudex and root site for softness or dark spots.
+
+Consider repositioning plant for better airflow to aid drying.
 
 ------

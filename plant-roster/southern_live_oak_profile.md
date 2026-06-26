@@ -63,4 +63,3 @@
 - Species ID note: Grew from a neighborhood acorn and is suspected to be Southern live oak / Quercus virginiana, but the exact oak species has not been formally confirmed.
 
 - Long-term goal: Train this Southern Live Oak as a bonsai over time. Prioritize recovery, trunk/root health, and gradual development before any aggressive styling or root reduction.
-  <!-- Stable notes about this specific plant that do not fit elsewhere. Do not use this for daily care events. -->

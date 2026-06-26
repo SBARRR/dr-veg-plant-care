@@ -59,4 +59,3 @@
 ## Miscellaneous Notes
 
 -
-  <!-- Stable notes about this specific plant that do not fit elsewhere. Do not use this for daily care events. -->

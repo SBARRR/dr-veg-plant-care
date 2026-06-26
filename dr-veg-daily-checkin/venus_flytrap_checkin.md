@@ -1,11 +1,11 @@
-Your Venus Flytrap is settling well into its outdoor spot with plenty of bright sun and steady new growth from the crown, which is a great sign. With the warm weather and moderate humidity, keeping the media consistently wet using distilled or rainwater is key to avoid stress, especially since the pot sits inside that skull cachepot reservoir.
+Your Venus Flytrap is settling well outdoors with healthy new growth showing, which is great given the recent warm weather and bright sun. Keep an eye on the water level in the skull cachepot reservoir since the heat and sun can dry out the media quickly, but avoid letting it sit in stagnant or mineral-heavy water.
 
-Today, top off the tray water if it’s low to keep the soil wet but avoid flooding or letting it dry out. Check the traps and crown for any drooping or darkening signs, and only remove fully blackened traps to keep the plant healthy. If you want to go the extra mile, gently rinse the tray water every couple of weeks to prevent algae buildup without disturbing the roots.
+Today’s priority is to confirm the tray water is still wet and topped off with distilled, rain, or RO water to keep the roots happy and prevent drying. Check the traps and leaves for any signs of browning or drooping that might indicate heat stress or water issues, and remove only fully dead traps if needed.
 
-Top off the tray with distilled or rainwater if it’s low today
+Top off the tray water with distilled, rain, or RO water if it feels less than damp.
 
-Check traps and crown for drooping, darkening, or soft spots
+Check that the media is consistently wet but not flooded, and the tray water is clean and fresh.
 
-(Optional) Rinse tray water every 1–2 weeks to reduce algae buildup without root disturbance
+(Optional) If you want to go the extra mile, consider moving the plant to a spot with a bit of afternoon shade to avoid potential heat scorch on the hottest days.
 
 ------

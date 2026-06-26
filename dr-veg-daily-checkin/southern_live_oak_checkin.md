@@ -1,11 +1,11 @@
-Your Southern Live Oak is settling into its new pot after the big transplant about a month ago, and it looks stable so far with no new major issues. The current warm weather with some thunderstorms and moderate humidity means the soil is likely staying moist enough, so keep an eye on soil moisture to avoid overwatering since the oak hates soggy roots but also shouldn’t dry out completely while recovering.
+Your Southern Live Oak is holding steady in its new pot after the big transplant last month, which is great news given the root disturbance. With the current hot weather hitting mid-90s and a decent 5–6 hours of direct sun, it’s crucial to keep the soil moist but not soggy—this balance helps avoid stress from heat and root damage.
 
-Today, the top priority is to check the soil moisture by feeling the top 2–3 inches and lifting the pot to gauge weight—water deeply only if it feels dry or light, letting excess drain freely. Also, scan the leaves for any return of orange powdery spots or new browning, which could signal fungus or stress. If you want to go the extra mile, consider gently improving airflow around the pot by moving it slightly or trimming any nearby plants to reduce humidity buildup and discourage fungal issues.
+Today, focus on checking the top 2–3 inches of soil for dryness before watering; if it feels dry there, give it a deep soak until water drains out, then let it drain fully. Also, keep an eye on any return of orange powdery spots or new leaf browning, as these could signal fungal issues or stress. If you want to go the extra mile, gently lifting the pot to gauge weight can help you better judge moisture without digging into the soil.
 
-Check soil moisture and pot weight before watering today
+Check the soil moisture in the top 2–3 inches before watering.
 
-Water deeply only if soil feels dry in top 2–3 inches
+Water deeply only if the soil feels dry at that depth, then let the pot drain fully.
 
-Look for any new orange spots or leaf browning on the canopy
+Look for any new orange powdery spots or browning leaves to catch early signs of fungus or stress.
 
 ------

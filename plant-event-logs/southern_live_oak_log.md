@@ -3,7 +3,7 @@
 ## Current Snapshot
 <!-- Current state and durable care facts for this specific plant. This section should preserve important information that should not disappear. -->
 
-- Last updated: 2026-06-26
+- Last updated: 2026-06-27
   <!-- Date this snapshot was last revised. -->
 
 - Overall condition: Recovering from major ground-to-pot transplant and root disturbance performed on 2026-05-26. Tree appears stable and is being monitored for continued transplant recovery.
@@ -33,7 +33,7 @@
 - Current concern: Monitor transplant recovery, especially leaf browning/drop, new growth posture, heat stress, and whether the previously observed orange powdery spotting returns or spreads.
   <!-- Main current issue, risk, or monitoring focus. None is also a valid option. -->
 
-- Latest check-in notes: On 2026-06-26, no new changes or issues were reported.
+- Latest check-in notes: On 2026-06-27, soil remained moist and no new changes or issues were reported.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events

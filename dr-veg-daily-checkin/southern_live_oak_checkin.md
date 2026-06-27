@@ -1,11 +1,13 @@
-Your Southern Live Oak is holding steady in its new pot after the big transplant last month, which is great news given the root disturbance. With the current hot weather hitting mid-90s and a decent 5–6 hours of direct sun, it’s crucial to keep the soil moist but not soggy—this balance helps avoid stress from heat and root damage.
+Your Southern Live Oak is steadily recovering from its recent transplant and root disturbance, showing stable leaf posture and no new major issues. With today’s warm, partly sunny weather and a slight chance of a brief thunderstorm, it’s a good time to keep the soil moist but not soggy, as the tree still needs steady moisture to support root recovery without risking root rot.
 
-Today, focus on checking the top 2–3 inches of soil for dryness before watering; if it feels dry there, give it a deep soak until water drains out, then let it drain fully. Also, keep an eye on any return of orange powdery spots or new leaf browning, as these could signal fungal issues or stress. If you want to go the extra mile, gently lifting the pot to gauge weight can help you better judge moisture without digging into the soil.
+Since the soil feels cool and somewhat moist, hold off on watering for now but check the top 2–3 inches of soil tomorrow to confirm it’s drying out before watering again. Keep an eye on any return of orange powdery spots or leaf browning, and maintain good airflow around the tree to prevent fungal issues. If you want to go the extra mile, consider gently loosening the pine bark mulch ring to improve air circulation near the trunk.
 
-Check the soil moisture in the top 2–3 inches before watering.
+Check soil moisture tomorrow before watering again.
 
-Water deeply only if the soil feels dry at that depth, then let the pot drain fully.
+Water deeply only when the top 2–3 inches feel dry.
 
-Look for any new orange powdery spots or browning leaves to catch early signs of fungus or stress.
+Look for any new leaf browning or orange powdery spots.
+
+(Optional) Loosen mulch slightly to boost airflow around the trunk.
 
 ------

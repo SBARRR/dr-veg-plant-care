@@ -1,15 +1,11 @@
-Your Desert Rose is steadily recovering from its major root pruning and repotting earlier this month, with caudex firmness improving and no new signs of decline. The warm, mostly sunny weather with some afternoon filtered sun suits it well, but keep it shielded from heavy rain and avoid watering too soon to prevent stress or rot.
+Your Desert Rose is still in recovery mode after that big root prune and repot earlier this month, so the key today is to keep it warm and dry, avoiding any watering until the soil is fully dry and the caudex feels firm again. With the recent thunderstorm and high humidity, double-check that the pot isn’t sitting in any standing water or overly damp soil, as that could risk rot in the exposed caudex and shallow bonsai pot.
 
-Today, the key action is to hold off on watering until the soil is fully dry and the caudex feels firm, as overwatering during recovery is the biggest risk. Give the pot a gentle lift to gauge its weight—if it feels light, the soil is likely dry enough for a thorough watering.
+Since you watered yesterday, hold off on watering now and instead gently press the soil or lift the pot to gauge dryness and caudex firmness—if the caudex feels firm and the soil is dry several inches down, you’re on track. If you want to go the extra mile, consider moving the plant to a spot with a bit more late-afternoon filtered sun to encourage steady growth without stressing it with harsh direct sun just yet.
 
-Check the lower caudex and root-removal site for any soft spots or dark discoloration, which could signal trouble. Optionally, you can improve airflow around the plant by gently repositioning it on the rack to reduce humidity buildup and speed soil drying.
+Hold off watering today; only water when soil is dry and caudex is firm.
 
-Hold watering until soil is dry and caudex feels firm.
+Check soil dryness by touch and caudex firmness by gentle squeeze.
 
-Lift pot to check soil dryness by weight.
-
-Inspect lower caudex and root site for softness or dark spots.
-
-Consider repositioning plant for better airflow to aid drying.
+Optionally, shift plant slightly for a bit more filtered afternoon sun to boost recovery.
 
 ------

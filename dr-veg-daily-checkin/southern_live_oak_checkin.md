@@ -1,13 +1,11 @@
-Your Southern Live Oak is steadily recovering from its recent transplant and root disturbance, showing stable leaf posture and no new major issues. With today’s warm, partly sunny weather and a slight chance of a brief thunderstorm, it’s a good time to keep the soil moist but not soggy, as the tree still needs steady moisture to support root recovery without risking root rot.
+Your Southern Live Oak is holding steady after the big transplant shock about a month ago, which is great news given the root disturbance. With the recent heat and a brief thunderstorm, the key is keeping the soil moist but not soggy—this tree is still in recovery mode and needs steady hydration without drowning.
 
-Since the soil feels cool and somewhat moist, hold off on watering for now but check the top 2–3 inches of soil tomorrow to confirm it’s drying out before watering again. Keep an eye on any return of orange powdery spots or leaf browning, and maintain good airflow around the tree to prevent fungal issues. If you want to go the extra mile, consider gently loosening the pine bark mulch ring to improve air circulation near the trunk.
+Today, focus on checking the soil moisture about 2–3 inches down and the pot’s weight to decide if watering is needed; if it feels dry or light, give it a deep soak until water drains out. Keep an eye on leaf posture for any signs of heat stress or returning orange powdery spots, trimming only fully affected leaves if needed.
 
-Check soil moisture tomorrow before watering again.
+Check soil moisture 2–3 inches deep before watering.
 
-Water deeply only when the top 2–3 inches feel dry.
+Water deeply only if soil feels dry or pot is light, avoiding soggy conditions.
 
-Look for any new leaf browning or orange powdery spots.
-
-(Optional) Loosen mulch slightly to boost airflow around the trunk.
+Look for any new orange powdery spots or leaf browning and trim affected leaves carefully.
 
 ------

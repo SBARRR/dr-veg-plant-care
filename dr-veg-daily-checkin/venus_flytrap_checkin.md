@@ -1,11 +1,11 @@
-Your Venus flytrap is settling nicely into its outdoor summer spot with about 5–6 hours of strong sun, which is perfect for healthy trap color and growth. The recent thunderstorms and warm temps mean the air is humid and the media should stay moist naturally, but keep an eye on that water tray inside the skull cachepot to avoid drying out or overheating the roots in the midday sun.
+Your Venus Flytrap is settling well outdoors with healthy new growth showing, which is great given the warm, sunny weather with some thunderstorms today. Keep an eye on the tray water level since the heat and sun can dry the media quickly, but the brief rain chance might help a bit—just avoid letting the soil dry out or the tray go empty.
 
-Today, the top priority is to check the tray water level and refill with distilled, rain, or RO water if it’s low—never let the soil dry out. Also, give the plant a quick look for any blackening traps or soft spots at the crown, which could signal stress. If you want to go the extra mile, gently remove any fully dead traps to keep things tidy and airflow good around the base.
+Today’s priority is maintaining consistently wet media using distilled, rain, or RO water in the tray reservoir to keep roots happy. Check that the tray still has water and the soil feels damp, not dry or crunchy, and watch for any signs of browning or softness at the crown that could signal stress. If you want to go the extra mile, gently remove any fully dead traps to keep the plant tidy and airflow good.
 
-Check tray water and top off with distilled/rain/RO water if needed
+Top priority: Keep the tray water topped off with distilled, rain, or RO water to maintain wet media.
 
-Look over the crown and traps for any darkening or softness
+Watering: Check the tray and media moisture now; refill the tray if the water is low or empty.
 
-Optionally, prune only fully dead traps to help airflow and appearance
+Check: Look over the crown and traps for any new browning or softness indicating stress.
 
 ------

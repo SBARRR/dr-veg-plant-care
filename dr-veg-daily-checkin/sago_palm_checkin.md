@@ -1,11 +1,11 @@
-Your Sago Palm is holding steady with healthy new growth despite some older fronds showing normal yellowing and spotting, which is typical for this slow-growing cycad. Given the warm, humid weather with a recent light rain and a 35% chance of more showers, the soil might still have some moisture, so be cautious not to overwater.
+Your Sago Palm is holding steady with healthy new growth despite some yellowing on older fronds, which is normal for this slow-growing cycad. With the recent thunderstorm and warm temps, the soil should still have some moisture, so no rush to water yet—overwatering is the bigger risk here, especially in a shallow bonsai pot.
 
-Today, the priority is to check the soil moisture before deciding to water again—since you watered yesterday, the top 1–2 inches of soil should be dry before the next watering. Give the pot a gentle lift to gauge weight and confirm drainage is clear, ensuring the plant isn’t sitting in any standing water. If you want to go the extra mile, consider gently brushing aside the top dressing occasionally to prevent it from hiding moisture levels or pests.
+Today, focus on checking the top 1–2 inches of soil for dryness before watering again, and make sure the pot’s drainage is clear so water doesn’t pool. If you want to go the extra mile, gently remove any fronds that turn fully brown or loose, but leave the yellowish ones alone for now—they’re still doing their job.
 
-Check soil moisture before watering again.
+Check soil moisture before watering again
 
-Water only if the top 1–2 inches of soil feel dry and the pot feels light.
+Water only if the top 1–2 inches of soil feel dry and the pot feels light
 
-Check that the drip tray and pot drainage holes are clear and dry.
+Look under the pot and in the drip tray to confirm no standing water is present
 
 ------

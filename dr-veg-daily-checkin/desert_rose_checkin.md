@@ -1,11 +1,11 @@
-Your Desert Rose is still in recovery mode after that big root prune and repot earlier this month, so the key today is to keep it warm and dry, avoiding any watering until the soil is fully dry and the caudex feels firm again. With the recent thunderstorm and high humidity, double-check that the pot isn’t sitting in any standing water or overly damp soil, as that could risk rot in the exposed caudex and shallow bonsai pot.
+Your Desert Rose is steadily recovering from its major root pruning and repotting earlier this month, with caudex firmness improving and no new signs of distress. The current warm, sunny weather with some afternoon filtered sun suits it well, but keep an eye on soil moisture since the recent watering on June 26 means the soil is still moist and the plant needs time to dry out before the next watering.
 
-Since you watered yesterday, hold off on watering now and instead gently press the soil or lift the pot to gauge dryness and caudex firmness—if the caudex feels firm and the soil is dry several inches down, you’re on track. If you want to go the extra mile, consider moving the plant to a spot with a bit more late-afternoon filtered sun to encourage steady growth without stressing it with harsh direct sun just yet.
+Today, the top priority is to let the soil dry thoroughly before watering again to avoid rot, especially given the plant’s recent stress and shallow pot. Check the caudex firmness and soil dryness by lifting the pot and feeling the caudex—firm and slightly shriveled is good, soft or mushy is a warning. Optionally, you can gently inspect the root zone if you notice any soft spots or odor, but avoid disturbing the plant unnecessarily while it recovers.
 
-Hold off watering today; only water when soil is dry and caudex is firm.
+Hold off on watering until the soil is dry several inches deep
 
-Check soil dryness by touch and caudex firmness by gentle squeeze.
+Check caudex firmness and pot weight to confirm dryness before watering again
 
-Optionally, shift plant slightly for a bit more filtered afternoon sun to boost recovery.
+Optionally, consider moving the pot slightly to ensure no standing water collects under it after rain
 
 ------

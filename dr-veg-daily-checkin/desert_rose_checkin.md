@@ -1,11 +1,11 @@
-Your Desert Rose is steadily recovering from its major root pruning and repotting earlier this month, with caudex firmness improving and no new signs of distress. The current warm, sunny weather with some afternoon filtered sun suits it well, but keep an eye on soil moisture since the recent watering on June 26 means the soil is still moist and the plant needs time to dry out before the next watering.
+Your Desert Rose is still in recovery from that big root prune and repot, so keep it warm and dry today to avoid stressing it further. With the hot weather and moderate humidity, it’s a good time to let the soil dry out fully before watering again, especially since you watered just a few days ago.
 
-Today, the top priority is to let the soil dry thoroughly before watering again to avoid rot, especially given the plant’s recent stress and shallow pot. Check the caudex firmness and soil dryness by lifting the pot and feeling the caudex—firm and slightly shriveled is good, soft or mushy is a warning. Optionally, you can gently inspect the root zone if you notice any soft spots or odor, but avoid disturbing the plant unnecessarily while it recovers.
+Check the caudex firmness gently to ensure it’s still firm and not soft or mushy.
 
-Hold off on watering until the soil is dry several inches deep
+Hold off on watering until the soil feels dry several inches down.
 
-Check caudex firmness and pot weight to confirm dryness before watering again
+Keep the plant out of direct midday sun to avoid heat stress while it recovers.
 
-Optionally, consider moving the pot slightly to ensure no standing water collects under it after rain
+If you want to be extra cautious, place a small tray underneath to catch any rainwater and empty it promptly to prevent soggy roots.
 
 ------

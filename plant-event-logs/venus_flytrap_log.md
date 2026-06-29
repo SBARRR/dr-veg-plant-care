@@ -3,13 +3,13 @@
 ## Current Snapshot
 <!-- Current state and durable care facts for this specific plant. This section should preserve important information that should not disappear. -->
 
-- Last updated: 2026-06-28
+- Last updated: 2026-06-29
   <!-- Date this snapshot was last revised. -->
 
 - Overall condition: Recovering from poor condition at purchase and adapting well to outdoor placement. Healthy new growth continues to emerge from the crown and no major decline has been observed.
   <!-- Broad current health/status of the plant. Example: stable, recovering, declining, newly rescued, stressed, dormant, unknown. -->
 
-- Watering status: On 2026-06-26, reservoir was preemptively topped off after the water level was getting low but was not yet depleted. Previous top off was done 2026-06-23.
+- Watering status: On 2026-06-29, reservoir was topped off after the water level was low. Previous top off was done 2026-06-26.
   <!-- Latest watering state or other water-related context needed for daily advice. -->
 
 - Fertilizer status: No fertilizer or plant food has been given.
@@ -27,13 +27,13 @@
 - Last root prune: None known; no root pruning or root disturbance has been performed since purchase.
   <!-- Most recent root pruning or major root disturbance. -->
 
-- Last prune: 2026-06-19; user removed the fully brown trap mouth/tip from a partially green leaf, leaving the green lower stem/leaf tissue attached.
+- Last prune: 2026-06-29; user removed some brown and blackened dead trap and leaf tissue.
   <!-- Most recent above-ground pruning/removal, such as leaves, traps, fronds, branches, flowers, or dead material. -->
 
 - Current concern: Continue monitoring outdoor acclimation, reservoir consistency, crown/base health, and whether healthy new growth continues. Watch for renewed drooping, darkening of healthy green traps, crown/base softening, or other signs of decline.
   <!-- Main current issue, risk, or monitoring focus. None is also a valid option. -->
 
-- Latest check-in notes: On 2026-06-28, growth continued steadily, reservoir level was fine, and no new changes or issues were reported.
+- Latest check-in notes: On 2026-06-29, user observed that growth appeared slower than before. New growth was still emerging from the center, but some previously new traps appeared to have plateaued, were not opening, and had not developed red interiors.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events

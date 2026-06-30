@@ -3,13 +3,13 @@
 ## Current Snapshot
 <!-- Current state and durable care facts for this specific plant. This section should preserve important information that should not disappear. -->
 
-- Last updated: 2026-06-29
+- Last updated: 2026-06-30
   <!-- Date this snapshot was last revised. -->
 
 - Overall condition: Recovering from major ground-to-pot transplant and root disturbance performed on 2026-05-26. Tree appears stable and is being monitored for continued transplant recovery.
   <!-- Broad current health/status of the plant. Example: stable, recovering, declining, newly rescued, stressed, dormant, unknown. -->
 
-- Watering status: On 2026-06-26, user watered the Southern Live Oak with approximately 3/4 gallon. Previous watering was on 2026-06-21 with 1 gallon.
+- Watering status: On 2026-06-30, plant was watered by rain. Previous user watering was on 2026-06-26 with approximately 3/4 gallon.
   <!-- Latest watering state or other water-related context needed for daily advice. -->
 
 - Fertilizer status: No recent fertilizer; last fertilized roughly over a year ago while in-ground using slow-release bonsai pellets sprinkled on the soil surface.
@@ -33,7 +33,7 @@
 - Current concern: Monitor transplant recovery, especially leaf browning/drop, new growth posture, heat stress, and whether the previously observed orange powdery spotting returns or spreads.
   <!-- Main current issue, risk, or monitoring focus. None is also a valid option. -->
 
-- Latest check-in notes: On 2026-06-29, soil was still moist and watering was withheld. User may be seeing a renewed wave of leaf browning, and orange spots appeared to extend farther down the canopy than previously noticed.
+- Latest check-in notes: On 2026-06-30, no new changes or issues were reported.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events

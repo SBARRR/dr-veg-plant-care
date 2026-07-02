@@ -3,7 +3,7 @@
 ## Current Snapshot
 <!-- Current state and durable care facts for this specific plant. This section should preserve important information that should not disappear. -->
 
-- Last updated: 2026-07-01
+- Last updated: 2026-07-02
   <!-- Date this snapshot was last revised. -->
 
 - Overall condition: Recovering from major ground-to-pot transplant and root disturbance performed on 2026-05-26. Tree appears stable and is being monitored for continued transplant recovery.
@@ -33,11 +33,19 @@
 - Current concern: Monitor transplant recovery, especially leaf browning/drop, new growth posture, heat stress, and whether the previously observed orange powdery spotting returns or spreads.
   <!-- Main current issue, risk, or monitoring focus. None is also a valid option. -->
 
-- Latest check-in notes: On 2026-07-01, no new changes or issues were reported.
+- Latest check-in notes: On 2026-07-02, soil was moist and no watering was done.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events
 <!-- Rolling event log for this plant. Keep newest 30 entries only. Newest entry goes at the top. When adding entry #31, delete the oldest entry. -->
+
+### 2026-07-02 — Orange Spots and Renewed Browning Concern
+
+- Summary: User became more concerned that the Southern Live Oak's orange spotting and renewed browning may need an active plan soon.
+
+- Details: User reported that the browning looks like it may be getting worse, and the orange spots may be getting worse or staying about the same. User wants to make a plan soon to address both the orange spots and the renewed browning.
+
+- Outcome: No treatment, pruning, or watering action was taken today. Issue is being preserved for near-term planning.
 
 ### 2026-06-09 — First Outdoor Overnight / Heat and Leaf Check
 

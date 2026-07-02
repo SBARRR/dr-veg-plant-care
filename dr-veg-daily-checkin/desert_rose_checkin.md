@@ -1,13 +1,13 @@
-Your Desert Rose is still in recovery mode from that big root prune and repot, so keep things gentle and dry for now—no watering unless the soil is bone dry and the caudex feels firm. The warm, mostly sunny porch spot is perfect, just keep an eye on that lower caudex for any soft spots or weird smells that could signal trouble. Since rain might sneak in, make sure the pot isn’t sitting in any water after storms.
+Your Desert Rose is still in recovery from that big root prune and repot, so keep it warm and let it dry out well between waterings to avoid stressing those fragile roots. The afternoon filtered sun is good for now—no need to push more light until it’s stronger and growing actively again.
 
-Hold off on watering unless the soil is completely dry and the caudex feels firm.
+Top priority: Avoid watering today since recent rain likely kept the soil moist; wait until the soil feels dry several inches down before watering again.
 
-Check the lower caudex and root-removal site for any softness, discoloration, or odd smells.
+Watering guidance: Check pot weight and soil dryness before watering deeply, then let excess drain fully without leaving water in any tray.
 
-Make sure the pot drains fully after rain and isn’t sitting in water.
+One useful check: Gently feel the caudex firmness—firm is good, soft or mushy means trouble and needs immediate attention.
 
-If you want to boost recovery, gently increase afternoon sun exposure but avoid harsh midday rays.
+Optional: If you want to boost recovery, consider moving the pot slightly to catch a bit more late afternoon sun gradually, but don’t rush it.
 
-Consider setting a simple reminder to check soil dryness every 3 days to avoid accidental overwatering.
+Optional: Keep an eye on any new leaf spots or pests since you had some early leaf issues; a quick glance under leaves is easy and helpful.
 
 ------

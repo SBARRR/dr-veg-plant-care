@@ -1,13 +1,13 @@
-Keep the Southern Live Oak’s soil evenly moist but not soggy today, especially with the heat and recent transplant stress. Since orange spots and browning are still a concern, avoid any fertilizer or pruning for now and focus on steady recovery with good airflow and stable moisture.
+Today, keep your Southern Live Oak’s soil evenly moist but not soggy to support its recovery from transplant shock and root damage. Watch for any worsening of the orange spots or browning, but avoid any pruning or treatments unless the situation clearly deteriorates. The overcast weather with moderate heat means the tree won’t dry out too fast, so steady moisture is key.
 
-Check soil moisture by feeling the top 2 inches; water deeply only if it feels dry.
+Top priority: Check soil moisture and water deeply only if the top 2–3 inches feel dry to the touch.
 
-Top priority: Ensure the pot drains fully after watering and is not sitting in any water.
+Watering guidance: Water slowly until you see drainage from the pot holes, then let it drain fully without standing water.
 
-Watering guidance: Deep water until runoff, then let the pot drain completely before returning it to its stand.
+One useful check: Inspect the leaves for any increase in orange spotting or browning and note if new leaves look healthy and firm.
 
-One useful check: Inspect leaves for any increase in orange powdery spots or new browning to catch early signs of worsening.
+Optional care improvement: If orange spots worsen noticeably, consider gently rinsing leaves with water to reduce surface spores without chemicals.
 
-Optional: If you notice stagnant air around the tree, gently increase airflow by repositioning it slightly or trimming nearby plants to reduce humidity buildup.
+Optional practical idea: Move the pot slightly to maximize morning sun exposure while avoiding harsh afternoon heat to aid recovery.
 
 ------

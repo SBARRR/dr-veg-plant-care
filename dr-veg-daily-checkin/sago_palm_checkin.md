@@ -1,13 +1,11 @@
-Today’s Sago Palm is fine holding off on water since the soil is still moist from recent rain and watering. Keep an eye on the soil drying out in this warm, humid weather with some afternoon sun filtering through the porch screen. Let those yellowing older fronds stay for now—they’re still doing their thing.
+Today’s focus is on keeping the sago palm’s soil from staying too wet given the recent rain and warm, humid weather. Let the top inch or two dry out before watering again to avoid soggy roots in that shallow bonsai pot.
 
-Top priority: Don’t water today; wait until the top 1–2 inches of soil feel dry before watering again.
+Check the soil moisture by feeling the top 1–2 inches before deciding to water.
 
-Watering guidance: When you do water next, soak thoroughly until water drains well, then empty the drip tray to avoid standing water.
+Make sure the pot’s drainage holes are clear and that no water is pooling in the drip tray under the river rocks.
 
-Check: Feel the pot weight and poke the soil surface to confirm dryness before watering.
+Optional: If you want, gently brush off any yellowing frond spots to keep the plant tidy without removing fronds prematurely.
 
-Optional: If you want, gently brush off the white gravel top dressing to check soil moisture more easily next time.
-
-Optional: Consider moving the plant slightly if afternoon sun seems too intense and causes leaf tip browning.
+Optional: Consider moving the plant slightly if afternoon sun feels too intense through the patio screen to prevent scorch.
 
 ------

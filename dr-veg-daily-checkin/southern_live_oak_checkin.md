@@ -1,13 +1,13 @@
-Today, keep your Southern Live Oak’s soil evenly moist but not soggy to support its recovery from transplant shock and root damage. Watch for any worsening of the orange spots or browning, but avoid any pruning or treatments unless the situation clearly deteriorates. The overcast weather with moderate heat means the tree won’t dry out too fast, so steady moisture is key.
+Keep your Southern Live Oak’s soil evenly moist but not soggy today, especially since it’s still recovering from transplant shock and root damage. The overcast sky and recent rain help, but with warm temps and moderate humidity, watch for any signs of stress or worsening leaf spots. Avoid any fertilizer or pruning until you see steady new growth.
 
-Top priority: Check soil moisture and water deeply only if the top 2–3 inches feel dry to the touch.
+Top priority/action for today: Monitor the orange spotting and browning closely and remove any fully dead leaves to reduce stress and disease risk.
 
-Watering guidance: Water slowly until you see drainage from the pot holes, then let it drain fully without standing water.
+Watering guidance: Check the top 2–3 inches of soil; water deeply only if it feels dry there, letting excess drain fully.
 
-One useful check: Inspect the leaves for any increase in orange spotting or browning and note if new leaves look healthy and firm.
+One useful check: Inspect the canopy for any new orange powdery spots or leaf browning and note if the new growth looks healthy and upright.
 
-Optional care improvement: If orange spots worsen noticeably, consider gently rinsing leaves with water to reduce surface spores without chemicals.
+Optional care improvement: If the soil feels heavy or slow to drain, consider gently loosening the surface mulch to improve airflow around the base.
 
-Optional practical idea: Move the pot slightly to maximize morning sun exposure while avoiding harsh afternoon heat to aid recovery.
+Optional practical idea: Set a simple reminder to check soil moisture every 2–3 days to avoid over- or underwatering during recovery.
 
 ------

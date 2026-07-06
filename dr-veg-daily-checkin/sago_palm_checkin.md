@@ -1,13 +1,11 @@
-Today, keep a close eye on soil moisture since the porch didn’t get rain and it’s still quite warm and humid. Your sago palm’s slow growth means it’s fine to wait for the top 1–2 inches to dry before watering, but don’t let the shallow bonsai pot stay dry too long in this heat. The older yellowing fronds can hang out a bit longer unless they brown fully or loosen easily.
+Today’s focus is on keeping your sago palm comfortably moist without overwatering, especially since recent rain likely added some moisture. The afternoon filtered sun is perfect, so no need to move it, but keep an eye on how quickly the shallow bonsai pot dries in this heat.
 
-Check soil moisture at the top 1–2 inches before watering.
+Check the top 1–2 inches of soil to confirm it’s dry before watering again.
 
-Water thoroughly only if the soil feels dry, then let excess drain completely.
+Hold off watering if the soil still feels damp from recent rain.
 
-Gently tug on the yellowing fronds to see if any are ready to be removed.
+Gently tug any yellowing fronds to see if they’re loosening but leave them until mostly brown or easily pulled.
 
-Optional: If you want, clear away some of the top dressing to better monitor soil dryness.
-
-Optional: Consider moving the pot slightly to maximize morning filtered light and avoid the hottest afternoon sun.
+(Optional) Consider lightly misting nearby air or increasing airflow if humidity feels too high to help prevent fungal issues.
 
 ------

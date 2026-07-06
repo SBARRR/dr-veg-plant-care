@@ -3,13 +3,13 @@
 ## Current Snapshot
 <!-- Current state and durable care facts for this specific plant. This section should preserve important information that should not disappear. -->
 
-- Last updated: 2026-07-05
+- Last updated: 2026-07-06
   <!-- Date this snapshot was last revised. -->
 
-- Overall condition: Recovering after major repot/root work and severe root reduction performed on 2026-06-01. Plant must be monitored through post-repot recovery. As of 2026-07-02 plant is stable and improving, with caudex firmness previously increased and new leaf growth progressing well.
+- Overall condition: Stable and improving after the 2026-06-01 repot and major root reduction.
   <!-- Broad current health/status of the plant. Example: stable, recovering, declining, newly rescued, stressed, dormant, unknown. -->
 
-- Watering status: On 2026-07-01, pot was watered again by rain coming through the screened porch. Previous rain watering was on 2026-06-30, and previous user watering was on 2026-06-29.
+- Watering status: On 2026-07-06, user watered the plant. Previous watering was rain on 2026-07-01.
   <!-- Latest watering state or other water-related context needed for daily advice. -->
 
 - Fertilizer status: No fertilizer has been given since purchase.
@@ -30,10 +30,10 @@
 - Last prune: 2026-06-10; user removed all remaining flower buds and the open flower to reduce energy demand during high-stress root-prune recovery.
   <!-- Most recent above-ground pruning/removal, such as leaves, traps, fronds, branches, flowers, or dead material. -->
 
-- Current concern: Continue monitoring recovery after major root pruning and shallow-pot repot, especially lower caudex firmness, the old root-removal site, and any signs of tissue decline such as excess softening, unusual odor, structural failure, or expanding dark discoloration.
+- Current concern: Continued post-root-prune monitoring.
   <!-- Main current issue, risk, or monitoring focus. None is also a valid option. -->
 
-- Latest check-in notes: On 2026-07-05, plant was not checked because user was busy and tired. No observations were made and no care actions were performed.
+- Latest check-in notes: On 2026-07-06, user watered the plant. Plant is maintaining stability and new growth is progressing.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events

@@ -1,13 +1,13 @@
-Keep your Southern Live Oak’s soil evenly moist but not soggy today, especially since it’s still recovering from transplant shock and root damage. The overcast sky and recent rain help, but with warm temps and moderate humidity, watch for any signs of stress or worsening leaf spots. Avoid any fertilizer or pruning until you see steady new growth.
+Keep your Southern Live Oak’s soil evenly moist but not soggy today, especially since it’s still recovering from transplant shock and root disturbance. The slight rain and warm temps mean it likely needs a careful watering check to avoid dryness or overwatering. Watch for any worsening orange spots or leaf browning, but hold off on any sprays or fertilizer until it shows stronger growth.
 
-Top priority/action for today: Monitor the orange spotting and browning closely and remove any fully dead leaves to reduce stress and disease risk.
+Top priority: Check soil moisture at 2–3 inches deep and water deeply if it feels dry, ensuring good drainage.
 
-Watering guidance: Check the top 2–3 inches of soil; water deeply only if it feels dry there, letting excess drain fully.
+Watering guidance: Water thoroughly until water drains freely, then let the pot drain completely; avoid watering if soil still feels cool and moist.
 
-One useful check: Inspect the canopy for any new orange powdery spots or leaf browning and note if the new growth looks healthy and upright.
+One useful check: Inspect leaves for any new orange powdery spots or increased browning and note if leaf posture changes.
 
-Optional care improvement: If the soil feels heavy or slow to drain, consider gently loosening the surface mulch to improve airflow around the base.
+Optional care improvement: Increase airflow around the pot by gently repositioning it if airflow feels stagnant to reduce fungal risk.
 
-Optional practical idea: Set a simple reminder to check soil moisture every 2–3 days to avoid over- or underwatering during recovery.
+Optional practical idea: Set a simple reminder to check soil moisture every 2–3 days this week to catch drying early without overwatering.
 
 ------

@@ -3,16 +3,16 @@
 ## Current Snapshot
 <!-- Current state and durable care facts for this specific plant. This section should preserve important information that should not disappear. -->
 
-- Last updated: 2026-07-05
+- Last updated: 2026-07-06
   <!-- Date this snapshot was last revised. -->
 
-- Overall condition: Recovering from poor condition at purchase and adapting well to outdoor placement. Healthy new growth continues to emerge from the crown and no major decline has been observed.
+- Overall condition: Stable and adapting well outdoors.
   <!-- Broad current health/status of the plant. Example: stable, recovering, declining, newly rescued, stressed, dormant, unknown. -->
 
 - Watering status: On 2026-07-04, plant received about an hour of rain. Previous watering was rain on 2026-07-01.
   <!-- Latest watering state or other water-related context needed for daily advice. -->
 
-- Fertilizer status: No fertilizer or plant food has been given.
+- Fertilizer status: No fertilizer or plant food has been given. On 2026-07-06, one trap naturally caught prey outdoors.
   <!-- Latest fertilizer state, including last feeding, fertilizer used, form, dose/strength, and or fertilizer guidance. -->
 
 - Pest control: No visible pests or pest-control treatments noted.
@@ -30,10 +30,10 @@
 - Last prune: 2026-06-29; user removed some brown and blackened dead trap and leaf tissue.
   <!-- Most recent above-ground pruning/removal, such as leaves, traps, fronds, branches, flowers, or dead material. -->
 
-- Current concern: Continue monitoring outdoor acclimation, reservoir consistency, crown/base health, and whether healthy new growth continues. Watch for renewed drooping, darkening of healthy green traps, crown/base softening, or other signs of decline.
+- Current concern: None beyond normal outdoor monitoring.
   <!-- Main current issue, risk, or monitoring focus. None is also a valid option. -->
 
-- Latest check-in notes: On 2026-07-05, plant was not checked because user was busy and tired. No observations were made and no care actions were performed.
+- Latest check-in notes: On 2026-07-06, water level was fine and no watering was done. New center growth is still emerging and progressing nicely. One older gnarly-looking trap was closed with prey visible inside. No obvious signs of decline were observed.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events

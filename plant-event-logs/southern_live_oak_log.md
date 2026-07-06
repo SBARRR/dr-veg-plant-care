@@ -3,10 +3,10 @@
 ## Current Snapshot
 <!-- Current state and durable care facts for this specific plant. This section should preserve important information that should not disappear. -->
 
-- Last updated: 2026-07-05
+- Last updated: 2026-07-06
   <!-- Date this snapshot was last revised. -->
 
-- Overall condition: Recovering from major ground-to-pot transplant and root disturbance performed on 2026-05-26. Tree appears stable and is being monitored for continued transplant recovery.
+- Overall condition: Stable and showing positive transplant recovery signs.
   <!-- Broad current health/status of the plant. Example: stable, recovering, declining, newly rescued, stressed, dormant, unknown. -->
 
 - Watering status: On 2026-07-04, plant received about an hour of rain. Previous watering was rain on 2026-07-01.
@@ -30,10 +30,10 @@
 - Last prune: 2026-06-06; user trimmed affected leaves only from the top shoot/tip section after orange powdery material was found, leaving the live shoot/branch in place.
   <!-- Most recent above-ground pruning/removal, such as leaves, traps, fronds, branches, flowers, or dead material. -->
 
-- Current concern: Monitor transplant recovery, especially leaf browning/drop, new growth posture, heat stress, and whether the previously observed orange powdery spotting returns or spreads.
+- Current concern: New top-canopy growth; prior orange spotting and browning still worth watching.
   <!-- Main current issue, risk, or monitoring focus. None is also a valid option. -->
 
-- Latest check-in notes: On 2026-07-05, plant was not checked because user was busy and tired. No observations were made and no care actions were performed.
+- Latest check-in notes: On 2026-07-06, soil was still moist and no watering was done. User reported new growth buds and emerging new leaves at the top of the canopy, with some new leaves already about one-third of regular full size.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events

@@ -3,13 +3,13 @@
 ## Current Snapshot
 <!-- Current state and durable care facts for this specific plant. This section should preserve important information that should not disappear. -->
 
-- Last updated: 2026-07-08
+- Last updated: 2026-07-09
   <!-- Date this snapshot was last revised. -->
 
 - Overall condition: Stable and showing positive transplant recovery signs.
   <!-- Broad current health/status of the plant. Example: stable, recovering, declining, newly rescued, stressed, dormant, unknown. -->
 
-- Watering status: On 2026-07-04, plant received about an hour of rain. Previous watering was rain on 2026-07-01.
+- Watering status: On 2026-07-09, user watered with roughly half a gallon. Previous watering was rain on 2026-07-04.
   <!-- Latest watering state or other water-related context needed for daily advice. -->
 
 - Fertilizer status: No recent fertilizer; last fertilized roughly over a year ago while in-ground using slow-release bonsai pellets sprinkled on the soil surface.
@@ -33,7 +33,7 @@
 - Current concern: New top-canopy growth; prior orange spotting and browning still worth watching.
   <!-- Main current issue, risk, or monitoring focus. None is also a valid option. -->
 
-- Latest check-in notes: On 2026-07-08, user forgot to check the plant. No observations were made and no care actions were performed.
+- Latest check-in notes: On 2026-07-09, nothing new was reported visually.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events

@@ -3,7 +3,7 @@
 ## Current Snapshot
 <!-- Current state and durable care facts for this specific plant. This section should preserve important information that should not disappear. -->
 
-- Last updated: 2026-07-07
+- Last updated: 2026-07-08
   <!-- Date this snapshot was last revised. -->
 
 - Overall condition: Stable and adapting well outdoors.
@@ -33,7 +33,7 @@
 - Current concern: None beyond normal outdoor monitoring.
   <!-- Main current issue, risk, or monitoring focus. None is also a valid option. -->
 
-- Latest check-in notes: On 2026-07-07, reservoir water was still adequate, so no water was added. Nothing new was reported visually.
+- Latest check-in notes: On 2026-07-08, user forgot to check the plant. No observations were made and no care actions were performed.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events

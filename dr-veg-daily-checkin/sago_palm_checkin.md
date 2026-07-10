@@ -1,13 +1,15 @@
 Sago Palm
 
-Today, let the soil dry out a bit more before watering again since the weather is hot and dry, which speeds evaporation. Keep an eye on older yellowing fronds but don’t remove them yet unless they turn fully brown or loose easily. This will help you avoid overwatering and keep the plant stable in the heat.
+Today, keep the soil on the drier side since it’s still summer and your sago palm is in a shallow bonsai pot that heats up fast. Hold off on watering unless the top 1–2 inches of soil feel dry and the pot feels noticeably lighter. Keep an eye on those older yellowing fronds but leave them be unless they turn fully brown or pull away easily.
 
-Check soil moisture before watering.
+Top priority/action for today: Check the top 1–2 inches of soil moisture and only water if it’s dry and the pot feels light.
 
-Water only if the top 1–2 inches of soil feel dry to the touch.
+Watering guidance: Water thoroughly until drainage, then let excess water drain away; never let the pot sit in standing water.
 
-Gently tug any yellowing fronds to see if they’re ready to remove; leave them if they’re still firmly attached.
+One useful check: Gently tug on the yellowing fronds to see if they’re loosening—remove only if mostly brown or easily pulled out.
 
-(Optional) Consider moving the plant slightly to increase morning filtered light if afternoon sun seems too intense.
+Optional care improvement: If you want to boost growth, consider lightly misting the plant early morning to cool it down without wetting the soil.
+
+Optional practical idea: Move the pot slightly if afternoon sun gets too intense, to avoid scorch on the fronds during this heat wave.
 
 ------

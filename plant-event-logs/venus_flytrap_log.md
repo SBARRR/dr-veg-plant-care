@@ -3,13 +3,13 @@
 ## Current Snapshot
 <!-- Current state and durable care facts for this specific plant. This section should preserve important information that should not disappear. -->
 
-- Last updated: 2026-07-09
+- Last updated: 2026-07-10
   <!-- Date this snapshot was last revised. -->
 
 - Overall condition: Stable and adapting well outdoors.
   <!-- Broad current health/status of the plant. Example: stable, recovering, declining, newly rescued, stressed, dormant, unknown. -->
 
-- Watering status: On 2026-07-09, user topped off the reservoir because the water level was low. Previous watering was rain on 2026-07-04.
+- Watering status: On 2026-07-10, user topped off the reservoir because the water level was low. Previous reservoir top-off was on 2026-07-09.
   <!-- Latest watering state or other water-related context needed for daily advice. -->
 
 - Fertilizer status: No fertilizer or plant food has been given. On 2026-07-06, one trap naturally caught prey outdoors.
@@ -33,7 +33,7 @@
 - Current concern: None beyond normal outdoor monitoring.
   <!-- Main current issue, risk, or monitoring focus. None is also a valid option. -->
 
-- Latest check-in notes: On 2026-07-09, new growth is progressing, and no signs of decline were observed.
+- Latest check-in notes: On 2026-07-10, nothing new was reported regarding growth or condition.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events

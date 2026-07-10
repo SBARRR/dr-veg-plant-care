@@ -1,13 +1,13 @@
 Southern Live Oak
 
-Today, give your oak a thorough deep watering to keep the soil evenly moist but not soggy, especially with the hot 97°F weather. Keep an eye on those orange spots and browning leaves—if they worsen, we’ll plan a gentle treatment soon. Avoid any fertilizer or pruning for now; focus on steady recovery.
+Today, keep the soil evenly moist but not soggy to support recovery from transplant shock and root damage. Watch for any worsening of the orange spots or browning on the leaves, but avoid any pruning or treatment unless the symptoms clearly spread.
 
-Water deeply until water drains freely from the pot, then let it drain completely without sitting in water.
+Water deeply until water drains freely, then let the soil surface dry slightly before watering again.
 
-Check the top 2–3 inches of soil for steady moisture—should feel damp but not wet or dry.
+Check the top 2–3 inches of soil moisture by touch to avoid over- or underwatering.
 
-Optional: Gently increase airflow around the tree if possible to reduce fungal risk.
+Optionally, gently increase airflow around the tree if possible to reduce fungal pressure without stressing the plant.
 
-Optional: Remove any fully dead or heavily spotted leaves to help reduce fungal spread.
+If you notice any new leaf browning or orange spots spreading, snap a close photo for quick comparison tomorrow.
 
 ------

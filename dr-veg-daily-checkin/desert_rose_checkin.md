@@ -1,13 +1,13 @@
 Desert Rose
 
-Hold off on watering today to keep the root zone dry and let the plant continue recovering from the big root prune. Keep it warm and shaded from the harsh afternoon sun to avoid extra stress. Check the caudex firmness carefully—firm is good, soft or mushy means trouble.
+Today is a great day to give your Desert Rose a thorough watering since the soil has dried well and the plant is stable after its recent recovery. Keep it warm and enjoy the bright afternoon sun it’s getting on the porch, but avoid any fertilizer or pruning for now.
 
-Top priority/action for today: Do not water; maintain warm, shaded conditions to support recovery.
+Water the Desert Rose deeply until water drains from the pot, then let it drain completely without standing water.
 
-Watering guidance: Only water when the soil is completely dry and the caudex feels firm, which won’t be today.
+Check the caudex firmness carefully—make sure it feels firm and not soft or mushy anywhere.
 
-One useful check: Gently press the caudex and old root-removal areas to confirm firmness and no soft spots.
+Optional: Remove any yellow or dead leaves to keep the plant tidy and reduce pest hiding spots.
 
-Optional care improvement: If you want, increase airflow gently by opening the patio screen more to help dry the soil faster without chilling.
+Optional: If you notice any white splotches returning on leaves, inspect closely for pests before considering treatment.
 
 ------

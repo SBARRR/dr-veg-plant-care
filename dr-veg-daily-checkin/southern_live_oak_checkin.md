@@ -1,13 +1,15 @@
 Southern Live Oak
 
-Today, keep your Southern Live Oak comfortably moist but not soggy, especially since it’s still recovering from transplant shock and root disturbance. The overcast sky and moderate humidity help reduce stress, so no rush to water unless the soil feels dry near the surface.
+Today, keep a close eye on soil moisture and avoid watering if the soil still feels moist to the touch. With the warm but overcast weather and steady humidity, your oak should be fine with its current moisture level, but don’t let it dry out completely. Continue monitoring the orange spotting and browning closely, and hold off on any treatments until you see clear progression.
 
-Check the top 2–3 inches of soil for moisture before watering.
+Top priority/action for today.
 
-Water deeply until water drains freely, then let the pot drain completely; avoid letting it sit in standing water.
+Check the top 2–3 inches of soil for moisture before deciding to water.
 
-Look closely at new top-canopy growth for any worsening orange spots or browning.
+Water deeply only if the soil feels dry, then let excess drain fully.
 
-Optionally, gently increase airflow around the tree if possible to help reduce any fungal issues.
+Inspect new growth and leaves for any worsening orange spots or browning.
+
+Optional: Consider gently increasing airflow around the tree if humidity feels stagnant.
 
 ------

@@ -3,7 +3,7 @@
 ## Current Snapshot
 <!-- Current state and durable care facts for this specific plant. This section should preserve important information that should not disappear. -->
 
-- Last updated: 2026-07-12
+- Last updated: 2026-07-13
   <!-- Date this snapshot was last revised. -->
 
 - Overall condition: Established and generally stable.
@@ -33,7 +33,7 @@
 - Current concern: Older yellowing/spotted fronds; newer growth reportedly healthy green.
   <!-- Main current issue, risk, or monitoring focus. None is also a valid option. -->
 
-- Latest check-in notes: On 2026-07-12, soil was still moist, so user did not water. Nothing new was reported regarding status.
+- Latest check-in notes: On 2026-07-13, soil was still moist, so user did not water. New growth was emerging from the center.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events

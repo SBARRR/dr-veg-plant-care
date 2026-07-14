@@ -1,13 +1,13 @@
 Sago Palm
 
-Today, let the soil dry out a bit more before watering again since it’s still holding moisture well. Keep an eye on those older yellowing fronds but leave them be unless they turn fully brown or come off easily. With the warm temps and filtered sun, your sago is in a good spot—just don’t overdo the water.
+Today, let the soil dry out a bit more before watering again since it’s still holding moisture well. Keep an eye on those older yellowing fronds but don’t remove them yet—they’re still doing their job. With the warm, humid weather and filtered sun, your sago is in a good spot for steady growth.
 
-Check soil moisture at the top 1–2 inches before watering.
+Check the top 1–2 inches of soil moisture before deciding to water.
 
-Water thoroughly only when the soil feels dry and the pot feels lighter, then let excess drain fully.
+Water thoroughly only when the soil feels dry on top and the pot feels lighter.
 
-Gently tug on any yellowing fronds to see if they’re ready to remove; leave them if they’re still firmly attached.
+Give the drainage tray a quick look to ensure no standing water is collecting under the pot.
 
-If you want, consider lightly misting nearby air (not the plant) to keep humidity comfortable in the heat.
+(Optional) If you want to boost growth, consider gently brushing off the top dressing to improve airflow around the soil surface.
 
 ------

@@ -1,13 +1,15 @@
 Desert Rose
 
-Today, hold off on watering since the soil still has some moisture and the caudex is firm—this helps avoid overwatering after your recent root pruning. Keep the plant in its bright, warm spot but shield it from any heavy rain or excessive humidity that might linger on the porch. Watch that small black spot on the leaf closely for any changes, but no need to act unless it spreads or worsens.
+Today, hold off on watering since the soil is still cooling down and slightly moist; this helps avoid overwatering during recovery. Keep the plant in its warm, bright spot with good airflow, and watch for any signs of softness or discoloration on the caudex. Your careful patience is paying off—just keep monitoring and let it dry out fully before the next drink.
 
-Water deeply only when the soil feels completely dry several inches down and the caudex shows slight shriveling.
+Top priority/action for today: Do not water; allow the soil to dry out completely before the next watering.
 
-Check the firmness of the caudex and the old root-removal site for any soft spots or unusual discoloration.
+Watering guidance: Water deeply only when the soil is fully dry and the caudex feels firm, then let excess drain away.
 
-Optional: If you want to boost airflow, gently reposition the plant to catch a bit more breeze without exposing it to direct wind gusts.
+One useful check: Gently press the caudex and check the soil moisture to confirm dryness and firmness before watering.
 
-Optional: Consider lightly wiping leaves with a damp cloth to keep dust off and help spot pests early.
+Optional care improvement: If you notice any new leaf spots or pests, inspect leaves closely and treat only if confirmed.
+
+Optional practical idea: Consider moving the plant slightly to increase afternoon sun exposure gradually if you want to encourage more blooms later.
 
 ------

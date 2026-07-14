@@ -3,7 +3,7 @@
 ## Current Snapshot
 <!-- Current state and durable care facts for this specific plant. This section should preserve important information that should not disappear. -->
 
-- Last updated: 2026-07-12
+- Last updated: 2026-07-13
   <!-- Date this snapshot was last revised. -->
 
 - Overall condition: Stable and adapting well outdoors. New growth is progressing, and leaves are perky and upright with no signs of stress or decline.
@@ -33,7 +33,7 @@
 - Current concern: None beyond normal outdoor monitoring.
   <!-- Main current issue, risk, or monitoring focus. None is also a valid option. -->
 
-- Latest check-in notes: On 2026-07-12, the trap that previously caught prey was developing small brown spots after reopening.
+- Latest check-in notes: On 2026-07-13, reservoir water level was fine and nothing new was reported regarding status.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events

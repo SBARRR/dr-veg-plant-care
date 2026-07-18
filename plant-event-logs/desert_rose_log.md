@@ -3,13 +3,13 @@
 ## Current Snapshot
 <!-- Current state and durable care facts for this specific plant. This section should preserve important information that should not disappear. -->
 
-- Last updated: 2026-07-16
+- Last updated: 2026-07-17
   <!-- Date this snapshot was last revised. -->
 
 - Overall condition: Stable and improving after the 2026-06-01 repot and major root reduction. Caudex firmness has recovered and is now firm, and growth remains steady.
   <!-- Broad current health/status of the plant. Example: stable, recovering, declining, newly rescued, stressed, dormant, unknown. -->
 
-- Watering status: On 2026-07-15, user watered the plant. Previous watering was on 2026-07-10.
+- Watering status: On 2026-07-17, the plant received water from rain. Previous watering was on 2026-07-15.
   <!-- Latest watering state or other water-related context needed for daily advice. -->
 
 - Fertilizer status: No fertilizer has been given since purchase.
@@ -33,7 +33,7 @@
 - Current concern: Continued post-root-prune monitoring.
   <!-- Main current issue, risk, or monitoring focus. None is also a valid option. -->
 
-- Latest check-in notes: On 2026-07-16, soil moisture was adequate, so user did not water. Nothing new was reported regarding status.
+- Latest check-in notes: On 2026-07-17, user missed the daily check-in, but the plant received water from rain.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events

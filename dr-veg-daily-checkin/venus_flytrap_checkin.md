@@ -1,15 +1,17 @@
 Venus Flytrap
 
-Keep the tray filled with distilled or rainwater so the soil stays consistently wet but not flooded, especially after yesterday’s rain. With moderate sun and warm temps today, your flytrap will appreciate steady moisture and good airflow to stay happy and healthy.
+Top priority today is to keep the soil consistently wet by maintaining a shallow layer of distilled or rainwater in the skull cachepot reservoir, especially since the humidity is high but no rain is expected. Avoid letting the media dry out to keep your flytrap happy and healthy in this warm, overcast weather. 
 
-Top priority: Check the water level in the skull cachepot tray and refill with distilled or rainwater if it’s below about 1/4 inch.
+Check that the tray water level is steady and the media feels damp but not soggy.
 
-Watering guidance: Keep the soil wet by bottom watering—never let the media dry out, but avoid standing water that’s murky or mineral-heavy.
+Top priority/action for today: Ensure the tray water is topped off with distilled or rainwater to keep the media consistently moist.
 
-One useful check: Look for any blackened or fully dead traps and gently remove only those to keep the plant tidy and prevent mold.
+Watering guidance: Use only distilled, rain, or RO water for tray watering and avoid letting the media dry out between waterings.
 
-Optional care improvement: If you notice any algae on the media surface, gently remove it without disturbing the roots to improve airflow and appearance.
+One useful check: Feel the soil surface and the reservoir water level to confirm the media is wet but not flooded.
 
-Optional practical idea: Place the plant where it gets morning sun and some afternoon shade to avoid heat stress in the hottest part of the day.
+Optional care improvement: If you notice any dead traps, remove only fully blackened ones to keep the plant tidy without stressing it.
+
+Optional practical idea: Place the skull cachepot in a spot with good airflow to prevent stagnant moisture buildup around the roots.
 
 ------

@@ -1,13 +1,15 @@
 Desert Rose
 
-Today, let the soil dry out fully before considering any watering since recent rain has likely moistened the mix. Keep an eye on the caudex firmness and avoid watering unless it feels slightly shriveled or the pot feels very light.
+Today, hold off on watering since the soil is still moist from recent rain and watering. Keep the plant in its warm, bright spot with good airflow to support steady recovery and growth. Watch for any signs of softness or discoloration on the caudex as a quick health check.
 
-Check the caudex firmness carefully—firm is good, soft or mushy means trouble.
+Top priority/action for today: Do not water; let the soil dry out fully before the next watering.
 
-Hold off watering unless the soil is dry at least 2 inches deep and the caudex shows slight shriveling.
+Watering guidance: Water deeply only when the soil is dry several inches down and the caudex feels firm, then let excess drain completely.
 
-Make sure the pot is not sitting in any standing water after the rain.
+One useful check: Gently press the caudex to confirm it remains firm and not soft or mushy.
 
-Optional: If you haven’t already, gently tilt the pot to see how heavy it feels compared to dry weight to help decide watering timing.
+Optional care improvement: If you want to boost flowering later, plan to increase direct sun exposure gradually once fully recovered.
+
+Optional practical idea: Keep a small notebook or app reminder to track watering days to avoid accidental overwatering.
 
 ------

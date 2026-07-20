@@ -1,15 +1,13 @@
 Sago Palm
 
-Today, let the soil dry out a bit more before watering again since it’s still warm and humid with some recent rain. Keep an eye on the yellowing fronds but leave them be unless they turn fully brown or come off easily. This slow grower appreciates a light touch—no rush on fertilizer or pruning for now.
+Today, keep an eye on the soil moisture since the humidity is high and the pot is shallow, which can slow drying. Hold off watering unless the top 1–2 inches feel dry and the pot feels noticeably lighter. Continue to let those older yellow fronds hang on until they’re mostly brown or come off easily.
 
-Top priority/action for today: Check that the pot’s drainage holes are clear and not blocked by debris or gravel.
+Check the top 1–2 inches of soil for dryness before watering.
 
-Watering guidance: Only water if the top 1–2 inches of soil feel dry and the pot feels noticeably lighter than after watering.
+Water thoroughly only when the soil surface is dry and the pot feels lighter, then let excess drain fully.
 
-One useful check: Gently tug any yellowing fronds to see if they’re loosening—remove only if they pull away easily.
+Gently tug on any yellowing fronds to see if they’re loosening but don’t remove them yet.
 
-Optional care improvement: If you want, wipe dust off the green fronds with a damp cloth to help photosynthesis.
-
-Optional practical idea: Move the plant slightly if you notice any afternoon sun scorch starting on the leaves.
+(Optional) Consider moving the pot slightly if wind gusts pick up to avoid stress or tipping.
 
 ------

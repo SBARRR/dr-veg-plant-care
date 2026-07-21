@@ -1,13 +1,15 @@
 Southern Live Oak
 
-Today, keep the soil consistently moist but not soggy to support recovery from transplant shock and root damage. Since the weather is warm and humid with no rain expected, a deep watering if the top 2–3 inches feel dry will help maintain steady moisture without overwatering.
+Today, let’s keep the soil evenly moist but not soggy since you had some rain and the soil was still moist a few days ago. Keep an eye on those orange spots and browning leaves—if they worsen, a gentle fungicide might be needed soon, but for now, just monitor and remove any fully dead leaves.
 
-Check the soil moisture at the top 2–3 inches before watering.
+Check soil moisture carefully before watering to avoid overwatering.
 
-Water deeply until water drains from the bottom, then let the pot drain fully without standing water.
+Water deeply only if the top 2–3 inches of soil feel dry to the touch.
 
-Inspect the leaves for any new orange spots or worsening browning to catch fungal issues early.
+Inspect the leaves for any increase in orange spotting or browning compared to last week.
 
-Optionally, gently increase airflow around the tree if possible to reduce leaf wetness and discourage fungus.
+Optionally, gently increase airflow around the tree if possible to reduce fungal pressure.
+
+If you want, you can lightly mist the leaves in the morning to help with humidity without soaking them.
 
 ------

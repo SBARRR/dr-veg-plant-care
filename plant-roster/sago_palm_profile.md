@@ -24,16 +24,16 @@
 
 ## Location & Setup
 
-- Location: Backyard Porch
+- Location: On top of a patio table at the front of the house.
   <!-- Physical place where the plant normally lives. Example: front porch, back porch, kitchen window, patio table, garage shelf. -->
 
-- Environment details: Sits on a 2 tier rack along the wall of a screened in patio. Fence around the backyard, so I believe its mostly protected from wind. Water gets in when it rains, but im not sure how much as Ive never checked.
+- Environment details: Completely open to rain and wind with no overhead cover or screened protection.
   <!-- Non-light environmental factors around that location. Example: exposed to rain, protected from rain, windy, enclosed porch, low airflow, near AC vent, high heat, sheltered patio. -->
 
 - Indoor or outdoor: Outdoor
   <!-- Whether the plant is currently kept indoors, outdoors, or in a semi-protected space like an enclosed porch. -->
 
-- Light situation: Summer: mostly shaded earlier in the day, then roughly 3–3.5 hours of late-afternoon direct sun filtered by patio screen; indirect/bright shade the rest of the day. Fall/winter direct sun likely lower.
+- Light situation: Exact exposure not yet measured. Previous baseline was roughly 3-3.5 hours of filtered late-afternoon direct sun; new location is expected to provide about the same or 1-3 hours more.
   <!-- Approximate normal light the plant receives in this location, including rough hours if known and type of light. Example: 2–3 hours direct sun, bright indirect light most of the day, mostly shade, grow light 12 hours/day. -->
 
 - Pot / container: Unglazed ceramic bonsai training pot, approx. 8 in L x 6 in W x 2.8 in H

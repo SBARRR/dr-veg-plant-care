@@ -27,7 +27,7 @@
 - Location: Open outdoor area outside the screened patio
   <!-- Physical place where the plant normally lives. Example: front porch, back porch, kitchen window, patio table, garage shelf. -->
 
-- Environment details: Kept outdoors in the open area outside the screened patio. Exposed to normal outdoor heat, airflow, humidity, and rain risk.
+- Environment details: Open area, exposed to normal outdoor heat, airflow, humidity, and rain risk. Fenced backyard provides some wind reduction.
   <!-- Non-light environmental factors around that location. Example: exposed to rain, protected from rain, windy, enclosed porch, low airflow, near AC vent, high heat, sheltered patio. -->
 
 - Indoor or outdoor: Outdoor

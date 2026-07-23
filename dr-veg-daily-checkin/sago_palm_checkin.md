@@ -1,15 +1,13 @@
 Sago Palm
 
-Today, keep a close eye on soil moisture since the heat and sun can dry out the shallow bonsai pot quickly. Water only if the top 1–2 inches feel dry to avoid soggy roots, and enjoy watching those new fronds keep growing strong.
+Today, keep an eye on soil moisture since you had a light rain recently but it was minimal. Hold off watering unless the top 1–2 inches of soil feel dry and the pot feels lighter than usual to avoid overwatering in this shallow bonsai pot.
 
-Top priority/action for today: Check the soil moisture by feeling the top 1–2 inches before deciding to water.
+Top priority: Check the soil moisture and pot weight before deciding to water.
 
-Watering guidance: Water thoroughly only if the soil feels dry and the pot is noticeably lighter, then let excess drain completely.
+Watering guidance: Water thoroughly only if the topsoil is dry and the pot feels noticeably lighter, then let excess drain fully.
 
-One useful check: Inspect the crown and base of the fronds for any softness or unusual spots that could signal early rot or pest trouble.
+One useful check: Inspect the base of the pot and drip tray to ensure no standing water is accumulating after rain.
 
-Optional care improvement: Gently remove any fully brown fronds to tidy up without stressing the plant.
-
-Optional practical idea: Move the plant slightly if you notice any scorching on fronds from afternoon sun, to increase filtered shade.
+Optional care idea: Gently brush aside the decorative gravel occasionally to prevent it from hiding wet soil or mold buildup.
 
 ------

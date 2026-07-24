@@ -1,13 +1,15 @@
 Sago Palm
 
-Today, keep an eye on soil moisture since you had a light rain recently but it was minimal. Hold off watering unless the top 1–2 inches of soil feel dry and the pot feels lighter than usual to avoid overwatering in this shallow bonsai pot.
+Today, skip watering since the soil is still moist from recent rain and watering. Keep an eye on the older yellowing fronds but don’t remove them yet—they’re still holding on and helping the plant. With the hot weather and decent humidity, good airflow is your friend to keep the plant happy.
 
-Top priority: Check the soil moisture and pot weight before deciding to water.
+Top priority/action for today: Do not water today; wait until the top 1–2 inches of soil feel dry and the pot feels lighter before watering again.
 
-Watering guidance: Water thoroughly only if the topsoil is dry and the pot feels noticeably lighter, then let excess drain fully.
+Watering guidance: Check soil moisture by feeling the top 1–2 inches and lifting the pot to gauge weight; only water when dry and light.
 
-One useful check: Inspect the base of the pot and drip tray to ensure no standing water is accumulating after rain.
+One useful check: Inspect the undersides of fronds and the crown for any early signs of scale or pests, especially since spotting was noted before.
 
-Optional care idea: Gently brush aside the decorative gravel occasionally to prevent it from hiding wet soil or mold buildup.
+Optional care improvement: If you want to boost airflow, gently reposition the plant to a spot with a bit more breeze without increasing sun scorch risk.
+
+Optional practical idea: Remove any debris or fallen leaves around the pot base to reduce pest hiding spots and improve airflow.
 
 ------

@@ -3,13 +3,13 @@
 ## Current Snapshot
 <!-- Current state and durable care facts for this specific plant. This section should preserve important information that should not disappear. -->
 
-- Last updated: 2026-07-23
+- Last updated: 2026-07-27
   <!-- Date this snapshot was last revised. -->
 
 - Overall condition: Established and generally stable.
   <!-- Broad current health/status of the plant. Example: stable, recovering, declining, newly rescued, stressed, dormant, unknown. -->
 
-- Watering status: On 2026-07-21, user watered because the soil seemed ready for water. Previous watering was from rain on 2026-07-17.
+- Watering status: On 2026-07-27, the plant received heavy rain. Previous watering was on 2026-07-21.
   <!-- Latest watering state or other water-related context needed for daily advice. -->
 
 - Fertilizer status: Fertilized on 2026-06-09 with 1 level tablespoon total of BGI PalmGain 8-2-12, scattered across the exposed soil surface after moving the top dressing aside, then covered back over, monitor response.
@@ -33,7 +33,7 @@
 - Current concern: Older yellowing/spotted fronds; newer growth reportedly healthy green.
   <!-- Main current issue, risk, or monitoring focus. None is also a valid option. -->
 
-- Latest check-in notes: On 2026-07-23, soil was still moist, so user did not water. New growth continued progressing steadily and looked healthy. No other status changes were reported.
+- Latest check-in notes: On 2026-07-27, no new status changes were reported. No additional water was needed after the heavy rain.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events

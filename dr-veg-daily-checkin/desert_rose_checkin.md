@@ -1,15 +1,15 @@
 Desert Rose
 
-Today, keep your Desert Rose in its sunny spot and hold off on watering since the soil was watered just a few days ago and should still be drying out. With warm temps and good airflow, this is a great time to keep an eye on the caudex firmness and overall plant posture to catch any early signs of stress.
+Today’s best move is to hold off on watering since the soil is still drying well after recent rain and your last watering a few days ago. Keep an eye on the caudex firmness and only water once the soil is fully dry and the caudex shows slight shriveling, not softness. The moderate rain and high humidity mean the soil will stay moist longer, so patience is key.
 
-Top priority/action for today: Check the caudex firmness gently—firm is good, soft or mushy means trouble.
+Top priority/action for today: Do not water yet; wait until the soil is dry and the caudex feels slightly shriveled before watering again.
 
-Watering guidance: Only water if the soil feels dry several inches down and the caudex looks slightly shriveled, not soft.
+Watering guidance: Check the pot weight and top 2-3 inches of soil to confirm dryness before watering deeply.
 
-One useful check: Inspect leaves and stems for any new signs of pests or unusual spots, especially since there was a past concern.
+One useful check: Inspect the caudex for firmness—firm is good, mushy means rot risk, and slight shriveling means it’s time to water.
 
-Optional care improvement: If you want to boost growth, plan a light half-strength fertilizer application next week, but only if the plant stays firm and healthy.
+Optional care improvement: If you haven’t yet, gently brush off any debris from the exposed caudex to keep airflow good and prevent rot.
 
-Optional practical idea: Consider moving the pot slightly to maximize direct afternoon sun exposure without shocking the plant with sudden intense light.
+Optional practical idea: Consider moving the pot slightly to maximize afternoon sun exposure, aiming for closer to 5-6 hours if possible.
 
 ------

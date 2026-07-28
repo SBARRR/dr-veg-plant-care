@@ -1,15 +1,13 @@
 Venus Flytrap
 
-Top off the tray water with distilled or rainwater today to keep the media consistently wet, especially after the light rain and warm weather. Make sure the tray water is fresh and not stagnant to avoid mold or root issues.
+Top priority today: Check the tray water level and refill with distilled or rainwater if it’s below about 1/4 inch to keep the media consistently wet without flooding.
 
-Top priority/action for today: Add distilled or rainwater to the tray reservoir to maintain wet media without flooding.
+Water the plant only by maintaining a shallow tray of pure water—avoid pouring water directly on the soil surface or letting the media dry out.
 
-Watering guidance: Check that the soil feels damp but not soggy; the tray should have a shallow layer of water at all times.
+Check the traps for any fully blackened or dead ones and gently remove those to keep the plant tidy and healthy.
 
-One useful check: Inspect traps for any fully blackened ones and gently remove only those dead traps to keep the plant tidy.
+If you want a quick win, gently brush off any visible algae on the media surface without disturbing the roots.
 
-Optional care improvement: If you notice any algae forming on the media surface, gently remove it without disturbing the roots.
-
-Optional practical idea: Consider shading the pot briefly during the hottest afternoon hours if temperatures exceed 90°F to prevent heat stress.
+Consider moving the plant to a spot that gets a little more direct sun if you notice the traps stay mostly green and pale.
 
 ------

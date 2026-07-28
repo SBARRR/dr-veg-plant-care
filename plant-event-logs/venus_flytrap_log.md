@@ -3,7 +3,7 @@
 ## Current Snapshot
 <!-- Current state and durable care facts for this specific plant. This section should preserve important information that should not disappear. -->
 
-- Last updated: 2026-07-27
+- Last updated: 2026-07-28
   <!-- Date this snapshot was last revised. -->
 
 - Overall condition: Stable and adapting well outdoors. New growth is progressing, leaves are perky and upright with no signs of stress or decline, and a very small area of orange-red coloration is beginning to develop inside one trap.
@@ -27,13 +27,13 @@
 - Last root prune: None known; no root pruning or root disturbance has been performed since purchase.
   <!-- Most recent root pruning or major root disturbance. -->
 
-- Last prune: 2026-06-29; user removed some brown and blackened dead trap and leaf tissue.
+- Last prune: 2026-07-28; user removed older brown and black dying traps without removing any green tissue.
   <!-- Most recent above-ground pruning/removal, such as leaves, traps, fronds, branches, flowers, or dead material. -->
 
 - Current concern: None beyond normal outdoor monitoring.
   <!-- Main current issue, risk, or monitoring focus. None is also a valid option. -->
 
-- Latest check-in notes: On 2026-07-27, no new status changes were reported. No reservoir top-off was needed after the heavy rain.
+- Latest check-in notes: On 2026-07-28, the reservoir level was sufficient, so no water was added. No other status changes were reported.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events

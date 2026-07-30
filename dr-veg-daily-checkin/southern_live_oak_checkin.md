@@ -1,15 +1,15 @@
 Southern Live Oak
 
-Today, keep your Southern Live Oak’s soil evenly moist but not soggy, especially after the recent light rain and warm, humid weather. Hold off on fertilizing or pruning until you see stronger recovery signs and new growth stability.
+Today, keep the soil evenly moist but not soggy—no watering needed if the top 2–3 inches still feel damp. Since the orange spotting and browning are still concerns, avoid fertilizing or pruning for now and just focus on steady recovery. Watch for any worsening leaf symptoms or sudden wilting.
 
-Top priority/action for today: Check soil moisture by feeling the top 2–3 inches and pot weight; water deeply only if the soil feels dry to the touch.
+Top priority/action for today: Check soil moisture by feeling the top 2–3 inches and pot weight before deciding to water.
 
-Watering guidance: When watering, soak thoroughly until water drains freely from the bottom, then let the pot drain completely—don’t let it sit in standing water.
+Watering guidance: If the soil feels dry at the surface and the pot feels light, water deeply until drainage appears, then let it drain fully.
 
-One useful check: Inspect the upper leaves for any worsening orange powdery spots or new browning and note if any new leaf drop occurs.
+One useful check: Inspect the upper leaves for any increase in orange spots or browning and note if new growth looks healthy or stressed.
 
-Optional care improvement: Increase airflow gently around the tree if possible to reduce humidity buildup and discourage fungal issues.
+Optional care improvement: Gently increase airflow around the tree by slightly repositioning it if possible, to reduce fungal risk.
 
-Optional practical idea: Consider moving the pot slightly to maximize those 5–6 hours of bright outdoor light without exposing it to harsh afternoon sun scorch.
+Optional practical idea: Set a simple reminder to check soil moisture every 3 days to avoid over- or underwatering during this recovery phase.
 
 ------

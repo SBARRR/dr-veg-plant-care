@@ -3,13 +3,13 @@
 ## Current Snapshot
 <!-- Current state and durable care facts for this specific plant. This section should preserve important information that should not disappear. -->
 
-- Last updated: 2026-07-28
+- Last updated: 2026-07-30
   <!-- Date this snapshot was last revised. -->
 
 - Overall condition: Stable and adapting well outdoors. New growth is progressing, leaves are perky and upright with no signs of stress or decline, and a very small area of orange-red coloration is beginning to develop inside one trap.
   <!-- Broad current health/status of the plant. Example: stable, recovering, declining, newly rescued, stressed, dormant, unknown. -->
 
-- Watering status: On 2026-07-27, the plant received heavy rain and the reservoir level was sufficient. Previous watering was on 2026-07-21.
+- Watering status: On 2026-07-30, the plant received at least three hours of rain. Previous watering was from heavy rain on 2026-07-27.
   <!-- Latest watering state or other water-related context needed for daily advice. -->
 
 - Fertilizer status: No fertilizer or plant food has been given. As of 2026-07-23, one additional trap may have naturally caught prey, though the user may have previously miscounted. Two additional traps were reported with prey on 2026-07-21.
@@ -33,7 +33,7 @@
 - Current concern: None beyond normal outdoor monitoring.
   <!-- Main current issue, risk, or monitoring focus. None is also a valid option. -->
 
-- Latest check-in notes: On 2026-07-28, the reservoir level was sufficient, so no water was added. No other status changes were reported.
+- Latest check-in notes: On 2026-07-30, the plant was not checked.
   <!-- Most recent miscellaneous daily-check notes that do not deserve a full Recent Event entry. Example: looked unchanged, no action taken, user unsure about dryness, photo requested, etc. -->
 
 ## Recent Events

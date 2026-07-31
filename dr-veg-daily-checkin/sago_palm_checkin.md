@@ -1,15 +1,15 @@
 Sago Palm
 
-Today, skip watering since the soil is still moist from recent rain and watering. Keep an eye on the older yellowing fronds but leave them alone unless they become fully brown or loose. With the overcast and warm weather, your sago is happy with its current spot and care.
+Today, skip watering since the soil is still moist from recent rains and watering. Keep an eye on the older yellowing fronds but don’t remove them yet unless they turn fully brown or come off easily. The warm, humid weather means good airflow is key—make sure the plant isn’t sitting in stagnant air or water.
 
-Top priority/action for today: Do not water yet; wait until the top 1–2 inches of soil feel dry before adding water.
+Top priority/action for today: Check the soil moisture by lifting the pot to feel its weight and poke the top 1–2 inches of soil to confirm it’s still moist before deciding to water.
 
-Watering guidance: Check the pot weight and soil surface moisture before watering again to avoid soggy conditions.
+Watering guidance: Do not water today; wait until the upper soil feels dry and the pot feels lighter before watering again.
 
-One useful check: Gently tug on the older yellowing fronds to confirm they are still firmly attached and healthy enough to keep.
+One useful check: Inspect the undersides of fronds and the crown for any hidden scale or pests, especially since spotting was seen on yellow fronds recently.
 
-Optional care improvement: If you notice any new spotting or scale-like bumps on fronds, inspect undersides carefully and treat early if needed.
+Optional care improvement: Gently remove any fallen debris from the top dressing to maintain good airflow and reduce pest risk.
 
-Optional practical idea: Consider moving the plant to a spot with a bit more morning filtered sun if you want to boost growth gently without risking scorch.
+Optional practical idea: If you want, move the plant slightly to ensure it’s getting morning or filtered sun rather than harsh afternoon rays to avoid scorch in this hot weather.
 
 ------

@@ -1,15 +1,15 @@
 Venus Flytrap
 
-Today, keep the tray water level steady to maintain consistently wet media, especially with the warm, humid weather and light rain. This will support your flytrap’s active growth and help it thrive in the outdoor setup.
+Today, keep the tray water level steady to maintain consistently wet media without flooding, especially since the weather is warm and humid with some drizzle. The plant is adapting well outdoors, so no repot or pruning is needed now—just keep the moisture right and watch for any signs of stress.
 
-Top priority/action for today: Check the water level in the skull cachepot tray and refill with distilled, rain, or RO water if it’s low to keep the media wet but not flooded.
+Top priority/action for today: Check the tray water level and refill with distilled, rain, or RO water if it’s low, ensuring the media stays wet but not soggy.
 
-Watering guidance: Avoid letting the media dry out or become soggy; the soil should feel damp and the tray water shallow but present.
+Watering guidance: Use only pure water sources and keep a shallow layer in the tray to keep roots moist without drowning them.
 
-One useful check: Inspect traps for any fully black or dead ones and gently remove only those, leaving healthy green tissue intact.
+One useful check: Inspect traps for any fully black or dead ones and remove those carefully without disturbing green tissue.
 
-Optional care improvement: If you notice any algae or green film on the media surface, lightly brush it away without disturbing the roots.
+Optional care improvement: If you notice any algae on the media surface, gently remove it with a spoon or tweezers to improve airflow and reduce mold risk.
 
-Optional practical idea: Keep an eye on the skull cachepot’s temperature in direct sun—if it feels hot to the touch, consider a slight move to a spot with a bit more airflow to prevent root stress.
+Optional practical idea: Place the pot where it gets morning sun and some afternoon shade to avoid overheating in the hottest part of the day.
 
 ------

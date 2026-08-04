@@ -1,15 +1,15 @@
 Desert Rose
 
-Today, skip watering since the soil is still moist from recent rain and the caudex is firm. Instead, focus on monitoring the caudex and soil moisture closely to avoid overwatering during this recovery phase.
+Today, hold off on watering since the soil is still moist from recent rain and the caudex is firm. Keep it in its bright spot with good airflow to support recovery after the big root prune. Monitor the caudex for any softness or unusual changes, especially near the exposed base.
 
-Top priority/action for today: Check the caudex firmness gently to confirm it remains firm and not soft or mushy.
+Top priority/action for today: Do not water today; let the soil dry out thoroughly before the next watering.
 
-Watering guidance: Do not water today; wait until the soil is dry several inches deep and the caudex shows slight shriveling before watering.
+Watering guidance: Check the pot weight and top 2 inches of soil—only water when the mix feels dry and the caudex is slightly shriveled but firm.
 
-One useful check: Inspect the soil surface and pot weight to gauge dryness without disturbing roots.
+One useful check: Feel the caudex firmness and inspect the base for any soft spots, discoloration, or odor.
 
-Optional care improvement: If the plant gets less than 4 hours of direct sun today, consider moving it to a slightly brighter spot for more afternoon light.
+Optional care improvement: If you haven’t already, gently brush off any debris from the exposed caudex to keep it dry and clean.
 
-Optional practical idea: Shield the plant from any heavy rain or strong gusts if possible to protect the shallow roots and exposed caudex.
+Optional practical idea: Consider moving the plant to a spot with a bit more direct afternoon sun if possible, but avoid sudden intense sun exposure to prevent scorch.
 
 ------

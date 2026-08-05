@@ -1,15 +1,15 @@
 Sago Palm
 
-Today, with recent light rain and warm temps, hold off on watering unless the top 1–2 inches of soil feel dry and the pot feels noticeably lighter. Keep an eye on airflow around the plant to help prevent any moisture-related issues since it’s outside and exposed.
+Today, skip watering since the soil is still moist from recent rain and watering. Instead, keep an eye on airflow and sunlight exposure to avoid heat stress or fungal issues in this humid, overcast weather.
 
-Top priority/action for today: Check the soil moisture by feeling the top 1–2 inches and lifting the pot to gauge weight before deciding to water.
+Top priority/action for today: Check the soil moisture by feeling the top 1–2 inches and pot weight to confirm no watering is needed yet.
 
-Watering guidance: Water only if the soil is dry at the surface and the pot feels light; water thoroughly until drainage, then let excess drain away.
+Watering guidance: Only water when the upper soil is dry and the pot feels noticeably lighter, never on a fixed schedule.
 
 One useful check: Inspect the undersides of fronds and the crown for any early signs of scale or pests, especially since spotting was noted before.
 
-Optional care improvement: If you notice any fronds turning fully brown and loose, gently remove them to keep the plant tidy and healthy.
+Optional care improvement: If the plant is stable, consider gently brushing off the white gravel top dressing to ensure it’s not trapping moisture and hiding soggy soil.
 
-Optional practical idea: Consider moving the plant slightly to a spot with a bit more filtered morning sun if afternoon sun seems too harsh, to reduce leaf scorch risk.
+Optional practical idea: Make a simple reminder to check soil moisture every 3–4 days during humid, warm weather to avoid overwatering.
 
 ------

@@ -1,15 +1,15 @@
 Southern Live Oak
 
-Today, give your Southern Live Oak a deep watering to keep the soil evenly moist but not soggy, as the recent dry days and warm temps call for steady moisture to support recovery. Keep it in its current bright, airy outdoor spot and watch for any worsening of the orange spots or browning.
+Today, let the soil dry out a bit more before watering again since recent rain and watering have kept it moist. Keep an eye on the orange spots and browning leaves, but avoid any fertilizer or pruning until the tree shows stronger recovery signs.
 
-Top priority/action for today: Deep water the tree thoroughly until water drains freely from the pot’s drainage holes, then let it drain completely.
+Top priority/action for today: Check the soil moisture by feeling the top 2–3 inches and only water deeply if it feels dry to that depth.
 
-Watering guidance: Check the top 2–3 inches of soil before watering; water only if it feels dry or just barely moist, avoiding sogginess.
+Watering guidance: When watering, soak thoroughly until water drains from the bottom, then let the pot drain completely—don’t let it sit in standing water.
 
-One useful check: Inspect the leaves and new shoots for any increase in orange spotting or browning and note if leaf posture changes (wilting or curling).
+One useful check: Inspect the leaves for any increase in orange powdery spots or worsening browning to catch early signs of fungal issues.
 
-Optional care improvement: Gently remove any fallen leaves or debris from the soil surface to improve airflow and reduce fungal risk.
+Optional care improvement: Increase airflow around the tree if possible by gently repositioning it or trimming nearby plants to reduce humidity and fungal risk.
 
-Optional practical idea: Set a reminder to check soil moisture every 3 days this week to avoid letting the soil dry out too much or stay wet too long.
+Optional practical idea: Set a simple reminder to check soil moisture every 3–4 days to avoid over- or underwatering during this recovery phase.
 
 ------

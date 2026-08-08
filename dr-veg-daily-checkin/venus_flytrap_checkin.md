@@ -1,15 +1,15 @@
 Venus Flytrap
 
-Today, keep the tray water consistently filled with distilled or rainwater to maintain the wet media the Venus Flytrap loves, especially with warm and humid weather. The plant is adapting well outdoors, so no repot or pruning is needed now—just steady moisture and good airflow.
+Today, keep the tray water level steady to maintain consistently wet media, especially with the warm weather and moderate humidity. The plant is adapting well outdoors, so continue to give it plenty of bright light but watch for any signs of overheating in that skull cachepot setup.
 
-Top priority/action for today: Refill the tray with distilled or rainwater to keep the soil consistently wet but not flooded.
+Top priority/action for today: Check the water level in the skull cachepot reservoir and add distilled or rainwater if the media or tray feels less than damp.
 
-Watering guidance: Check that the media feels wet to damp at all times; never let it dry out or become crunchy.
+Watering guidance: Keep the tray water shallow but never let it dry out; the media should always feel wet or at least damp to the touch.
 
-One useful check: Inspect traps for any fully black or dead ones and remove only those, leaving green tissue intact.
+One useful check: Inspect traps for any fully blackened or dead ones and gently remove only those to keep the plant tidy.
 
-Optional care improvement: If you notice algae forming on the media surface, gently remove it without disturbing the roots.
+Optional care improvement: If you notice any algae or green film on the media surface, lightly scrape it off without disturbing the roots.
 
-Optional practical idea: Place the pot where it gets morning sun and some afternoon shade to avoid overheating in the skull cachepot.
+Optional practical idea: Consider moving the plant slightly if the skull cachepot heats up too much in direct sun to avoid root stress.
 
 ------

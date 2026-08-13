@@ -1,15 +1,15 @@
 Sago Palm
 
-Today, skip watering since recent rains have kept the soil moist. Instead, give your sago palm a quick inspection for any early signs of pests or frond damage, especially under the leaves and around the crown.
+Today, skip watering since the soil likely still holds moisture from recent rains and the humidity is high. Keep the plant in its current bright, partially filtered light spot to avoid sun scorch during this hot stretch. Monitor the older yellowing fronds but don’t remove them yet—they’re still contributing.
 
-Top priority/action for today: Inspect the undersides of fronds and the crown for any scale or pest signs.
+Top priority/action for today: Leave the older yellowing fronds alone unless they become mostly brown or pull away easily.
 
-Watering guidance: Only water if the top 1–2 inches of soil feel dry and the pot feels noticeably lighter.
+Watering guidance: Check the top 1–2 inches of soil and pot weight before watering; only water if the soil feels dry and the pot is noticeably lighter.
 
-One useful check: Gently tug on the older yellowing fronds to confirm they are still firmly attached; leave them until they loosen naturally.
+One useful check: Look under the fronds and around the crown for any signs of scale or pests, especially since the plant is outdoors and exposed.
 
-Optional care: If you spot any pests, plan to treat early but avoid spraying oils in this heat.
+Optional care improvement: If you want to keep the bonsai pot soil healthy, gently brush aside the top dressing occasionally to prevent moisture trapping and salt buildup.
 
-Optional practical idea: Consider moving the plant to a spot with a bit more morning filtered sun if scorch signs appear later.
+Optional practical idea: Consider shading the plant during the hottest afternoon hours if you notice any new frond scorch developing.
 
 ------

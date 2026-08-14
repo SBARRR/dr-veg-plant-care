@@ -1,15 +1,15 @@
 Desert Rose
 
-Today’s best move is to hold off on watering since the soil is still damp from recent rain and the caudex is firm. Keep the plant in its warm, sunny spot and watch for any softening or discoloration on the caudex as a sign to act. With the hot weather and good airflow, your Desert Rose is in a great spot to keep drying out well.
+Today, let the soil dry out thoroughly before considering any watering since the plant had recent rain and the weather is warm and humid. Keep it in bright light but avoid sudden shifts to harsher sun to prevent stress. Check the caudex firmness to catch any early signs of rot or dehydration.
 
-Top priority/action for today: Do not water; allow the soil to dry out fully before the next watering.
+Top priority/action for today: Do not water yet; wait until the soil is completely dry and the caudex feels slightly shriveled but still firm before watering again.
 
-Watering guidance: Check soil dryness by lifting the pot—if it feels light and the top 2 inches of soil are dry, it’s time to water deeply.
+Watering guidance: Water deeply only after the soil is dry several inches down and the caudex shows mild thirst signs; avoid watering if the caudex is soft or mushy.
 
-One useful check: Gently press the caudex to confirm it remains firm and not soft or mushy.
+One useful check: Feel the caudex firmness gently—firm and plump is good, soft or mushy means rot risk, and wrinkled means thirsty.
 
-Optional care improvement: If you notice any leaf spots or pests, inspect undersides of leaves carefully and treat only if confirmed.
+Optional care improvement: If you notice any new leaf spotting or pests, inspect leaves closely but avoid spraying oils in direct sun.
 
-Optional practical idea: Consider moving the plant to a spot with a bit more direct afternoon sun if you want to encourage flowering later.
+Optional practical idea: Consider moving the plant to a spot with stable filtered afternoon sun to ease acclimation and reduce stress from direct harsh sun.
 
 ------

@@ -1,15 +1,15 @@
 Sago Palm
 
-Today, skip watering since the soil is likely still moist from recent rains and the pot drains well. Keep an eye on the older yellowing fronds but don’t remove them yet unless they become mostly brown or loose. With the heat and bright filtered sun, make sure the plant stays shaded from harsh afternoon rays if possible.
+Today, let’s hold off on watering since recent rains have kept the soil moist, and the pot is shallow, so it dries fast but not too fast right now. Keep an eye on the soil surface and pot weight before watering again to avoid overwatering in this warm, humid stretch.
 
-Top priority/action for today: Check the soil moisture by feeling 1–2 inches below the surface before deciding to water.
+Top priority/action for today: Check the top 1–2 inches of soil moisture and pot weight to decide if watering is needed—only water if the soil feels dry and the pot feels lighter than usual.
 
-Watering guidance: Only water if the soil feels dry at that depth and the pot feels noticeably lighter than after rain.
+Watering guidance: When watering, do so thoroughly until water drains out the bottom, then let excess drain away; never let the pot sit in standing water.
 
-One useful check: Inspect the undersides of fronds for any signs of scale or pests, especially since spotting was noted before.
+One useful check: Inspect the undersides of fronds and the crown for any early signs of scale or pests, especially since the plant is outdoors and warm weather can encourage them.
 
-Optional care improvement: If you want to reduce heat stress, consider moving the plant to a spot with morning sun and afternoon shade.
+Optional care improvement: If you notice any fully brown fronds that pull away easily, remove them gently to tidy up and reduce pest hiding spots.
 
-Optional practical idea: Gently brush off the white plastic beach decorations when checking soil moisture to avoid hiding wet soil.
+Optional practical idea: Consider moving the plant to a spot with a bit more filtered morning sun and less intense afternoon heat if you see any scorch signs developing.
 
 ------

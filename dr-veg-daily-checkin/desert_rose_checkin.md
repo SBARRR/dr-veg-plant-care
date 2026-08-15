@@ -1,15 +1,15 @@
 Desert Rose
 
-Today, let the soil dry out thoroughly before considering any watering since the plant had recent rain and the weather is warm and humid. Keep it in bright light but avoid sudden shifts to harsher sun to prevent stress. Check the caudex firmness to catch any early signs of rot or dehydration.
+Today’s best move is to hold off on watering since the soil is still moist from recent rain and the caudex is firm. Keep the plant in bright, filtered late-afternoon sun as usual and watch for any signs of softness or rot, especially around the exposed caudex. With warm temps and good airflow, your Desert Rose is in a good spot to keep recovering steadily.
 
-Top priority/action for today: Do not water yet; wait until the soil is completely dry and the caudex feels slightly shriveled but still firm before watering again.
+Top priority/action for today: Do not water today; wait until the soil dries well and the caudex shows slight shriveling before watering again.
 
-Watering guidance: Water deeply only after the soil is dry several inches down and the caudex shows mild thirst signs; avoid watering if the caudex is soft or mushy.
+Watering guidance: Check the top 2-3 inches of soil for dryness and feel the pot weight before deciding to water next time.
 
-One useful check: Feel the caudex firmness gently—firm and plump is good, soft or mushy means rot risk, and wrinkled means thirsty.
+One useful check: Inspect the exposed caudex and base for any soft spots, discoloration, or unusual odors that might indicate rot.
 
-Optional care improvement: If you notice any new leaf spotting or pests, inspect leaves closely but avoid spraying oils in direct sun.
+Optional care improvement: If you want to boost growth later this month, plan a light half-strength fertilizer feeding once the plant is actively growing and soil is dry.
 
-Optional practical idea: Consider moving the plant to a spot with stable filtered afternoon sun to ease acclimation and reduce stress from direct harsh sun.
+Optional practical idea: Consider adding a small, loose top dressing of pumice or grit to help keep the caudex base dry and reduce splashback from rain.
 
 ------

@@ -1,15 +1,15 @@
 Desert Rose
 
-Today’s best move is to hold off on watering since the soil is still moist from recent rain and the caudex is firm. Keep the plant in bright, filtered late-afternoon sun as usual and watch for any signs of softness or rot, especially around the exposed caudex. With warm temps and good airflow, your Desert Rose is in a good spot to keep recovering steadily.
+Today, hold off on watering since recent rain and high humidity keep the soil moist enough. Instead, focus on checking the caudex firmness carefully to catch any early signs of rot or softness given the recent root pruning and exposed caudex. Keep the plant in bright light but avoid sudden harsh sun exposure to prevent stress.
 
-Top priority/action for today: Do not water today; wait until the soil dries well and the caudex shows slight shriveling before watering again.
+Top priority/action for today: Check the caudex firmness gently for any soft spots or mushiness, especially near the exposed base.
 
-Watering guidance: Check the top 2-3 inches of soil for dryness and feel the pot weight before deciding to water next time.
+Watering guidance: Do not water today; wait until the soil is fully dry several inches down before watering again.
 
-One useful check: Inspect the exposed caudex and base for any soft spots, discoloration, or unusual odors that might indicate rot.
+One useful check: Inspect leaves and stems for any new signs of pests or leaf spots, especially on undersides and joints.
 
-Optional care improvement: If you want to boost growth later this month, plan a light half-strength fertilizer feeding once the plant is actively growing and soil is dry.
+Optional care improvement: Consider moving the plant to a spot with morning sun and some afternoon shade to reduce heat stress during peak UV hours.
 
-Optional practical idea: Consider adding a small, loose top dressing of pumice or grit to help keep the caudex base dry and reduce splashback from rain.
+Optional practical idea: Wipe the leaves gently with a dry cloth to remove any dust and improve photosynthesis.
 
 ------

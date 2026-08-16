@@ -1,15 +1,15 @@
 Sago Palm
 
-Today, let’s hold off on watering since recent rains have kept the soil moist, and the pot is shallow, so it dries fast but not too fast right now. Keep an eye on the soil surface and pot weight before watering again to avoid overwatering in this warm, humid stretch.
+Today, give your sago palm a good look-over for any early signs of scale or other pests, especially under the fronds and around the crown. The recent drizzle and warm temps mean the soil might still be moist, so hold off on watering unless the top inch feels dry.
 
-Top priority/action for today: Check the top 1–2 inches of soil moisture and pot weight to decide if watering is needed—only water if the soil feels dry and the pot feels lighter than usual.
+Top priority/action for today: Inspect undersides of fronds and the crown carefully for any small white or crusty scale spots and remove any debris caught in the leaves.
 
-Watering guidance: When watering, do so thoroughly until water drains out the bottom, then let excess drain away; never let the pot sit in standing water.
+Watering guidance: Only water if the top 1–2 inches of soil are dry and the pot feels noticeably lighter when lifted.
 
-One useful check: Inspect the undersides of fronds and the crown for any early signs of scale or pests, especially since the plant is outdoors and warm weather can encourage them.
+One useful check: Confirm the drainage holes are clear and water is not pooling in the drip tray beneath the pot.
 
-Optional care improvement: If you notice any fully brown fronds that pull away easily, remove them gently to tidy up and reduce pest hiding spots.
+Optional care improvement: If you spot any scale, plan to treat with horticultural oil but only in cooler parts of the day to avoid heat stress.
 
-Optional practical idea: Consider moving the plant to a spot with a bit more filtered morning sun and less intense afternoon heat if you see any scorch signs developing.
+Optional practical idea: Gently brush off the white plastic beach decorations to keep airflow better around the soil surface.
 
 ------

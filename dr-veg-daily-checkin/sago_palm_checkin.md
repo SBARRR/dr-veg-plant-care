@@ -1,15 +1,15 @@
 Sago Palm
 
-Today, give your sago palm a good look-over for any early signs of scale or other pests, especially under the fronds and around the crown. The recent drizzle and warm temps mean the soil might still be moist, so hold off on watering unless the top inch feels dry.
+Today, skip watering since the soil likely still holds moisture from recent rains and the pot is shallow, which can stay wet longer in this heat. Instead, give the plant a quick inspection for any early signs of scale or pests, especially under the fronds and near the crown, to catch problems early. Keep it in bright, filtered light and good airflow to help it handle the warm, humid weather.
 
-Top priority/action for today: Inspect undersides of fronds and the crown carefully for any small white or crusty scale spots and remove any debris caught in the leaves.
+Top priority/action for today: Check undersides of fronds and crown carefully for any scale or pest presence and note any sticky residue or white crusts.
 
-Watering guidance: Only water if the top 1–2 inches of soil are dry and the pot feels noticeably lighter when lifted.
+Watering guidance: Hold off watering until the top 1–2 inches of soil feel dry and the pot feels noticeably lighter when lifted.
 
-One useful check: Confirm the drainage holes are clear and water is not pooling in the drip tray beneath the pot.
+One useful check: Confirm the drainage tray is free of standing water and that river rocks are not holding excess moisture against the pot bottom.
 
-Optional care improvement: If you spot any scale, plan to treat with horticultural oil but only in cooler parts of the day to avoid heat stress.
+Optional care improvement: Gently brush off any dust or debris on fronds to improve photosynthesis and airflow.
 
-Optional practical idea: Gently brush off the white plastic beach decorations to keep airflow better around the soil surface.
+Optional practical idea: Consider moving the plant to a spot with morning sun and afternoon shade if you notice any scorch signs in the next few days.
 
 ------

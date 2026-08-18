@@ -1,15 +1,15 @@
 Venus Flytrap
 
-Today, keep the tray water level steady to ensure the soil stays consistently wet, especially with the warm, mostly sunny weather. This will help your flytrap thrive in the heat without drying out its sensitive roots.
+Today, keep the tray water level steady to maintain consistently wet media, especially with the warm, sunny weather. Your plant is thriving outdoors, so no repotting or pruning is needed now—just keep the roots happy and hydrated.
 
-Top priority/action for today: Check the water level in the skull cachepot reservoir and refill with distilled, rain, or RO water if it’s low to keep the media wet.
+Top priority/action for today: Check and refill the tray with distilled, rain, or RO water to keep the soil consistently moist but not flooded.
 
-Watering guidance: Avoid letting the soil dry out or the tray go empty for more than a few hours, especially in this warm weather.
+Watering guidance: Avoid letting the media dry out; the soil should feel wet to damp at all times.
 
-One useful check: Look over the traps for any fully black or dead ones and gently remove only those to keep the plant tidy without stressing it.
+One useful check: Inspect traps for any fully black or dead ones and gently remove only those without disturbing green tissue.
 
-Optional care improvement: If you notice any algae or green film on the media surface, lightly scrape it off to prevent mold buildup but don’t disturb the roots.
+Optional care improvement: If you notice any algae on the media surface, lightly scrape it off without disturbing the roots.
 
-Optional practical idea: Place the pot where it gets morning sun and some afternoon shade to avoid overheating the tiny pot in the afternoon heat.
+Optional practical idea: Position the pot so it gets morning sun and some afternoon shade to avoid overheating in the hottest hours.
 
 ------

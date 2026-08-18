@@ -1,15 +1,15 @@
 Desert Rose
 
-Today, your Desert Rose is ready for a light feeding since it's warm, actively growing, and stable after the repot recovery. Give it a half-strength balanced liquid fertilizer to support steady growth without stressing the roots.
+Today, keep your Desert Rose dry and avoid watering since it recently had rain and is still in recovery from root pruning. Ensure it stays in bright light but shield it from any prolonged wetness to prevent rot.
 
-Top priority/action for today: Feed with a half-strength balanced liquid fertilizer to encourage healthy growth.
+Top priority/action for today: Do not water; let the soil dry out fully before the next watering.
 
-Watering guidance: Only water if the soil feels dry several inches down and the caudex is firm, but given recent rain and humidity, hold off watering for now.
+Watering guidance: Check the pot weight and soil dryness by feeling the top 2-3 inches—only water when completely dry and caudex feels firm.
 
-One useful check: Gently press the caudex and soil surface to confirm firmness and dryness before deciding on watering.
+One useful check: Inspect the caudex for firmness and any soft spots or discoloration, especially near the exposed base.
 
-Optional care improvement: If you want to boost flowering later, increase direct sun exposure gradually to reach 6+ hours daily.
+Optional care improvement: If you notice any pests or leaf spots, monitor closely but avoid treatments in hot sun or while stressed.
 
-Optional practical idea: Keep an eye on any new leaf spots or pests, but avoid treatments unless you see clear signs.
+Optional practical idea: Consider moving the pot slightly to maximize afternoon filtered sun exposure without risking scorching.
 
 ------

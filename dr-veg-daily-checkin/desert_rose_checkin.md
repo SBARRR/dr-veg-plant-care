@@ -1,15 +1,15 @@
 Desert Rose
 
-Today, keep your Desert Rose dry and shaded from any unexpected heavy rain or wind, as the caudex is still recovering from the big root prune earlier this summer. Hold off on watering until the soil is fully dry and the caudex feels firm again to avoid any risk of rot.
+Hold off on watering today since recent rain and high humidity mean the soil is likely still moist. Keep the plant in its sunny spot but watch for any signs of softness in the caudex, especially around the exposed base. This is a good day to give the caudex and soil surface a quick firmness check to catch any early rot signs.
 
-Top priority/action for today: Do not water yet; continue to let the soil dry out completely and monitor caudex firmness.
+Top priority/action for today: Check the caudex firmness carefully, especially the exposed base tissue, to ensure no soft or mushy spots have developed.
 
-Watering guidance: Check the pot weight and caudex firmness—water only if the pot feels very light and the caudex is slightly shriveled but still firm.
+Watering guidance: Do not water today; wait until the soil mix feels dry several inches down and the caudex is slightly shriveled before watering again.
 
-One useful check: Inspect the base of the caudex for any soft spots or dark discoloration that could signal rot.
+One useful check: Inspect the soil surface and pot drainage holes to confirm water is draining well and no standing moisture remains.
 
-Optional care improvement: If the plant gets more than 4 hours of direct sun today, consider moving it to a spot with filtered light to avoid sun stress during recovery.
+Optional care improvement: If you notice any leaf spots or pests, take a close look under leaves and stem joints, but avoid treatment unless you spot confirmed pests.
 
-Optional practical idea: Set a reminder to check soil dryness and caudex firmness again in 3–4 days for the next watering decision.
+Optional practical idea: Consider gently shading the plant during the hottest midday hours if the UV index stays very high to prevent sun scorch while it recovers.
 
 ------

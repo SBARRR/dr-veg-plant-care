@@ -1,15 +1,15 @@
 Desert Rose
 
-Hold off on watering today since recent rain and high humidity mean the soil is likely still moist. Keep the plant in its sunny spot but watch for any signs of softness in the caudex, especially around the exposed base. This is a good day to give the caudex and soil surface a quick firmness check to catch any early rot signs.
+Today, hold off on watering since the soil is still recovering from recent rain and the plant’s roots are still stabilizing after the big root prune. Keep it in bright, indirect light and warm conditions to encourage steady recovery without stressing the caudex.
 
-Top priority/action for today: Check the caudex firmness carefully, especially the exposed base tissue, to ensure no soft or mushy spots have developed.
+Top priority/action for today: Avoid watering and keep the plant dry to prevent rot while the root system continues to recover.
 
-Watering guidance: Do not water today; wait until the soil mix feels dry several inches down and the caudex is slightly shriveled before watering again.
+Watering guidance: Check the soil dryness by lifting the pot—if it still feels heavy or the top few inches are not dry, wait before watering.
 
-One useful check: Inspect the soil surface and pot drainage holes to confirm water is draining well and no standing moisture remains.
+One useful check: Gently press the caudex to confirm it remains firm and not soft or mushy, which would signal rot risk.
 
-Optional care improvement: If you notice any leaf spots or pests, take a close look under leaves and stem joints, but avoid treatment unless you spot confirmed pests.
+Optional care improvement: Ensure the plant is shaded from harsh midday sun to prevent sunburn on the exposed caudex.
 
-Optional practical idea: Consider gently shading the plant during the hottest midday hours if the UV index stays very high to prevent sun scorch while it recovers.
+Optional practical idea: Clear any debris from the pot surface to maintain airflow and reduce moisture retention around the base.
 
 ------

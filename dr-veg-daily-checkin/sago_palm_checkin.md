@@ -1,15 +1,15 @@
 Sago Palm
 
-Today, skip watering since recent rains have kept the soil moist, and your sago is in a shallow pot that dries fast but still feels okay now. Keep an eye on the older yellow fronds for any further loosening or browning before removing them.
+Today, let the soil dry out a bit more before watering again since it recently had rain and the pot is shallow, which can hold moisture longer in this heat. Keep an eye on the older yellowing fronds but don’t remove them yet unless they turn fully brown or come off easily.
 
-Top priority/action for today: Check the top 1–2 inches of soil moisture and pot weight to confirm the soil is drying out before planning your next watering.
+Top priority/action for today: Check the top 1–2 inches of soil moisture and only water if it feels dry and the pot feels light when lifted.
 
-Watering guidance: Only water thoroughly when the upper soil feels dry and the pot feels noticeably lighter, avoiding any standing water in the drip tray.
+Watering guidance: When watering, do so thoroughly until water drains from the bottom, then remove any excess from the drip tray to avoid soggy roots.
 
-One useful check: Inspect the undersides of fronds and the crown for any early signs of scale or pests, especially since the plant is outdoors and exposed.
+One useful check: Inspect the undersides of fronds and the crown for any signs of scale or pests, especially since spotting was noted before.
 
-Optional care improvement: Gently brush aside the top dressing occasionally to ensure it’s not hiding overly wet soil beneath.
+Optional care improvement: If you want to keep an eye on heat stress, consider moving the plant to a spot with a bit more filtered afternoon shade on the hottest days.
 
-Optional practical idea: Consider moving the plant to a spot with morning sun rather than harsh afternoon sun if you notice any leaf scorch developing.
+Optional practical idea: Gently brush off the top dressing gravel occasionally to prevent it from hiding moisture or pests underneath.
 
 ------

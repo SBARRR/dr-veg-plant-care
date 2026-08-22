@@ -3,7 +3,7 @@
 ## Current Snapshot
 <!-- Current state and durable care facts for this specific plant. This section should preserve important information that should not disappear. -->
 
-- Last updated: 2026-07-30
+- Last updated: 2026-08-22
   <!-- Date this snapshot was last revised. -->
 
 - Overall condition: Stable and improving after the 2026-06-01 repot and major root reduction. Caudex firmness has recovered and is now firm, and growth remains steady.
@@ -12,7 +12,7 @@
 - Watering status: On 2026-07-30, the plant received at least three hours of rain. Previous watering was from heavy rain on 2026-07-27.
   <!-- Latest watering state or other water-related context needed for daily advice. -->
 
-- Fertilizer status: No fertilizer has been given since purchase.
+- Fertilizer status: Fertilized on 2026-08-22 with approximately 3/4 teaspoon of BGI PalmGain 8-2-12. First fertilizer application since purchase.
   <!-- Latest fertilizer state, including last feeding, fertilizer used, form, dose/strength, and or fertilizer guidance. -->
 
 - Leaf/pest history: Possible pest/leaf-spot concern at purchase due to white/cloudy splotches on leaves; oil-based leaf treatment completed on 2026-05-27 as a precaution. User has not reported if white splotches have returned.

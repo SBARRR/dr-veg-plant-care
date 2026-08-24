@@ -1,15 +1,15 @@
 Sago Palm
 
-Today, skip watering since recent rain and high humidity mean the soil is likely still moist. Keep an eye on the yellowing fronds but don’t remove them yet—they’re still helping the plant. If you want, gently brush off the white gravel to check the soil moisture underneath.
+Today, skip watering since recent rains have kept the soil moist and the pot is shallow, which dries quickly but not yet fully. Keep an eye on older yellow fronds for any changes, but don’t remove them unless they turn fully brown or come off easily. With warm weather and decent sun, just maintain airflow and watch moisture closely.
 
-Top priority/action for today: Do not water today; check soil moisture first by lifting the pot to feel its weight and probing the top 1–2 inches of soil.
+Top priority/action for today: Check the soil moisture by feeling the top 1–2 inches and lifting the pot to gauge weight before deciding on watering.
 
-Watering guidance: Water only when the top 1–2 inches of soil are dry and the pot feels noticeably lighter than after watering.
+Watering guidance: Only water if the soil feels dry and the pot is noticeably lighter; avoid watering if the soil still feels damp.
 
-One useful check: Inspect the undersides of fronds and the crown for any signs of scale or pests, especially white crusty spots.
+One useful check: Inspect the undersides of fronds and the crown for any signs of scale or pests, especially since spotting was noted earlier.
 
-Optional care improvement: Gently brush aside the top dressing to better monitor soil moisture and prevent hidden sogginess.
+Optional care improvement: If you want to freshen things up, gently brush off the top dressing to check soil surface moisture without disturbing roots.
 
-Optional practical idea: Consider moving the plant to a spot with morning sun rather than late afternoon to reduce risk of scorch during hot days.
+Optional practical idea: Consider moving the plant to morning sun if afternoon sun seems too intense to prevent scorch in coming hotter days.
 
 ------

@@ -1,15 +1,15 @@
 Desert Rose
 
-Today, give your Desert Rose a thorough check for any soft spots on the caudex or stem, especially near the exposed base tissue, since it’s been warm and humid with some drizzle recently. Hold off on watering unless the soil feels dry several inches down and the caudex is slightly shriveled but still firm.
+Today, your Desert Rose is ready for a light feeding to support its steady growth now that it's warm and stable. Keep watering only after the soil is fully dry, and keep an eye on the caudex firmness to catch any early signs of trouble.
 
-Top priority/action for today: Inspect the caudex and stem base carefully for any soft or mushy areas signaling rot, especially where the caudex is exposed above soil.
+Top priority/action for today: Apply a half-strength balanced liquid fertilizer to encourage healthy growth, since the plant is actively growing and was last fertilized about a week ago.
 
-Water only if the succulent mix is dry at least 2 inches deep and the caudex feels firm but slightly shriveled.
+Watering guidance: Check that the soil is completely dry several inches down before watering deeply; avoid watering if the caudex feels soft or mushy.
 
-Check that the pot drains well after any watering and that no water is pooling underneath.
+One useful check: Feel the caudex firmness and inspect the base for any soft spots or discoloration that might signal rot.
 
-(Optional) Consider moving the plant to a spot with slightly less wind exposure today to reduce stress from gusts.
+Optional care improvement: If you want to boost flowering later, consider increasing direct sun exposure gradually to reach closer to 6 hours daily.
 
-(Optional) If you haven’t yet, note how many hours of direct sun it’s getting to track acclimation progress.
+Optional practical idea: Remove any fallen leaves or debris from the pot surface to maintain good airflow and reduce pest risk.
 
 ------

@@ -1,15 +1,15 @@
 Sago Palm
 
-Today, let the soil dry out a bit more before watering again since it recently had rain and the weather is warm but humid. Keep an eye on the older yellowing fronds and only remove them if they become mostly brown or loose easily.
+Today, let the recent rain do the watering for you—no need to add more water just yet. Keep an eye on the older yellowing fronds; leave them be unless they turn fully brown or pull away easily.
 
-Top priority/action for today: Check the top 1–2 inches of soil moisture and only water if it feels dry and the pot is noticeably lighter.
+Top priority/action for today: Check the soil moisture by feeling the top 1–2 inches before deciding on watering.
 
-Watering guidance: When watering, do so thoroughly until water drains out the bottom, then remove any standing water from the drip tray.
+Watering guidance: Only water if the soil feels dry at the surface and the pot feels noticeably lighter than after rain.
 
-One useful check: Inspect the undersides of fronds and the crown for any early signs of scale or pests, especially since spotting was noted before.
+One useful check: Inspect the undersides of fronds and the crown for any signs of scale or pests, especially since the plant is outdoors and exposed.
 
 Optional care improvement: If you want to tidy up, gently remove any fully brown fronds to keep the plant looking neat without stressing it.
 
-Optional practical idea: Consider shifting the plant slightly if afternoon sun gets too intense, to avoid scorching the fronds during the hottest hours.
+Optional practical idea: Consider moving the plant to a spot with morning sun instead of afternoon sun to reduce heat stress during peak UV hours.
 
 ------

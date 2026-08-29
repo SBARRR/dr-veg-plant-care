@@ -1,15 +1,15 @@
 Desert Rose
 
-Today, your Desert Rose can handle a light feeding since it’s warm, actively growing, and recently fertilized about a week ago. Keep an eye on soil moisture before watering, especially with recent rain and humid conditions.
+Today, the Desert Rose can handle a light watering since the soil has had time to dry well after recent rain and the plant is in warm, sunny conditions. Keep an eye on the caudex firmness to avoid overwatering, especially after the big root prune earlier this summer.
 
-Top priority/action for today: Apply a half-strength balanced liquid fertilizer to support steady growth without stressing the roots.
+Top priority/action for today: Water deeply but only if the top 2-3 inches of soil feel dry and the caudex is firm, then let the pot drain fully.
 
-Water only if the top 2–3 inches of soil feel dry and the caudex is firm, avoiding watering if the soil still feels moist from recent rain.
+Watering guidance: Avoid watering if the caudex feels soft or mushy or if the soil is still moist from recent rain.
 
-Check the caudex firmness and look for any soft spots or discoloration around the base to catch early signs of rot.
+One useful check: Gently squeeze the caudex to confirm it’s firm and not soft or shriveled before watering.
 
-(Optional) Consider gently rotating the pot to ensure even light exposure as the plant adjusts to its new patio spot.
+Optional care improvement: Consider moving the plant to a spot with about 6 hours of direct sunlight if possible, to boost growth and flowering.
 
-(Optional) Clear any debris from the soil surface to improve airflow and reduce moisture retention.
+Optional practical idea: Remove any fallen leaves or debris from the pot surface to improve airflow and reduce rot risk.
 
 ------

@@ -1,15 +1,15 @@
 Sago Palm
 
-Today, let the recent rain do the watering for you—no need to add more water just yet. Keep an eye on the older yellowing fronds; leave them be unless they turn fully brown or pull away easily.
+Today, let the soil dry out a bit more before watering again since recent rains have kept it moist. Keep an eye on the yellowing fronds but don’t remove them yet—they’re still helping the plant. With the warm weather and some rain, no fertilizer or pruning is needed now.
 
-Top priority/action for today: Check the soil moisture by feeling the top 1–2 inches before deciding on watering.
+Top priority/action for today: Check the top 1–2 inches of soil moisture and only water if it feels dry and the pot feels lighter when lifted.
 
-Watering guidance: Only water if the soil feels dry at the surface and the pot feels noticeably lighter than after rain.
+Watering guidance: Water thoroughly until drainage if soil is dry, but never let the pot sit in standing water.
 
-One useful check: Inspect the undersides of fronds and the crown for any signs of scale or pests, especially since the plant is outdoors and exposed.
+One useful check: Inspect the undersides of fronds and the crown for any signs of scale or pests, especially since spotting was noted before.
 
-Optional care improvement: If you want to tidy up, gently remove any fully brown fronds to keep the plant looking neat without stressing it.
+Optional care improvement: If you want to keep the plant happy in that shallow bonsai pot, consider moving it to a spot with morning sun rather than harsh afternoon sun to avoid scorch.
 
-Optional practical idea: Consider moving the plant to a spot with morning sun instead of afternoon sun to reduce heat stress during peak UV hours.
+Optional practical idea: Gently brush off the white plastic decorations when watering to prevent trapping moisture and hiding soil dryness.
 
 ------

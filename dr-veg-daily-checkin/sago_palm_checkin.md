@@ -1,15 +1,15 @@
 Sago Palm
 
-Today, let the soil dry out a bit more before watering again since recent rains have kept it moist. Keep an eye on the yellowing fronds but don’t remove them yet—they’re still helping the plant. With the warm weather and some rain, no fertilizer or pruning is needed now.
+Today, skip watering since the soil likely still holds moisture from recent rains and the pot is shallow. Keep an eye on the yellowing fronds but don’t remove them yet—they’re still helping the plant. With the warm, humid weather and moderate sun, just ensure good airflow around the plant to prevent any fungal or pest issues.
 
-Top priority/action for today: Check the top 1–2 inches of soil moisture and only water if it feels dry and the pot feels lighter when lifted.
+Top priority/action for today: Do not water; check soil moisture by feeling the top 1–2 inches and pot weight before considering watering again.
 
-Watering guidance: Water thoroughly until drainage if soil is dry, but never let the pot sit in standing water.
+Watering guidance: Water only when the upper soil is dry and the pot feels noticeably lighter, then water thoroughly until drainage occurs.
 
-One useful check: Inspect the undersides of fronds and the crown for any signs of scale or pests, especially since spotting was noted before.
+One useful check: Inspect undersides of fronds and the crown for any signs of scale or pests, especially since the plant is outdoors and exposed.
 
-Optional care improvement: If you want to keep the plant happy in that shallow bonsai pot, consider moving it to a spot with morning sun rather than harsh afternoon sun to avoid scorch.
+Optional care improvement: Gently brush off any debris from the top dressing to keep airflow good and prevent moisture trapping.
 
-Optional practical idea: Gently brush off the white plastic decorations when watering to prevent trapping moisture and hiding soil dryness.
+Optional practical idea: Consider moving the plant slightly to a spot with morning sun rather than intense afternoon sun if you notice any scorch signs developing.
 
 ------

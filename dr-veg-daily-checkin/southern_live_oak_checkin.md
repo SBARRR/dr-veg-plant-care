@@ -1,15 +1,15 @@
 Southern Live Oak
 
-Today, keep the soil evenly moist but not soggy since the oak is still recovering from transplant shock and recent root damage. The moderate drizzle and high humidity help, but check soil moisture carefully before watering to avoid overwatering.
+Today, give your oak a thorough deep watering to keep the soil evenly moist but not soggy, especially since it’s recovering from transplant shock and the soil can dry unevenly in that pot. Keep an eye on the orange spotting and browning leaves—if you spot new affected leaves, trim them off gently to reduce stress and disease pressure.
 
-Top priority/action for today: Check the top 2–3 inches of soil for moisture and water deeply only if it feels dry to the touch.
+Top priority/action for today: Deep water the Southern Live Oak until water drains freely from the pot bottom, then let it drain completely.
 
-Watering guidance: Water until you see drainage from the pot’s holes, then let it drain fully; do not let the pot sit in standing water.
+Watering guidance: Check the top 2–3 inches of soil—water only if it feels dry or just barely moist; avoid letting the soil dry out hard or stay soggy.
 
-One useful check: Inspect new growth and leaves for any worsening orange spotting or browning and note any changes.
+One useful check: Inspect the leaves for any new orange spots or browning edges and prune off any fully affected leaves carefully.
 
-Optional care improvement: If the orange spots persist or spread, consider gently increasing airflow around the tree by adjusting its position slightly.
+Optional care improvement: Consider moving the tree to a spot with steady airflow to help reduce fungal issues without increasing sun stress.
 
-Optional practical idea: Mark your calendar to reassess fertilizing needs in early spring next year, avoiding feeding while still recovering.
+Optional practical idea: Mark a simple watering reminder for early next week to avoid forgetting, since consistent moisture is key right now.
 
 ------

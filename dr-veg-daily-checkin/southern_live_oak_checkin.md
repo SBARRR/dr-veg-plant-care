@@ -1,15 +1,15 @@
 Southern Live Oak
 
-Today, give your oak a thorough deep watering to keep the soil evenly moist but not soggy, especially since it’s recovering from transplant shock and the soil can dry unevenly in that pot. Keep an eye on the orange spotting and browning leaves—if you spot new affected leaves, trim them off gently to reduce stress and disease pressure.
+Today, let the recent rain and high humidity keep your oak’s soil comfortably moist without watering. Keep it in that bright spot outside the patio where it’s getting 5–6 hours of sun, but watch for any signs of leaf scorch as the heat stays high.
 
-Top priority/action for today: Deep water the Southern Live Oak until water drains freely from the pot bottom, then let it drain completely.
+Top priority/action for today: Avoid watering now since the soil is still moist from recent rains; wait until the top 2–3 inches feel dry before watering again.
 
-Watering guidance: Check the top 2–3 inches of soil—water only if it feels dry or just barely moist; avoid letting the soil dry out hard or stay soggy.
+Watering guidance: When you do water next, soak deeply until water drains out the bottom, then let the pot drain fully—no standing water.
 
-One useful check: Inspect the leaves for any new orange spots or browning edges and prune off any fully affected leaves carefully.
+One useful check: Inspect the upper leaves for any return of orange powdery spots or browning and remove only fully dead leaves if needed.
 
-Optional care improvement: Consider moving the tree to a spot with steady airflow to help reduce fungal issues without increasing sun stress.
+Optional care improvement: Gently increase airflow around the tree if possible to reduce leaf wetness and fungal risk.
 
-Optional practical idea: Mark a simple watering reminder for early next week to avoid forgetting, since consistent moisture is key right now.
+Optional practical idea: Set a simple reminder to check soil moisture every 3–4 days during this humid, rainy stretch to avoid overwatering.
 
 ------

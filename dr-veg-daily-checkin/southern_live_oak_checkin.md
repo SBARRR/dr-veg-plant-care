@@ -1,15 +1,15 @@
 Southern Live Oak
 
-Today, let the recent rain and high humidity keep your oak’s soil comfortably moist without watering. Keep it in that bright spot outside the patio where it’s getting 5–6 hours of sun, but watch for any signs of leaf scorch as the heat stays high.
+Today, keep the soil evenly moist but not soggy—your oak is still recovering from transplant shock and root damage, so steady moisture is key. With rain showers expected, hold off on watering unless the top 2–3 inches of soil feel dry to the touch.
 
-Top priority/action for today: Avoid watering now since the soil is still moist from recent rains; wait until the top 2–3 inches feel dry before watering again.
+Top priority/action for today: Check soil moisture at 2–3 inches depth and only water deeply if it feels dry, ensuring good drainage afterward.
 
-Watering guidance: When you do water next, soak deeply until water drains out the bottom, then let the pot drain fully—no standing water.
+Watering guidance: Avoid watering if the soil still feels cool and moist from recent rains; let the pot drain fully if you do water.
 
-One useful check: Inspect the upper leaves for any return of orange powdery spots or browning and remove only fully dead leaves if needed.
+One useful check: Inspect the leaves for any new orange spots or browning and note if any new growth looks limp or wilted.
 
-Optional care improvement: Gently increase airflow around the tree if possible to reduce leaf wetness and fungal risk.
+Optional care idea: Consider moving the oak to a spot with consistent morning sun but some afternoon shade to reduce heat stress during this warm, humid period.
 
-Optional practical idea: Set a simple reminder to check soil moisture every 3–4 days during this humid, rainy stretch to avoid overwatering.
+Optional practical idea: Keep the pine bark mulch ring clear of the trunk flare to prevent moisture buildup and potential rot.
 
 ------

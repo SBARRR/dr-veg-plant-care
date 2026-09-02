@@ -1,15 +1,15 @@
 Sago Palm
 
-Today, skip watering since your sago palm just had a good soaking from recent rains and the soil likely remains moist. Keep an eye on the drainage tray to ensure no standing water accumulates, especially with the humid, rainy weather. This will help prevent root rot and keep your bonsai pot happy.
+Today, skip watering since recent rain likely kept the soil moist, especially with the high humidity and moderate rain forecast. Keep an eye on the older yellowing fronds but don’t remove them yet unless they turn fully brown or loose. The plant is stable now, so just monitor moisture and airflow.
 
-Top priority/action for today: Check the drainage tray and empty any standing water to prevent soggy roots.
+Top priority/action for today: Check the top 1–2 inches of soil moisture before deciding to water; hold off if still damp.
 
-Watering guidance: Hold off watering until the top 1–2 inches of soil feel dry and the pot feels lighter when lifted.
+Watering guidance: Water only when the soil surface feels dry and the pot feels noticeably lighter, then water thoroughly until drainage.
 
-One useful check: Gently tug on the older yellowing fronds to see if they are loosening; only remove if they pull away easily and are mostly brown.
+One useful check: Inspect the undersides of fronds and the crown for any early signs of scale or pests, especially after recent rain.
 
-Optional care idea: If you notice any scale or pests on the undersides of fronds, plan a targeted horticultural oil treatment on a cooler, less sunny day.
+Optional care improvement: Gently brush off any debris from the top dressing to keep airflow good around the crown.
 
-Optional practical idea: Consider moving the pot slightly to reduce direct afternoon sun exposure if you see any scorch signs in the coming days.
+Optional practical idea: Consider moving the plant slightly to a spot with morning sun and afternoon shade to reduce risk of scorch in the hotter hours.
 
 ------

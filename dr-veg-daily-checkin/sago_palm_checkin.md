@@ -1,15 +1,15 @@
 Sago Palm
 
-Today, let the soil dry out a bit more before watering again since recent rain and humidity mean the soil is likely still moist. Keep an eye on the yellowing fronds but don’t remove them yet—they’re still helping the plant. If you want, gently brush off the top dressing to check soil moisture without disturbing roots too much.
+Today, let the recent rain do most of the watering work since the soil likely still holds moisture. Hold off on watering unless the top 1–2 inches of soil feel dry and the pot is noticeably lighter. Keep an eye on airflow around the plant to help dry the soil surface and prevent rot, especially with the humid, rainy weather.
 
-Top priority/action for today: Check the top 1–2 inches of soil moisture by gently moving aside the gravel top dressing and feel if it’s dry before considering watering.
+Top priority/action for today: Check the top 1–2 inches of soil moisture and pot weight before deciding to water; only water if the soil is dry and the pot feels light.
 
-Watering guidance: Only water if the soil feels dry and the pot feels lighter than after the last watering; avoid watering if it still feels damp.
+Watering guidance: Avoid watering if the soil still feels moist from recent rain to prevent soggy conditions.
 
-One useful check: Inspect the undersides of fronds and the crown for any signs of scale or pests, even if none are obvious now.
+One useful check: Inspect the undersides of fronds and the crown for any early signs of scale or pests, especially since the weather is humid.
 
-Optional care improvement: If you want to boost airflow around the plant, consider slightly repositioning it or trimming any nearby plants that might block breeze.
+Optional care improvement: If you notice any fully brown or dead fronds, remove them gently to keep the plant tidy and healthy.
 
-Optional practical idea: Keep a small notebook or phone note to quickly jot down watering dates to avoid overwatering by accident.
+Optional practical idea: Consider moving the plant slightly if afternoon sun is too intense, as filtered light is safer for your sago in this heat and UV level.
 
 ------

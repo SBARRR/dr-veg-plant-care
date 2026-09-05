@@ -1,13 +1,15 @@
 Desert Rose
 
-Today, keep your Desert Rose dry and protected from the rain showers expected. Avoid watering since the soil is still recovering from recent rain and the plant is in a sensitive post-repot phase.
+Today, let the soil dry out a bit more before watering again since the recent weather has been warm but humid, and your plant is still recovering well from the root prune. Keep it in that bright spot with some filtered afternoon sun, but watch for any signs of softening in the caudex.
 
-Top priority/action for today: Do not water; keep the plant sheltered from direct rain to prevent soil saturation and potential rot.
+Top priority/action for today: Hold off on watering until the soil feels dry at least 2 inches down and the caudex feels firm to the touch.
 
-Watering guidance: Check the soil moisture by lifting the pot—if it feels heavy or the top inches are damp, hold off watering.
+Watering guidance: When you do water, soak thoroughly until water drains out, then let the pot drain completely; avoid watering if the soil still feels moist.
 
-One useful check: Gently press the caudex to ensure it remains firm and not soft or mushy.
+One useful check: Gently press the caudex and the soil surface to confirm firmness and dryness before deciding to water.
 
-Optional care idea: If you want to boost airflow around the plant, consider a gentle fan or repositioning it slightly to catch breezes without exposing it to heavy rain.
+Optional care improvement: Consider moving the plant to a spot with slightly more direct sun if you can safely increase its daily light to 5-6 hours without scorching.
+
+Optional practical idea: Keep an eye on the exposed caudex area for any soft spots or discoloration, especially after rain or high humidity.
 
 ------

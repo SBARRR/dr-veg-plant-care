@@ -1,15 +1,15 @@
 Desert Rose
 
-Today, let the soil dry out a bit more before watering again since the recent weather has been warm but humid, and your plant is still recovering well from the root prune. Keep it in that bright spot with some filtered afternoon sun, but watch for any signs of softening in the caudex.
+Today, hold off on watering since the soil should dry well after recent warm days and light drizzle. Keep the plant in its sunny spot to encourage steady growth, but watch for any signs of caudex softness or leaf issues as humidity remains high.
 
-Top priority/action for today: Hold off on watering until the soil feels dry at least 2 inches down and the caudex feels firm to the touch.
+Top priority/action for today: Check the caudex firmness carefully for any soft or mushy spots, especially near the exposed base tissue.
 
-Watering guidance: When you do water, soak thoroughly until water drains out, then let the pot drain completely; avoid watering if the soil still feels moist.
+Watering guidance: Do not water yet; wait until the soil is completely dry several inches down before watering deeply.
 
-One useful check: Gently press the caudex and the soil surface to confirm firmness and dryness before deciding to water.
+One useful check: Inspect leaves for any return of white splotches or pest signs on both upper and undersides.
 
-Optional care improvement: Consider moving the plant to a spot with slightly more direct sun if you can safely increase its daily light to 5-6 hours without scorching.
+Optional care improvement: Consider gently brushing off any dust or debris from leaves to improve photosynthesis and airflow.
 
-Optional practical idea: Keep an eye on the exposed caudex area for any soft spots or discoloration, especially after rain or high humidity.
+Optional practical idea: If you have a small fan or can position the plant for better airflow, it can help reduce humidity-related risks without moving it from its sunny spot.
 
 ------

@@ -1,15 +1,15 @@
 Desert Rose
 
-Today, hold off on watering since the soil is still moist from recent drizzle and humidity is high. Instead, give your Desert Rose a gentle check for any soft spots on the caudex or signs of pests, especially under leaves and at stem joints.
+Today, hold off on watering since the recent heavy rains and high humidity mean the soil is likely still moist. Keep the plant in bright light but sheltered from the violent rain showers to avoid waterlogging the shallow bonsai pot. Check the caudex firmness to ensure no soft spots have developed after the wet weather.
 
-Top priority/action for today: Inspect the caudex and stem base carefully for any soft, mushy areas or expanding discoloration.
+Top priority/action for today: Move the Desert Rose to a more sheltered spot during rain showers to prevent soil saturation and potential rot.
 
-Watering guidance: Do not water today; wait until the soil is dry several inches deep and caudex feels firm.
+Watering guidance: Do not water today; wait until the soil has dried well several inches deep before watering again.
 
-One useful check: Look under leaves and at new growth for any signs of pests like mealybugs or scale.
+One useful check: Gently press the caudex and base tissue to confirm it remains firm and not soft or mushy.
 
-Optional care improvement: If the plant is not yet getting 6+ hours of bright light, consider moving it to a sunnier spot gradually.
+Optional care improvement: Wipe any wet leaves gently to reduce fungal risk from high humidity.
 
-Optional practical idea: Since it’s on a patio table exposed to wind and rain, ensure the pot drains fully and isn’t sitting in any water after rain.
+Optional practical idea: Consider placing a small mesh screen or cover nearby to reduce direct rain impact while maintaining airflow.
 
 ------

@@ -1,15 +1,15 @@
 Southern Live Oak
 
-Today, keep the soil evenly moist but not soggy—check carefully since the oak is still recovering from transplant shock and root damage. Avoid fertilizing or pruning for now and focus on monitoring leaf condition and moisture levels.
+Today, skip watering since the soil is still moist from recent rain and the pot drains well. Keep the tree in its current bright outdoor spot with good airflow to support recovery and watch for any worsening of the orange spotting or browning. It’s a good day to gently inspect the soil surface and mulch to confirm no sogginess or compaction is developing.
 
-Top priority/action for today: Check soil moisture by feeling the top 2–3 inches and pot weight; water deeply only if the soil feels dry at that depth.
+Top priority/action for today: Hold off on watering to avoid soggy soil; let the soil surface dry slightly before next watering.
 
-Watering guidance: Water thoroughly until water drains freely from the bottom, then let the pot drain completely; do not let the pot sit in standing water.
+Watering guidance: Check the top 2–3 inches of soil for moisture before watering; water deeply only when the soil feels partially dry, never soggy.
 
-One useful check: Inspect the leaves for any new orange spots or browning and note if any new leaf drop or wilting occurs.
+One useful check: Look closely at the leaves for any increase in orange spots or browning and note if new growth looks healthy and firm.
 
-Optional care improvement: If you want to help airflow, gently brush away any debris from around the pot and keep the area clear to reduce humidity buildup.
+Optional care improvement: Consider gently fluffing the pine bark mulch to improve airflow around the trunk base without disturbing roots.
 
-Optional practical idea: Consider moving the pot to a spot with morning sun and afternoon shade to reduce heat stress during the hottest part of the day.
+Optional practical idea: Set a reminder to check soil moisture again in 3–4 days to catch any drying before it becomes too dry.
 
 ------

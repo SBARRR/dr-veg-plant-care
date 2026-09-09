@@ -1,15 +1,15 @@
 Southern Live Oak
 
-Today, skip watering since the soil is still moist from recent rain and the pot drains well. Keep the tree in its current bright outdoor spot with good airflow to support recovery and watch for any worsening of the orange spotting or browning. It’s a good day to gently inspect the soil surface and mulch to confirm no sogginess or compaction is developing.
+Today, let the soil dry a bit more before watering again since recent rain and humidity have kept it moist. Keep the tree in its current sunny spot but watch for any signs of heat stress or worsening leaf spots.
 
-Top priority/action for today: Hold off on watering to avoid soggy soil; let the soil surface dry slightly before next watering.
+Top priority/action for today: Check the soil moisture 2–3 inches deep and hold off watering unless it feels dry at that depth.
 
-Watering guidance: Check the top 2–3 inches of soil for moisture before watering; water deeply only when the soil feels partially dry, never soggy.
+Watering guidance: When watering, soak deeply until water drains out the bottom, then let the pot drain fully—don’t let it sit in standing water.
 
-One useful check: Look closely at the leaves for any increase in orange spots or browning and note if new growth looks healthy and firm.
+One useful check: Inspect the upper leaves for any increase in orange spotting or browning and note if new growth looks healthy or stressed.
 
-Optional care improvement: Consider gently fluffing the pine bark mulch to improve airflow around the trunk base without disturbing roots.
+Optional care improvement: Consider gently increasing airflow around the tree if possible to reduce leaf wetness and fungal risk.
 
-Optional practical idea: Set a reminder to check soil moisture again in 3–4 days to catch any drying before it becomes too dry.
+Optional practical idea: Mark your calendar to reassess fertilizer in early spring, avoiding feeding now while the tree is still recovering.
 
 ------

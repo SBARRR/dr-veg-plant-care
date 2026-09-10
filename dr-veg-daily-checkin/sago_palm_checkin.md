@@ -1,15 +1,15 @@
 Sago Palm
 
-Today, skip watering since recent rains likely kept the soil moist. Instead, give the plant some airflow by gently rotating the pot to prevent moisture buildup and reduce any lingering dampness from rain.
+Today, let the soil dry out a bit more before watering again since the pot is shallow and the weather is warm but humid. Keep an eye on the older yellowing fronds but don’t remove them yet unless they turn fully brown or come off easily.
 
-Top priority/action for today: Check the soil moisture by lifting the pot to feel its weight and poke 1–2 inches deep to confirm dryness before watering again.
+Top priority/action for today: Check the top 1–2 inches of soil moisture and only water if it feels dry and the pot feels noticeably lighter.
 
-Watering guidance: Only water when the top 1–2 inches of soil are dry and the pot feels noticeably lighter than after watering.
+Watering guidance: When watering, do so thoroughly until water drains out the bottom, then let the pot drain completely—never let it sit in standing water.
 
-One useful check: Inspect the undersides of fronds and the crown for any early signs of scale or pests, especially since humidity is high.
+One useful check: Inspect the undersides of fronds and the crown for any signs of scale or pests, especially since the plant is outdoors and exposed.
 
-Optional care improvement: If the plant is stable, consider moving it slightly to ensure it gets morning sun rather than harsh afternoon sun to avoid scorch.
+Optional care improvement: If you want, gently brush aside the top dressing to check soil moisture more accurately without disturbing roots.
 
-Optional practical idea: Remove any debris or wet leaves from the pot surface to keep the top dressing clean and dry.
+Optional practical idea: Consider moving the plant to a spot with morning sun and afternoon shade to reduce heat stress on the shallow pot.
 
 ------

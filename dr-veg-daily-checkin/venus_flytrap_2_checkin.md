@@ -1,15 +1,15 @@
 Venus Flytrap 2
 
-Today, keep the tray water level steady to maintain consistently wet media, especially with the warm weather and good sun exposure. This will support healthy trap function and growth without risking drying out in the small pot.
+Today, keep the tray water level steady to ensure the soil stays consistently wet but not flooded, especially with warm weather and moderate humidity. The plant is outdoors and getting good sun, so maintaining moisture without letting the media dry out is key.
 
-Top priority/action for today: Check the tray water level and add distilled or rainwater if it’s low to keep the soil wet but not flooded.
+Top priority/action for today: Refill the tray with distilled or rainwater if the water level is low or the soil feels less than damp.
 
-Watering guidance: Use only distilled, rain, or RO water for tray watering; avoid tap water.
+Watering guidance: Check that the soil media is wet to damp at all times—never dry or crunchy—and keep the shallow tray water fresh.
 
-One useful check: Inspect traps for any blackened or dead ones and remove only fully dead traps to keep the plant tidy.
+One useful check: Inspect traps and leaves for any signs of blackening or unusual dryness, removing only fully dead traps if found.
 
-Optional care improvement: If you notice the pot heating up in the sun, consider moving the plant to a spot with a bit of afternoon shade to prevent root stress.
+Optional care improvement: If the tray water looks dirty or stagnant, flush and replace it with fresh distilled or rainwater to keep roots happy.
 
-Optional practical idea: Since it’s catching natural bugs outdoors, no need to feed it manually—just enjoy the show!
+Optional practical idea: Place the pot where it gets morning sun but some afternoon shade if temperatures spike above 90°F to avoid overheating the roots in the small pot.
 
 ------

@@ -1,15 +1,15 @@
 Sago Palm
 
-Today, give your sago palm a good look over for any signs of pests, especially scale, since the warm, humid weather can encourage them. Hold off on watering unless the top 1–2 inches of soil feel dry, as recent rains likely kept it moist. If you spot any dead or fully brown fronds, feel free to prune them out to tidy up.
+Today, skip watering since the soil likely still holds moisture from recent rains and the humid conditions. Keep an eye on the yellowing fronds but leave them alone for now—they’re still attached and not fully dead. With the sun still strong, ensure the plant stays in bright but filtered light to avoid scorch.
 
-Top priority/action for today: Inspect the undersides of fronds and the crown carefully for any scale or other pests.
+Top priority/action for today: Do not water today; check soil moisture by feeling the top 1–2 inches before deciding next watering.
 
-Water only if the top 1–2 inches of soil feel dry and the pot feels lighter when lifted.
+Watering guidance: Water only when the top soil is dry and the pot feels noticeably lighter, then water thoroughly until drainage.
 
-Check that the drainage holes are clear and water is not collecting in the drip tray under the pot.
+One useful check: Inspect the undersides of fronds and the crown for any signs of scale or pests, especially since spotting was noted previously.
 
-(Optional) Gently brush off any dust or debris from the fronds to help the plant breathe better.
+Optional care improvement: If you want to reduce yellowing, gently brush off the white gravel to check for any salt buildup on the soil surface.
 
-(Optional) Consider moving the plant to a spot with morning sun rather than harsh afternoon sun if you notice any scorch signs.
+Optional practical idea: Consider moving the plant to a spot with morning sun rather than afternoon sun to reduce heat stress during the hottest hours.
 
 ------

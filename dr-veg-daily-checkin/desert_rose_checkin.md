@@ -1,13 +1,15 @@
 Desert Rose
 
-Today, hold off on watering since the soil should still be drying out after recent rains and warm weather. Keep the plant in bright light but watch for any signs of sun scorch as it adjusts to more direct sun exposure.
+Today is a good day to hold off on watering since your Desert Rose is still in recovery from the major root prune and repot. Keep it warm and let the soil dry out fully before the next watering to avoid any risk of rot, especially with the current humid and drizzly weather.
 
-Top priority/action for today: Check the caudex firmness gently to ensure it remains firm and not soft or mushy.
+Top priority/action for today: Do not water yet; continue to keep the soil completely dry to allow root recovery.
 
-Watering guidance: Do not water until the soil is completely dry several inches down; avoid watering on a schedule.
+Watering guidance: Check that the soil feels dry at least 2 inches down and the caudex is firm before watering again.
 
-One useful check: Look over the leaves and stems for any new spots, pests, or damage from wind exposure.
+One useful check: Feel the caudex for firmness and inspect the base for any soft spots or discoloration.
 
-Optional care idea: If you notice the plant is getting too much direct afternoon sun and showing signs of leaf scorch, consider moving it to a spot with a bit more filtered light during peak hours.
+Optional care improvement: If possible, move the plant to a spot with a bit more direct afternoon sun (up to 6 hours) once recovery is complete to encourage stronger growth.
+
+Optional practical idea: Set a reminder to recheck soil dryness and caudex firmness in 3–4 days to time the next watering perfectly.
 
 ------

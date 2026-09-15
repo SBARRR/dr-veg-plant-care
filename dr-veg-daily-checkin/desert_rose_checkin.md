@@ -1,15 +1,15 @@
 Desert Rose
 
-Today, keep your Desert Rose dry and protected from the rain since it’s still in recovery from the big root prune earlier this summer. Hold off on watering until the soil is fully dry and the caudex feels firm again, especially with the humid, rainy weather around.
+Today, hold off on watering since recent rain and high humidity mean the soil is likely still moist. Let the soil dry out well before the next deep watering to avoid root rot, especially after your recent repot and root pruning. Keep the plant in its sunny spot but watch for any signs of softness in the caudex, which could indicate overwatering or rot.
 
-Top priority/action for today: Do not water yet; continue to monitor the caudex firmness and soil dryness carefully before the next watering.
+Top priority/action for today: Do not water today; wait until the soil is dry several inches down before watering again.
 
-Watering guidance: Check the top few inches of soil and pot weight—only water when the soil is bone dry and the caudex is firm, never if it feels soft or mushy.
+Watering guidance: Check soil dryness by lifting the pot to feel its weight and probing the top 2-3 inches of soil for moisture before deciding to water.
 
-One useful check: Inspect the caudex and root collar for any new softness, discoloration, or unusual smells that could signal rot.
+One useful check: Gently press the caudex to confirm it feels firm and not soft or mushy, which would need immediate attention.
 
-Optional care improvement: If you haven’t already, consider moving the plant to a spot with slightly more direct afternoon sun (aim for 4-6 hours) once recovery is complete to encourage healthy growth.
+Optional care improvement: If you haven’t yet, consider gradually increasing direct sun exposure to reach 6+ hours daily for better growth and flowering.
 
-Optional practical idea: Since the plant is outdoors and exposed, keep an eye out for pests on new growth, especially after rain, but don’t treat unless you spot clear signs.
+Optional practical idea: Clear any debris or fallen leaves from the soil surface to improve airflow and reduce pest risk.
 
 ------

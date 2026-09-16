@@ -1,15 +1,15 @@
 Southern Live Oak
 
-Today, give your Southern Live Oak a deep watering to keep the soil evenly moist but not soggy, especially since it’s still recovering from transplant shock and root damage. Keep it in its current bright outdoor spot with good airflow to help prevent fungal issues and support steady recovery.
+Today, give your Southern Live Oak a deep watering since the soil is likely drying out after recent rain and warm weather. Keep it outside in its current spot with good airflow and about 5-6 hours of sun to support steady recovery without stressing it. Watch for any worsening of the orange spotting or browning on leaves and be ready to prune only fully dead parts if needed.
 
-Top priority/action for today: Deeply water the soil until water drains from the pot’s holes, then let it drain fully without sitting in water.
+Top priority/action for today: Deep water the tree thoroughly until water drains freely from the pot’s holes, then let it drain completely.
 
-Watering guidance: Check the top 2–3 inches of soil for moisture before watering again; it should feel slightly damp but not wet or bone dry.
+Watering guidance: Check the top 2–3 inches of soil for dryness before watering again; avoid letting the soil stay soggy or bone dry.
 
-One useful check: Inspect the upper leaves for any new orange spots or browning and note if any new growth looks limp or stressed.
+One useful check: Inspect the leaves for any new orange spots, browning, or wilting that might signal stress or fungal issues.
 
-Optional care improvement: Gently brush off any visible powdery residue on leaves with a soft cloth or spray of water to reduce fungal spores.
+Optional care improvement: Remove any fully dead or heavily spotted leaves to reduce fungal pressure without heavy pruning.
 
-Optional practical idea: Set a simple weekly reminder to check soil moisture and leaf condition to keep on top of watering and spotting issues without hassle.
+Optional practical idea: Consider gently lifting the pot off the stand briefly after watering to ensure no water is trapped underneath, preventing root rot.
 
 ------

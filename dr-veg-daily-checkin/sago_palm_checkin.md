@@ -1,15 +1,15 @@
 Sago Palm
 
-Today, let the soil dry out a bit before watering again since the recent rains have likely kept it moist. Keep an eye on the older yellowing fronds but don’t remove them yet unless they turn fully brown or pull away easily.
+Today, hold off on watering since the soil likely still retains moisture from recent rains and the pot’s shallow depth. Keep an eye on the older yellowing fronds but don’t remove them yet—they’re still helping the plant. With warm temps and decent airflow, just let it be and check moisture again in a few days.
 
-Top priority/action for today: Check the top 1–2 inches of soil moisture and only water if it feels dry and the pot feels light when lifted.
+Top priority/action for today: Skip watering today; wait until the top 1–2 inches of soil feel dry before watering again.
 
-Watering guidance: When watering, do so thoroughly until water drains from the bottom, then empty any collected water from the drip tray.
+Watering guidance: When watering, soak thoroughly until water drains out, then empty any drip tray water to avoid soggy roots.
 
-One useful check: Inspect the undersides of fronds and the crown for any signs of scale or pests, especially since spotting was noted previously.
+One useful check: Gently press the soil surface or lift the pot to gauge dryness and weight before deciding to water.
 
-Optional care improvement: If the plant is stable and actively growing, consider lightly cleaning the top dressing gravel to keep airflow good around the base.
+Optional care improvement: If you notice any new fronds looking weak or stretched, consider moving the plant to a spot with a bit more filtered morning sun.
 
-Optional practical idea: Position the plant so it gets morning or filtered sun rather than harsh afternoon rays to avoid scorch during warm days.
+Optional practical idea: Keep the decorative gravel clear of soil moisture to avoid hiding dampness that could cause root issues.
 
 ------

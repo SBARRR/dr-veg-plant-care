@@ -1,15 +1,15 @@
 Desert Rose
 
-Today, give your Desert Rose a thorough watering since the soil has had plenty of time to dry out after repotting and the warm weather supports active growth. Keep it in its sunny patio spot but watch for any signs of softening caudex tissue as a quick check for root health.
+Today, give your Desert Rose a thorough check for any soft spots on the caudex or stem, especially near the exposed base tissue, since it’s been a while since the last detailed look. Hold off on watering unless the soil feels fully dry several inches down, as the weather is warm but humid, which slows drying a bit.
 
-Top priority/action for today: Water deeply until water drains freely from the bottom, then let the pot drain completely without sitting in water.
+Top priority/action for today: Gently press the caudex and base tissue to confirm firmness and no mushy spots, especially where the caudex is exposed.
 
-Watering guidance: Only water when the soil is dry several inches down and the caudex feels firm, not soft or mushy.
+Watering guidance: Only water if the soil is dry at least 2 inches deep and the caudex feels firm but slightly wrinkled, indicating thirst.
 
-One useful check: Gently squeeze the caudex to confirm it is firm and not soft or shriveled.
+One useful check: Look under leaves and stem joints for any signs of pests like spider mites or scale.
 
-Optional care improvement: Consider moving it to a spot with a bit more direct afternoon sun if possible to boost flowering and compact growth.
+Optional care improvement: If the plant is firm and dry, consider moving it to a spot with a bit more direct afternoon sun to boost growth and flowering.
 
-Optional practical idea: Remove any fallen leaves from the pot surface to prevent moisture buildup and pests.
+Optional practical idea: Remove any fallen leaves or debris from the pot surface to improve airflow and reduce pest risk.
 
 ------

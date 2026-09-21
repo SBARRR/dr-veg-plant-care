@@ -1,15 +1,15 @@
 Southern Live Oak
 
-Today, focus on checking the soil moisture carefully and watering deeply only if the top 2–3 inches feel dry. The weather is warm but humid with no rain expected, so keep the soil evenly moist without letting it get soggy to support recovery. Avoid fertilizing or pruning for now since the tree is still stabilizing after transplant.
+Today, keep the soil evenly moist but not soggy since the oak is still recovering from transplant shock and root damage. With the warm, humid weather and some drizzle, skip watering unless the top 2–3 inches of soil feel dry to the touch.
 
-Top priority/action for today: Check the top 2–3 inches of soil for dryness and water deeply if dry, letting excess drain fully.
+Top priority/action for today: Check soil moisture by feeling the top 2–3 inches and only water deeply if it feels dry, ensuring water drains freely from the pot.
 
-Watering guidance: Use tap or rainwater to water thoroughly until water drains from the bottom, then do not water again until the soil surface feels dry.
+Watering guidance: When watering, soak thoroughly until water drains out the bottom, then let the pot drain completely; avoid watering on a fixed schedule.
 
-One useful check: Inspect the upper leaves for any new orange spots or browning and note if leaf posture looks healthy or wilted.
+One useful check: Inspect new growth for any signs of worsening orange spotting or browning and note if leaf posture remains firm and healthy.
 
-Optional care improvement: Ensure the pot is not sitting in any standing water to prevent root rot.
+Optional care improvement: Consider gently increasing airflow around the tree if possible to reduce humidity on leaves and discourage fungal issues.
 
-Optional practical idea: Consider gently brushing off any visible powdery residue on leaves to reduce fungal spores without spraying chemicals.
+Optional practical idea: Mark a simple watering reminder in your calendar only if the soil feels dry in the next few days to avoid overwatering during recovery.
 
 ------

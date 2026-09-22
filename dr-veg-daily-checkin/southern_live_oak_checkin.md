@@ -1,15 +1,15 @@
 Southern Live Oak
 
-Today, keep the soil evenly moist but not soggy since the oak is still recovering from transplant shock and root damage. With the warm, humid weather and some drizzle, skip watering unless the top 2–3 inches of soil feel dry to the touch.
+Today, give your Southern Live Oak a deep watering to keep the soil evenly moist but not soggy, especially since it’s recovering from transplant shock and the recent slight rain was minimal. Keep it in its current bright outdoor spot with good airflow to help it stabilize and watch for any worsening of those orange spots or browning leaves.
 
-Top priority/action for today: Check soil moisture by feeling the top 2–3 inches and only water deeply if it feels dry, ensuring water drains freely from the pot.
+Top priority/action for today: Deeply water the soil until water drains from the bottom, then let it drain fully without leaving the pot sitting in water.
 
-Watering guidance: When watering, soak thoroughly until water drains out the bottom, then let the pot drain completely; avoid watering on a fixed schedule.
+Watering guidance: Check the top 2–3 inches of soil moisture before watering again; aim for steady moisture without sogginess.
 
-One useful check: Inspect new growth for any signs of worsening orange spotting or browning and note if leaf posture remains firm and healthy.
+One useful check: Inspect the leaves for any new orange spotting or browning and note if any new shoots look limp or wilted.
 
-Optional care improvement: Consider gently increasing airflow around the tree if possible to reduce humidity on leaves and discourage fungal issues.
+Optional care improvement: Gently remove any fully dead leaves to reduce stress and improve airflow around the canopy.
 
-Optional practical idea: Mark a simple watering reminder in your calendar only if the soil feels dry in the next few days to avoid overwatering during recovery.
+Optional practical idea: Consider moving the pot slightly if you notice any afternoon leaf scorch, but avoid sudden big changes in light exposure right now.
 
 ------

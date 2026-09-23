@@ -1,15 +1,15 @@
 Sago Palm
 
-Today, skip watering since recent rain likely kept the soil moist. Instead, keep an eye on soil dryness and airflow to prevent soggy conditions in your shallow bonsai pot. With warm temps and some sun, your sago is happy to just chill for now.
+Today, let the rain and humidity do most of the watering work since your sago is outside and had some rain recently. Check the soil moisture before adding water to avoid overwatering in your shallow bonsai pot, especially with the humid, rainy weather expected.
 
-Top priority/action for today: Check the top 1–2 inches of soil for dryness before considering any watering.
+Top priority/action for today: Check the top 1–2 inches of soil for dryness before deciding to water; if it feels dry, water thoroughly until drainage.
 
-Watering guidance: If the soil feels dry and the pot is noticeably lighter, water thoroughly until drainage occurs, then let excess drain away.
+Watering guidance: Do not water if the soil still feels moist from recent rain to prevent soggy roots.
 
-One useful check: Inspect the undersides of fronds and crown for any early signs of scale or pests, especially since you’ve had spotting before.
+One useful check: Inspect the undersides of fronds and the crown for any early signs of scale or pests, especially since you’ve had spotting on older fronds.
 
-Optional care improvement: Gently brush off any debris from the top dressing to keep airflow good around the base.
+Optional care improvement: If you notice any fully brown fronds, gently remove those to tidy the plant and improve airflow.
 
-Optional practical idea: Consider moving the plant to a spot with morning sun rather than afternoon to reduce scorch risk during these warm days.
+Optional practical idea: Consider moving the plant to a spot with filtered morning sun rather than harsh afternoon sun to reduce scorch risk during these warm days.
 
 ------

@@ -1,15 +1,15 @@
 Venus Flytrap 2
 
-Today, keep the tray water level steady to maintain consistently wet media without flooding, especially after recent rain and warm weather. Make sure the plant continues to get plenty of bright light but avoid overheating in the small pot.
+Today, top off the tray with distilled or rainwater to keep the soil consistently wet without flooding it. The warm, sunny day with moderate humidity is perfect for your flytrap to soak up light and stay hydrated. Keep an eye on the tray water level so it doesn’t dry out or become stagnant.
 
-Top priority/action for today: Check the water level in the tray and add distilled or rainwater if it’s low to keep the soil consistently wet but not soggy.
+Top priority/action for today: Add distilled or rainwater to the tray to maintain a shallow, wet reservoir without flooding.
 
-Watering guidance: Use only distilled, rain, or RO water to refill the tray; avoid tap water or letting the media dry out.
+Watering guidance: Check the soil moisture by touching the media—it should feel wet or damp, never dry or crunchy.
 
-One useful check: Inspect traps for any blackening or damage and remove only fully dead traps to keep the plant tidy.
+One useful check: Inspect traps for any blackened or fully dead ones and remove those to keep the plant tidy.
 
-Optional care improvement: If the pot feels very warm in the sun, consider moving it to a spot with morning sun and afternoon shade to prevent heat stress.
+Optional care improvement: If you notice any slow or floppy growth, consider moving it to a spot with a bit more direct sunlight for stronger traps.
 
-Optional practical idea: Gently shake the plant occasionally to encourage natural insect visits outdoors without triggering traps unnecessarily.
+Optional practical idea: Since it’s still in the original small pot, plan to repot next late winter or early spring if the media looks compacted or roots crowd the pot.
 
 ------

@@ -1,15 +1,15 @@
 Sago Palm
 
-Today, let the soil dry out a bit before watering again since recent rains likely kept it moist. Keep an eye on those older yellowing fronds but don’t remove them yet—they’re still helping the plant. With mild sun and good airflow, your sago is in a good spot for steady health.
+Today, let the soil dry out a bit before watering again since your sago palm had recent rain and the pot is shallow, which dries fast but can also hold moisture unevenly. Keep an eye on those older yellow fronds—no rush to remove them unless they turn fully brown or come off easily. With the clear skies and warm temps, your plant is happy where it is, so no need to move it.
 
-Top priority/action for today: Check the soil moisture about 1–2 inches down and only water if it feels dry to the touch.
+Top priority/action for today: Check the top 1–2 inches of soil moisture and only water if it feels dry and the pot feels light when lifted.
 
-Watering guidance: When watering, do so thoroughly until water drains out, then let the pot drain completely—no standing water.
+Watering guidance: When watering, do so thoroughly until water drains out the bottom, then empty any collected water from the drip tray to avoid soggy roots.
 
-One useful check: Gently tug on any yellowing fronds to confirm they’re still firmly attached; leave them unless they pull away easily.
+One useful check: Give the older yellowing fronds a gentle tug to see if they’re loosening or still firmly attached; leave them unless they pull away easily.
 
-Optional care improvement: Brush away the top dressing near the soil surface occasionally to spot any hidden moisture or pests.
+Optional care improvement: If you want to freshen the look, remove only fully brown fronds, but avoid green or partly yellow ones to keep your sago healthy.
 
-Optional practical idea: If you notice any scale or pests later, check the undersides of fronds carefully before deciding on treatment.
+Optional practical idea: Consider setting a simple reminder to check soil moisture weekly, so watering stays on track without guesswork.
 
 ------

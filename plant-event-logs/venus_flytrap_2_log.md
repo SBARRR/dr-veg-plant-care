@@ -39,6 +39,14 @@
 ## Recent Events
 <!-- Rolling event log for this plant. Keep newest 30 entries only. Newest entry goes at the top. When adding entry #31, delete the oldest entry. -->
 
+### 2026-10-12 — Lizard discovery
+
+- Summary: Discovered a lizard caught in Nex's trap.
+
+- Details: About half of the lizard's body was inside the trap.
+
+- Outcome: The lizard was dead and Nex ate it.
+
 ### 2026-07-23 — Outdoor Move / First Overnight Outside
 
 - Summary: Venus Flytrap was moved outside to the open outdoor spot and will remain outside.

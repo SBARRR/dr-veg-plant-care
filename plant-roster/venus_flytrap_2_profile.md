@@ -11,7 +11,7 @@
 - Plant type: Carnivorous plant
   <!-- Broad category such as succulent, cycad, carnivorous plant, tree, tropical foliage, etc. -->
 
-- Nickname:
+- Nickname: Nex Lacertis
   <!-- Optional personal nickname for this specific plant. Leave blank if none. -->
 
 ## Acquisition
